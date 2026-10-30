@@ -114,3 +114,4 @@ section.block { padding: 36px 0; border-top: 1px solid var(--line); }
 .mini .badge { display: inline-block; font-size: .7rem; border: 1px dashed #c9a35a; border-radius: 999px; padding: 0 8px; margin-left: 6px; color: #6b4a00; vertical-align: middle; }
 .draft-note { background: #dfe8f3; border-color: #6d8bb3; }
 .mini .badge.draft { border-color: #6d8bb3; color: #2c4a72; }
+.price-note { flex-basis: 100%; margin: 4px 0 0; font-size: .85rem; opacity: .9; }

@@ -93,7 +93,15 @@ export function mapSpiritCard(d, file = "") {
     base_ingredient: d.base_ingredient || null,
     cask: d.cask || null,
     year_founded: num(d.year_founded),
-    price: { min: num(d.price_vnd_min), max: num(d.price_vnd_max), updated: date(d.price_updated) },
+    price: {
+      min: num(d.price_vnd_min),
+      max: num(d.price_vnd_max),
+      updated: date(d.price_updated),
+      // false = không bán tại Việt Nam, giá là quy đổi từ giá nước ngoài
+      availableVN: d.price_vn_available !== false,
+      foreign: d.price_foreign || null,   // ví dụ "35 USD"
+      fx: d.fx_rate || null,              // ví dụ "1 USD = 25.990 VND"
+    },
     tier: d.tier || "Tiêu chuẩn",
     rating_10: num(d.rating_10),
     tasted_date: date(d.tasted_date),
@@ -148,6 +156,8 @@ function backlogCards() {
       const c = mapSpiritCard({
         name: r.name, category, sub_category: r.type, producer: r.producer,
         country: r.country, year_founded: r.year, status: "Published",
+        price_vnd_min: r.price_vnd_min, price_vnd_max: r.price_vnd_max, price_updated: r.price_updated,
+        price_vn_available: r.price_vn_available, price_foreign: r.price_foreign, fx_rate: r.fx_rate,
       }, file);
       out.push({ ...c, isTest: true, backlogStatus: r.status || null, backlogNote: r.note || null });
     }

@@ -11,15 +11,16 @@ brand: Tanqueray
 producer: Cameronbridge Distillery (Diageo)
 country: Anh (UK)              # [cần kiểm tra] ghi đúng theo nhãn chai
 region: Fife, Scotland
-abv:                            # [cần kiểm tra] nồng độ chai nhập khẩu tại Việt Nam
+abv: 47.3                       # theo 4 nhà bán lẻ tại VN (sanhruou, winecity, ruousi, ruoutot); đối chiếu nhãn chai
 volume_ml: 750
 base_ingredient: Ngũ cốc
 year_founded: 1830
-price_vnd_min:                  # [cần kiểm tra]
-price_vnd_max:                  # [cần kiểm tra]
-price_updated:
+price_vnd_min: 420000           # sanhruou.com
+price_vnd_max: 530000           # ruoutot.net (giá sale); winecity 463.000, ruousi 450.000
+price_updated: 2026-10-31
+price_vn_available: true
 tier: Tiêu chuẩn
-status: Draft                   # Backlog / Draft / Reviewed / Published / Archived
+status: Draft                       # Backlog / Draft / Reviewed / Published / Archived
 
 # ---------- Mục 1. Lịch sử & sản xuất ----------
 history_summary_vi: Gần 200 năm, công thức bốn botanicals của Tanqueray gần như không đổi và trở thành chuẩn tham chiếu cho dòng London Dry.

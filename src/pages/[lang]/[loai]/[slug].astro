@@ -95,8 +95,15 @@ const has4 = (P(card.pairing) || []).length > 0;
       </dl>
       <div class="price">
         <span>{t.price}</span>
-        <strong>{priceText ?? t.tbc}</strong>
+        <strong>{priceText ? (card.price.availableVN ? priceText : `≈ ${priceText}`) : t.tbc}</strong>
         {card.price.updated && <small>{t.priceUpdated} {card.price.updated}</small>}
+        {priceText && !card.price.availableVN && (
+          <p class="price-note">
+            <b>{t.notInVN}</b>
+            {card.price.foreign && <> {t.convertedFrom(card.price.foreign)}</>}
+            {card.price.fx && <> ({card.price.fx})</>}
+          </p>
+        )}
       </div>
     </header>
 
