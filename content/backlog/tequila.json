@@ -168,7 +168,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1616 (thêm 1500). Los Valles."
+  "note": "NOM 1616 (thêm 1500). Los Valles.",
+  "price_vnd_min": 1750000,
+  "price_vnd_max": 1750000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Código 1530 Rosa",
@@ -177,7 +184,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1616. Blanco nghỉ khoảng 1 tháng trong thùng vang Cabernet Napa → màu hồng. Về luật vẫn là blanco vì nghỉ dưới 2 tháng."
+  "note": "NOM 1616. Blanco nghỉ khoảng 1 tháng trong thùng vang Cabernet Napa → màu hồng. Về luật vẫn là blanco vì nghỉ dưới 2 tháng.",
+  "price_vnd_min": 2005000,
+  "price_vnd_max": 2005000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Don Fulano Blanco",
@@ -204,7 +218,15 @@
   "country": "Mexico (Jalisco)",
   "year": 1942,
   "status": "Còn lưu hành",
-  "note": "NOM 1449. 1942 = năm Don Julio González bắt đầu làm tequila (năm gốc thương hiệu)."
+  "note": "NOM 1449. 1942 = năm Don Julio González bắt đầu làm tequila (năm gốc thương hiệu).",
+  "price_vnd_min": 1150000,
+  "price_vnd_max": 1650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Don Ramón Plata",
@@ -357,7 +379,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. Dòng 100% agave của Cuervo."
+  "note": "NOM 1122. Dòng 100% agave của Cuervo.",
+  "price_vnd_min": 950000,
+  "price_vnd_max": 950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "LALO Blanco",
@@ -456,7 +485,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Cần xác minh",
-  "note": "NOM 1122. Chưa xác minh năm ra mắt."
+  "note": "NOM 1122. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 1795000,
+  "price_vnd_max": 1795000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Roca Patrón Silver",
@@ -726,7 +762,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1616."
+  "note": "NOM 1616.",
+  "price_vnd_min": 2450000,
+  "price_vnd_max": 2450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Don Julio Reposado",
@@ -735,7 +778,15 @@
   "country": "Mexico (Jalisco)",
   "year": 1942,
   "status": "Còn lưu hành",
-  "note": "NOM 1449. Năm gốc thương hiệu."
+  "note": "NOM 1449. Năm gốc thương hiệu.",
+  "price_vnd_min": 1500000,
+  "price_vnd_max": 1690000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "ruoutot.net"
+  ]
  },
  {
   "name": "el Jimador Reposado",
@@ -807,7 +858,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. Nhãn phổ biến tại thị trường Mexico."
+  "note": "NOM 1122. Nhãn phổ biến tại thị trường Mexico.",
+  "price_vnd_min": 1475000,
+  "price_vnd_max": 1475000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Herencia de Plata Reposado",
@@ -1077,7 +1135,15 @@
   "country": "Mexico (Jalisco)",
   "year": 2002,
   "status": "Còn lưu hành",
-  "note": "NOM 1449. Ra 2002 kỷ niệm 60 năm Don Julio vào nghề; tên theo năm 1942."
+  "note": "NOM 1449. Ra 2002 kỷ niệm 60 năm Don Julio vào nghề; tên theo năm 1942.",
+  "price_vnd_min": 3700000,
+  "price_vnd_max": 5950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Don Julio Añejo",
@@ -1086,7 +1152,15 @@
   "country": "Mexico (Jalisco)",
   "year": 1942,
   "status": "Còn lưu hành",
-  "note": "NOM 1449. Năm gốc thương hiệu."
+  "note": "NOM 1449. Năm gốc thương hiệu.",
+  "price_vnd_min": 1800000,
+  "price_vnd_max": 2080000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "ruoutot.net"
+  ]
  },
  {
   "name": "el Jimador Añejo",
@@ -1347,7 +1421,14 @@
   "country": "Mexico (Jalisco)",
   "year": 1995,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. Ra mắt 1995, kỷ niệm 200 năm giấy phép của nhà Cuervo (1795). Hộp gỗ vẽ tranh nghệ sĩ, mỗi năm một bản."
+  "note": "NOM 1122. Ra mắt 1995, kỷ niệm 200 năm giấy phép của nhà Cuervo (1795). Hộp gỗ vẽ tranh nghệ sĩ, mỗi năm một bản.",
+  "price_vnd_min": 3850000,
+  "price_vnd_max": 3850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Siete Leguas D'Antaño",
@@ -1410,7 +1491,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. Mixto màu vàng — màu chủ yếu từ caramel, không phải do ủ lâu."
+  "note": "NOM 1122. Mixto màu vàng — màu chủ yếu từ caramel, không phải do ủ lâu.",
+  "price_vnd_min": 480000,
+  "price_vnd_max": 480000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Jose Cuervo Especial Silver",
@@ -1446,7 +1534,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122 / 1612. Añejo lọc than mất màu."
+  "note": "NOM 1122 / 1612. Añejo lọc than mất màu.",
+  "price_vnd_min": 1780000,
+  "price_vnd_max": 1780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Don Julio 70",
@@ -1491,7 +1586,14 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. Pha reposado, añejo, extra añejo rồi lọc mất màu — thường được nhắc là một trong những cristalino đầu tiên. Chưa xác minh năm ra mắt."
+  "note": "NOM 1122. Pha reposado, añejo, extra añejo rồi lọc mất màu — thường được nhắc là một trong những cristalino đầu tiên. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 1950000,
+  "price_vnd_max": 1950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoutot.net"
+  ]
  },
  {
   "name": "Mijenta Cristalino",

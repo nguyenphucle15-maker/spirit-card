@@ -636,7 +636,14 @@
   "country": "Venezuela",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Diplomático Planas",
@@ -645,7 +652,14 @@
   "country": "Venezuela",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Diplomático Reserva Exclusiva",
@@ -654,7 +668,14 @@
   "country": "Venezuela",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Diplomático Single Vintage",
@@ -771,7 +792,14 @@
   "country": "Brazil",
   "year": 1959,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 540000,
+  "price_vnd_max": 540000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Germana Heritage",
@@ -888,7 +916,14 @@
   "country": "Mỹ",
   "year": null,
   "status": "Cần xác minh",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Plantation Pineapple Stiggins' Fancy",
@@ -897,7 +932,14 @@
   "country": "Pháp",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Bacardi Coconut",
@@ -933,7 +975,14 @@
   "country": "Anh (UK)",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 700000,
+  "price_vnd_max": 700000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Old J Spiced Rum",
@@ -969,7 +1018,14 @@
   "country": "Mỹ",
   "year": 1999,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 750000,
+  "price_vnd_max": 750000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Bacardi Oakheart Spiced",
@@ -996,7 +1052,15 @@
   "country": "Quần đảo Virgin thuộc Mỹ",
   "year": 1984,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 419000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Chairman's Reserve Spiced",
@@ -1014,7 +1078,14 @@
   "country": "Trinidad & Tobago",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 820000,
+  "price_vnd_max": 820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Malibu Original Coconut",
@@ -1023,7 +1094,15 @@
   "country": "Barbados",
   "year": 1980,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 400000,
+  "price_vnd_max": 419000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Legendario Elixir de Cuba",
@@ -1104,7 +1183,14 @@
   "country": "Cộng hòa Dominica",
   "year": 1888,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 567000,
+  "price_vnd_max": 567000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "winecity.vn"
+  ]
  },
  {
   "name": "Bacardi Carta Blanca (sản xuất tại Cuba)",
@@ -1122,7 +1208,14 @@
   "country": "Cuba",
   "year": 1934,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 380000,
+  "price_vnd_max": 380000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Havana Club Añejo Especial",
@@ -1131,7 +1224,15 @@
   "country": "Cuba",
   "year": 2003,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 400000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Bacardi Carta Blanca / Superior",
@@ -1140,7 +1241,14 @@
   "country": "Puerto Rico (Mỹ)",
   "year": 1862,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 450000,
+  "price_vnd_max": 450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Don Q Cristal",
@@ -1401,7 +1509,14 @@
   "country": "Cuba",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 800000,
+  "price_vnd_max": 800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Havana Club Maximo Extra Añejo",
@@ -1419,7 +1534,14 @@
   "country": "Cuba",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1900000,
+  "price_vnd_max": 1900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Havana Club Tributo Collection",
@@ -1437,7 +1559,14 @@
   "country": "Cuba",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 8400000,
+  "price_vnd_max": 8400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "winecity.vn"
+  ]
  },
  {
   "name": "Ron Caney Carta Blanca",
@@ -1554,7 +1683,14 @@
   "country": "Nicaragua",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Ron Flor de Cana 18 Años Centenario Gold",
@@ -1563,7 +1699,14 @@
   "country": "Nicaragua",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1600000,
+  "price_vnd_max": 1600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Ron Flor de Cana 25 Años Centenario",
@@ -1581,7 +1724,14 @@
   "country": "Nicaragua",
   "year": 1890,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Ron Flor de Cana 5 Años Black Label",
@@ -1599,7 +1749,14 @@
   "country": "Nicaragua",
   "year": 1890,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 680000,
+  "price_vnd_max": 680000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Malecón Reserva Imperial 21",
@@ -1725,7 +1882,14 @@
   "country": "Puerto Rico (Mỹ)",
   "year": 1862,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Caliche Rum",
@@ -1959,7 +2123,14 @@
   "country": "Barbados",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Plantation Barbados XO 20th Anniversary",
@@ -1968,7 +2139,14 @@
   "country": "Barbados",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1900000,
+  "price_vnd_max": 1900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "R.L. Seale's 10 Year",
@@ -2211,7 +2389,14 @@
   "country": "Pháp",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 800000,
+  "price_vnd_max": 800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Plantation Fiji 2009",
@@ -2229,7 +2414,14 @@
   "country": "Pháp",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 800000,
+  "price_vnd_max": 800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Plantation Xaymaca Special Dry",
@@ -2265,7 +2457,14 @@
   "country": "Quần đảo Virgin thuộc Mỹ",
   "year": 1760,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 300000,
+  "price_vnd_max": 300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Cruzan Single Barrel Estate Diamond",
@@ -2427,7 +2626,14 @@
   "country": "Barbados",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 980000,
+  "price_vnd_max": 980000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Mount Gay Eclipse",
@@ -2436,7 +2642,14 @@
   "country": "Barbados",
   "year": 1703,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Mount Gay Pot Still Rum",
@@ -2580,7 +2793,14 @@
   "country": "Jamaica",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 450000,
+  "price_vnd_max": 450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Long Pond TECA / ITP",
@@ -3201,7 +3421,14 @@
   "country": "Philippines",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1550000,
+  "price_vnd_max": 1550000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Don Papa Baroko",
@@ -3291,7 +3518,14 @@
   "country": "Úc",
   "year": 1888,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 480000,
+  "price_vnd_max": 480000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Bundaberg Select Vat 207",
@@ -3426,7 +3660,14 @@
   "country": "Cộng hòa Dominica",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 560000,
+  "price_vnd_max": 560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Matusalem Platino",
@@ -3516,7 +3757,14 @@
   "country": "Puerto Rico (Mỹ)",
   "year": 1862,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 450000,
+  "price_vnd_max": 450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Don Q Gold",
@@ -3552,7 +3800,14 @@
   "country": "Jamaica",
   "year": 1879,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 500000,
+  "price_vnd_max": 500000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Bacardi Carta Negra / Black",
@@ -3561,7 +3816,14 @@
   "country": "Puerto Rico (Mỹ)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Captain Morgan Dark Rum",
@@ -3570,7 +3832,15 @@
   "country": "Quần đảo Virgin thuộc Mỹ",
   "year": 1944,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 419000,
+  "price_vnd_max": 440000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Cruzan Black Strap Rum",
@@ -3651,7 +3921,14 @@
   "country": "Pháp",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1150000,
+  "price_vnd_max": 1150000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Bacardi 151",
@@ -3840,7 +4117,14 @@
   "country": "Guatemala",
   "year": 1976,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1250000,
+  "price_vnd_max": 1250000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Ron Zacapa Edicion Negra",
@@ -3867,7 +4151,15 @@
   "country": "Guatemala",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2500000,
+  "price_vnd_max": 2756000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Cartavio Solera 12",
@@ -4434,7 +4726,14 @@
   "country": "Việt Nam",
   "year": null,
   "status": "Cần xác minh",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Sampan Rhum Vieux / XO",

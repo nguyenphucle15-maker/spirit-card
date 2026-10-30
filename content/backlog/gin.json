@@ -51,7 +51,15 @@
   "country": "Anh (UK)",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 920000,
+  "price_vnd_max": 950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Beefeater Crown Jewel",
@@ -69,7 +77,15 @@
   "country": "Anh (UK)",
   "year": 1863,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 380000,
+  "price_vnd_max": 480000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Bombay Original Dry Gin",
@@ -87,7 +103,14 @@
   "country": "Anh (UK)",
   "year": 1987,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Bombay Sapphire East",
@@ -105,7 +128,14 @@
   "country": "Anh (UK)",
   "year": 1845,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 530000,
+  "price_vnd_max": 530000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Booth's Finest Old Dry Gin",
@@ -204,7 +234,15 @@
   "country": "Anh (UK)",
   "year": 1769,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 320000,
+  "price_vnd_max": 340000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Greenall's Original London Dry",
@@ -213,7 +251,14 @@
   "country": "Anh (UK)",
   "year": 1761,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Half Hitch Gin",
@@ -294,7 +339,14 @@
   "country": "Anh (UK)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Star of Bombay",
@@ -303,7 +355,15 @@
   "country": "Anh (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1050000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Tanqueray Export Strength 47.3%",
@@ -321,7 +381,18 @@
   "country": "Anh (UK)",
   "year": 1830,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 580000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "ruousi.vn",
+   "ruoutot.net",
+   "sanhruou.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Thomas Dakin Small Batch Gin",
@@ -366,7 +437,14 @@
   "country": "Hà Lan / Anh",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Cork Dry Gin",
@@ -564,7 +642,15 @@
   "country": "Anh (UK)",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 550000,
+  "price_vnd_max": 550000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Bombay Citron Presse",
@@ -690,7 +776,14 @@
   "country": "Anh (UK)",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Tanqueray Flor de Sevilla",
@@ -699,7 +792,14 @@
   "country": "Anh (UK)",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 650000,
+  "price_vnd_max": 650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Tanqueray Rangpur",
@@ -816,7 +916,14 @@
   "country": "Anh (UK)",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Whitley Neill Rhubarb & Ginger",
@@ -825,7 +932,14 @@
   "country": "Anh (UK)",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Dillon's Cherry Gin",
@@ -897,7 +1011,14 @@
   "country": "Úc",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1100000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Malfy Gin Con Arancia",
@@ -1023,7 +1144,14 @@
   "country": "Anh (UK)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 980000,
+  "price_vnd_max": 980000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Sloemotion Sloe Gin",
@@ -1041,7 +1169,14 @@
   "country": "Đức",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1980000,
+  "price_vnd_max": 1980000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Herno Sloe Gin",
@@ -1248,7 +1383,14 @@
   "country": "Anh (UK)",
   "year": 1793,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 800000,
+  "price_vnd_max": 800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Gin de Mahon Xoriguer",
@@ -1365,7 +1507,14 @@
   "country": "Pháp",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1750000,
+  "price_vnd_max": 1750000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Herno Old Tom Gin",
@@ -1554,7 +1703,14 @@
   "country": "Ấn Độ",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1150000,
+  "price_vnd_max": 1150000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Terai India Dry Gin",
@@ -1662,7 +1818,14 @@
   "country": "Anh (UK)",
   "year": 2006,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 550000,
+  "price_vnd_max": 550000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Chase GB Extra Dry Gin",
@@ -1761,7 +1924,14 @@
   "country": "Anh (UK)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 950000,
+  "price_vnd_max": 950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Oxley Cold Distilled London Dry",
@@ -1896,7 +2066,14 @@
   "country": "Anh (UK)",
   "year": 2005,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Monopolowa Vodka & Gin",
@@ -2391,7 +2568,14 @@
   "country": "Ireland",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1000000,
+  "price_vnd_max": 1000000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Glendalough Wild Botanical Gin",
@@ -2850,7 +3034,14 @@
   "country": "New Zealand",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1100000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Scapegrace Gold",
@@ -2859,7 +3050,14 @@
   "country": "New Zealand",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1250000,
+  "price_vnd_max": 1250000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Arctic Blue Gin",
@@ -2904,7 +3102,14 @@
   "country": "Pháp",
   "year": 1996,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Citadelle Jardin d'Ete",
@@ -3003,7 +3208,14 @@
   "country": "Scotland (UK)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Crossbill Highland Dry Gin",
@@ -3084,7 +3296,14 @@
   "country": "Scotland (UK)",
   "year": 2023,
   "status": "Bản giới hạn / đã hết",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1600000,
+  "price_vnd_max": 1600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Hendrick's Grand Cabaret",
@@ -3102,7 +3321,14 @@
   "country": "Scotland (UK)",
   "year": 2020,
   "status": "Bản giới hạn / đã hết",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1250000,
+  "price_vnd_max": 1250000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Hendrick's Midsummer Solstice",
@@ -3120,7 +3346,14 @@
   "country": "Scotland (UK)",
   "year": 2022,
   "status": "Bản giới hạn / đã hết",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1250000,
+  "price_vnd_max": 1250000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Hendrick's Orbium",
@@ -3246,7 +3479,14 @@
   "country": "Scotland (UK)",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 960000,
+  "price_vnd_max": 960000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Brass Lion Singapore Dry Gin",
@@ -3327,7 +3567,14 @@
   "country": "Tây Ban Nha",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Santamania Reserva Gin",
@@ -3579,7 +3826,14 @@
   "country": "Việt Nam",
   "year": 2019,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Song Cai Dry Gin",
@@ -3588,7 +3842,15 @@
   "country": "Việt Nam",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 960000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Song Cai Floral Gin",
@@ -3597,7 +3859,14 @@
   "country": "Việt Nam",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1100000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Aber Falls Welsh Dry Gin",
@@ -3633,7 +3902,14 @@
   "country": "Ý",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2300000,
+  "price_vnd_max": 2300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Marconi 46",
@@ -3678,7 +3954,14 @@
   "country": "Anh (UK)",
   "year": 2000,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1100000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Monkey 47 Schwarzwald Dry Gin",
@@ -3687,7 +3970,15 @@
   "country": "Đức",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1920000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Aviation American Gin",
@@ -3705,7 +3996,15 @@
   "country": "Scotland (UK)",
   "year": 1999,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 1000000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Empress 1908 Indigo Gin",
@@ -3831,7 +4130,14 @@
   "country": "Nhật Bản",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1600000,
+  "price_vnd_max": 1600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Ki No Tea Kyoto Dry Gin",
@@ -3885,7 +4191,14 @@
   "country": "Nhật Bản",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 750000,
+  "price_vnd_max": 750000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Sakurao Gin Limited",
@@ -3912,7 +4225,14 @@
   "country": "Nhật Bản",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Wa Bi Gin",

@@ -132,7 +132,14 @@
   "country": "Pháp",
   "year": 1765,
   "status": "Còn lưu hành",
-  "note": "1765 = năm Richard Hennessy (sĩ quan Ireland) lập nhà. Cognac bán chạy số 1–2 thế giới: 6,5 triệu thùng 2023 (TSB)."
+  "note": "1765 = năm Richard Hennessy (sĩ quan Ireland) lập nhà. Cognac bán chạy số 1–2 thế giới: 6,5 triệu thùng 2023 (TSB).",
+  "price_vnd_min": 820000,
+  "price_vnd_max": 820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Hennessy V.S.O.P Privilège",
@@ -141,7 +148,14 @@
   "country": "Pháp",
   "year": 1765,
   "status": "Còn lưu hành",
-  "note": "Năm thành lập nhà. Thuật ngữ VSOP xuất hiện 1817 khi Hoàng tử Nhiếp chính Anh đặt 'very superior old pale'."
+  "note": "Năm thành lập nhà. Thuật ngữ VSOP xuất hiện 1817 khi Hoàng tử Nhiếp chính Anh đặt 'very superior old pale'.",
+  "price_vnd_min": 1500000,
+  "price_vnd_max": 1500000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Hennessy X.O",
@@ -150,7 +164,14 @@
   "country": "Pháp",
   "year": 1870,
   "status": "Còn lưu hành",
-  "note": "Maurice Hennessy tạo 1870 — được coi là XO đầu tiên."
+  "note": "Maurice Hennessy tạo 1870 — được coi là XO đầu tiên.",
+  "price_vnd_min": 4500000,
+  "price_vnd_max": 4500000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Hine Antique XO",
@@ -195,7 +216,14 @@
   "country": "Pháp",
   "year": 1912,
   "status": "Còn lưu hành",
-  "note": "Ra mắt 1912 tại Hôtel de Paris sau dịch phylloxera; được xem là cognac premium đại trà đầu tiên."
+  "note": "Ra mắt 1912 tại Hôtel de Paris sau dịch phylloxera; được xem là cognac premium đại trà đầu tiên.",
+  "price_vnd_min": 3800000,
+  "price_vnd_max": 3800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Martell VSOP",
@@ -204,7 +232,14 @@
   "country": "Pháp",
   "year": 1715,
   "status": "Còn lưu hành",
-  "note": "1715 = Jean Martell (gốc đảo Jersey) lập nhà — nhà cognac lớn lâu đời nhất trong 'Big Four'."
+  "note": "1715 = Jean Martell (gốc đảo Jersey) lập nhà — nhà cognac lớn lâu đời nhất trong 'Big Four'.",
+  "price_vnd_min": 1450000,
+  "price_vnd_max": 1450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Otard VSOP",
@@ -231,7 +266,14 @@
   "country": "Pháp",
   "year": 1997,
   "status": "Còn lưu hành",
-  "note": "Tên theo sắc lệnh 1738 của vua Louis XV cho phép nhà Rémy trồng nho mới."
+  "note": "Tên theo sắc lệnh 1738 của vua Louis XV cho phép nhà Rémy trồng nho mới.",
+  "price_vnd_min": 2000000,
+  "price_vnd_max": 2000000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Rémy Martin VSOP Fine Champagne",
@@ -240,7 +282,14 @@
   "country": "Pháp",
   "year": 1927,
   "status": "Còn lưu hành",
-  "note": "Tạo 1927, VSOP bán chạy nhất thế giới. Fine Champagne = chỉ Grande + Petite Champagne, tối thiểu 50% Grande."
+  "note": "Tạo 1927, VSOP bán chạy nhất thế giới. Fine Champagne = chỉ Grande + Petite Champagne, tối thiểu 50% Grande.",
+  "price_vnd_min": 1600000,
+  "price_vnd_max": 1600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Rémy Martin XO",
@@ -249,7 +298,14 @@
   "country": "Pháp",
   "year": 1981,
   "status": "Còn lưu hành",
-  "note": "André Giraud tạo 1981, blend tới 400 eaux-de-vie. Drinks International 2026 xếp Rémy Martin là cognac bán chạy nhất trong bar."
+  "note": "André Giraud tạo 1981, blend tới 400 eaux-de-vie. Drinks International 2026 xếp Rémy Martin là cognac bán chạy nhất trong bar.",
+  "price_vnd_min": 4100000,
+  "price_vnd_max": 4100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Richard Hennessy",

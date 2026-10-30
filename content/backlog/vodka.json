@@ -33,7 +33,14 @@
   "country": "Ba Lan",
   "year": 1993,
   "status": "Còn lưu hành",
-  "note": "40%. 100% lúa mạch đen Dankowskie vùng Mazovia. Tên theo dinh Belweder, Warszawa. Nhà máy xây 1910; LVMH nắm cổ phần 2002, sở hữu toàn phần 2005."
+  "note": "40%. 100% lúa mạch đen Dankowskie vùng Mazovia. Tên theo dinh Belweder, Warszawa. Nhà máy xây 1910; LVMH nắm cổ phần 2002, sở hữu toàn phần 2005.",
+  "price_vnd_min": 1000000,
+  "price_vnd_max": 1000000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Chopin Rye Vodka",
@@ -78,7 +85,14 @@
   "country": "Ba Lan",
   "year": 1823,
   "status": "Còn lưu hành",
-  "note": "40%, rye. 1823 là năm Hartwig Kantorowicz lập nhà chưng cất ở Poznań, không phải năm nhãn hiện tại. 2017 ra Wyborowa Dark."
+  "note": "40%, rye. 1823 là năm Hartwig Kantorowicz lập nhà chưng cất ở Poznań, không phải năm nhãn hiện tại. 2017 ra Wyborowa Dark.",
+  "price_vnd_min": 280000,
+  "price_vnd_max": 280000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Żubrówka Biała",
@@ -150,7 +164,14 @@
   "country": "Hà Lan",
   "year": 1983,
   "status": "Còn lưu hành",
-  "note": "Lúa mì mùa đông, kết hợp cột + nồi đồng đốt than 'Distilleerketel #1'. Nhà Nolet lập 1691 (làm genever). Ra mắt ở San Francisco, không quảng cáo đến 2003."
+  "note": "Lúa mì mùa đông, kết hợp cột + nồi đồng đốt than 'Distilleerketel #1'. Nhà Nolet lập 1691 (làm genever). Ra mắt ở San Francisco, không quảng cáo đến 2003.",
+  "price_vnd_min": 550000,
+  "price_vnd_max": 550000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Reyka",
@@ -168,7 +189,14 @@
   "country": "Latvia",
   "year": 1938,
   "status": "Cần xác minh",
-  "note": "Đổi tên Stolichnaya → Stoli năm 2022. Stoli Group USA nộp Chapter 11 tháng 11/2024; 2026 tòa chỉ định trustee điều hành. Kiểm tra nguồn hàng trước khi lên menu."
+  "note": "Đổi tên Stolichnaya → Stoli năm 2022. Stoli Group USA nộp Chapter 11 tháng 11/2024; 2026 tòa chỉ định trustee điều hành. Kiểm tra nguồn hàng trước khi lên menu.",
+  "price_vnd_min": 350000,
+  "price_vnd_max": 350000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Stoli Elit",
@@ -195,7 +223,15 @@
   "country": "Mỹ",
   "year": 1992,
   "status": "Còn lưu hành",
-  "note": "Maurice Kanbar lập 1992 ở San Francisco; Campari mua 2009. Chai xanh coban; 3,5 triệu thùng 2025."
+  "note": "Maurice Kanbar lập 1992 ở San Francisco; Campari mua 2009. Chai xanh coban; 3,5 triệu thùng 2025.",
+  "price_vnd_min": 331000,
+  "price_vnd_max": 350000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Tito's Handmade Vodka",
@@ -204,7 +240,14 @@
   "country": "Mỹ",
   "year": 1997,
   "status": "Còn lưu hành",
-  "note": "Vodka ngô, chưng nồi (pot still) theo hãng. Tito Beveridge lập 1997 — nhà chưng cất hợp pháp đầu tiên ở Texas thời điểm đó. Chữ 'Handmade' từng bị kiện."
+  "note": "Vodka ngô, chưng nồi (pot still) theo hãng. Tito Beveridge lập 1997 — nhà chưng cất hợp pháp đầu tiên ở Texas thời điểm đó. Chữ 'Handmade' từng bị kiện.",
+  "price_vnd_min": 520000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Wheatley Vodka",
@@ -249,7 +292,15 @@
   "country": "Nga",
   "year": 2002,
   "status": "Cần xác minh",
-  "note": "Lô đầu năm 2002 chỉ 38 chai; dùng malt spirit, nghỉ 30 ngày trước đóng chai. Từ 10/2022 thương hiệu ngoài Nga thuộc Noblewood, có nguồn ghi xuất xứ Montenegro — kiểm tra nhãn chai đang bán."
+  "note": "Lô đầu năm 2002 chỉ 38 chai; dùng malt spirit, nghỉ 30 ngày trước đóng chai. Từ 10/2022 thương hiệu ngoài Nga thuộc Noblewood, có nguồn ghi xuất xứ Montenegro — kiểm tra nhãn chai đang bán.",
+  "price_vnd_min": 750000,
+  "price_vnd_max": 770000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Five Lakes (Pyat Ozer)",
@@ -285,7 +336,14 @@
   "country": "Nga",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": "40%. Ra mắt 17/7/1998 — định vị 'premium vodka Nga đầu tiên'. Lúa mì mùa đông, nước hồ Ladoga."
+  "note": "40%. Ra mắt 17/7/1998 — định vị 'premium vodka Nga đầu tiên'. Lúa mì mùa đông, nước hồ Ladoga.",
+  "price_vnd_min": 330000,
+  "price_vnd_max": 330000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Russian Standard Platinum",
@@ -357,7 +415,15 @@
   "country": "Nhiều nước",
   "year": 1864,
   "status": "Còn lưu hành",
-  "note": "Gốc Moskva 1864 (Pyotr Smirnov). Vodka bán chạy nhất thế giới: 23,4 triệu thùng 2025 dù giảm năm thứ 3 liên tiếp."
+  "note": "Gốc Moskva 1864 (Pyotr Smirnov). Vodka bán chạy nhất thế giới: 23,4 triệu thùng 2025 dù giảm năm thứ 3 liên tiếp.",
+  "price_vnd_min": 300000,
+  "price_vnd_max": 320000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Finlandia",
@@ -366,7 +432,14 @@
   "country": "Phần Lan",
   "year": 1970,
   "status": "Còn lưu hành",
-  "note": "Đại mạch Phần Lan. Brown-Forman bán cho Coca-Cola HBC giá 220 triệu USD (2023); Anora chưng & đóng chai đến 2035. 2,7 triệu thùng/năm."
+  "note": "Đại mạch Phần Lan. Brown-Forman bán cho Coca-Cola HBC giá 220 triệu USD (2023); Anora chưng & đóng chai đến 2035. 2,7 triệu thùng/năm.",
+  "price_vnd_min": 550000,
+  "price_vnd_max": 550000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Koskenkorva Vodka",
@@ -384,7 +457,14 @@
   "country": "Pháp",
   "year": 1997,
   "status": "Còn lưu hành",
-  "note": "40%, lúa mì Picardie. Sidney Frank lên ý tưởng 1997, bán cho Bacardi 2004. 4,3 triệu thùng 2025."
+  "note": "40%, lúa mì Picardie. Sidney Frank lên ý tưởng 1997, bán cho Bacardi 2004. 4,3 triệu thùng 2025.",
+  "price_vnd_min": 800000,
+  "price_vnd_max": 800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Pinnacle Vodka",
@@ -411,7 +491,15 @@
   "country": "Thụy Điển",
   "year": 1979,
   "status": "Còn lưu hành",
-  "note": "40%, lúa mì mùa đông. Nhãn hiện đại ra 1979; chai ghi 'Since 1879' theo Absolut Rent Brännvin của Lars Olsson Smith. #2 thế giới, 12,3 triệu thùng 2025."
+  "note": "40%, lúa mì mùa đông. Nhãn hiện đại ra 1979; chai ghi 'Since 1879' theo Absolut Rent Brännvin của Lars Olsson Smith. #2 thế giới, 12,3 triệu thùng 2025.",
+  "price_vnd_min": 380000,
+  "price_vnd_max": 400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Purity Vodka",
@@ -429,7 +517,14 @@
   "country": "Thụy Điển",
   "year": null,
   "status": "Cần xác minh",
-  "note": "Vodka Thụy Điển bán chủ yếu ở Mỹ; Constellation bán cho Sazerac, hoàn tất 6/1/2025. Chưa xác minh năm ra mắt."
+  "note": "Vodka Thụy Điển bán chủ yếu ở Mỹ; Constellation bán cho Sazerac, hoàn tất 6/1/2025. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 380000,
+  "price_vnd_max": 380000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Xellent Swiss Vodka",
@@ -654,7 +749,14 @@
   "country": "Thụy Điển",
   "year": 2005,
   "status": "Cần xác minh",
-  "note": "Đào; ra Mỹ 5/2005. Danh mục hiện tại có 'Absolut Peach' — cần xác minh có phải cùng sản phẩm đổi tên."
+  "note": "Đào; ra Mỹ 5/2005. Danh mục hiện tại có 'Absolut Peach' — cần xác minh có phải cùng sản phẩm đổi tên.",
+  "price_vnd_min": 520000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Absolut Berri Açaí",
@@ -672,7 +774,15 @@
   "country": "Thụy Điển",
   "year": 1988,
   "status": "Còn lưu hành",
-  "note": "Ra 1988 — nền của Cosmopolitan (Toby Cecchini)."
+  "note": "Ra 1988 — nền của Cosmopolitan (Toby Cecchini).",
+  "price_vnd_min": 470000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Absolut Kurant (nay là Absolut Wild Berri)",
@@ -681,7 +791,15 @@
   "country": "Thụy Điển",
   "year": 1992,
   "status": "Còn lưu hành",
-  "note": "Hương lý chua đen 1992; dùng trong Metropolitan (1993). Sau đổi tên thành Wild Berri."
+  "note": "Hương lý chua đen 1992; dùng trong Metropolitan (1993). Sau đổi tên thành Wild Berri.",
+  "price_vnd_min": 495000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Absolut Lime",
@@ -699,7 +817,15 @@
   "country": "Thụy Điển",
   "year": 1999,
   "status": "Còn lưu hành",
-  "note": "Quýt + cam."
+  "note": "Quýt + cam.",
+  "price_vnd_min": 520000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Absolut Mango",
@@ -708,7 +834,15 @@
   "country": "Thụy Điển",
   "year": 2007,
   "status": "Còn lưu hành",
-  "note": "Xoài, ra cùng năm với Pears."
+  "note": "Xoài, ra cùng năm với Pears.",
+  "price_vnd_min": 490000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Absolut Pears",
@@ -717,7 +851,15 @@
   "country": "Thụy Điển",
   "year": 2007,
   "status": "Còn lưu hành",
-  "note": "Difford's ghi là vodka vị lê đầu tiên thế giới."
+  "note": "Difford's ghi là vodka vị lê đầu tiên thế giới.",
+  "price_vnd_min": 490000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Absolut Peppar",
@@ -726,7 +868,14 @@
   "country": "Thụy Điển",
   "year": 1986,
   "status": "Còn lưu hành",
-  "note": "Flavour đầu tiên của Absolut, làm ra để pha Bloody Mary. Bản UK ghi 38%."
+  "note": "Flavour đầu tiên của Absolut, làm ra để pha Bloody Mary. Bản UK ghi 38%.",
+  "price_vnd_min": 490000,
+  "price_vnd_max": 490000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "winecity.vn"
+  ]
  },
  {
   "name": "Absolut Raspberri",
@@ -735,7 +884,14 @@
   "country": "Thụy Điển",
   "year": 2004,
   "status": "Còn lưu hành",
-  "note": "Mâm xôi; ra mắt đúng 25 năm sau Absolut gốc."
+  "note": "Mâm xôi; ra mắt đúng 25 năm sau Absolut gốc.",
+  "price_vnd_min": 520000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Absolut Ruby Red",
@@ -753,7 +909,15 @@
   "country": "Thụy Điển",
   "year": 2003,
   "status": "Còn lưu hành",
-  "note": "38%, vani Madagascar; ra Mỹ/Canada tháng 2/2003."
+  "note": "38%, vani Madagascar; ra Mỹ/Canada tháng 2/2003.",
+  "price_vnd_min": 495000,
+  "price_vnd_max": 520000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  },
  {
   "name": "Żubrówka Bison Grass Vodka",
@@ -762,7 +926,14 @@
   "country": "Ba Lan",
   "year": 1928,
   "status": "Còn lưu hành",
-  "note": "40%, nền rye, mỗi chai một cọng cỏ bò rừng hái tay ở rừng Białowieża. Bản gốc bị cấm vào Mỹ từ 1978 vì coumarin — bản bán ở Mỹ là công thức khác. Top 6 thế giới (9,2 triệu thùng 2025)."
+  "note": "40%, nền rye, mỗi chai một cọng cỏ bò rừng hái tay ở rừng Białowieża. Bản gốc bị cấm vào Mỹ từ 1978 vì coumarin — bản bán ở Mỹ là công thức khác. Top 6 thế giới (9,2 triệu thùng 2025).",
+  "price_vnd_min": 450000,
+  "price_vnd_max": 450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Żołądkowa Gorzka",
@@ -834,7 +1005,14 @@
   "country": "Nhật Bản",
   "year": null,
   "status": "Cần xác minh",
-  "note": "40%, 100% gạo trắng Nhật lên men koji như làm shochu, chưng nồi + cột, lọc than tre. Ra UK 4/2019; năm ra mắt Nhật cần xác minh."
+  "note": "40%, 100% gạo trắng Nhật lên men koji như làm shochu, chưng nồi + cột, lọc than tre. Ra UK 4/2019; năm ra mắt Nhật cần xác minh.",
+  "price_vnd_min": 920000,
+  "price_vnd_max": 920000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com"
+  ]
  },
  {
   "name": "Belvedere Single Estate Rye — Lake Bartężek",
@@ -861,6 +1039,14 @@
   "country": "Thụy Điển",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": "42,3%. Lúa mì mùa đông từ một điền trang duy nhất (Råbelöf), chưng ở cột đồng vận hành tay đời 1921; seed-to-bottle trong bán kính ~15 dặm."
+  "note": "42,3%. Lúa mì mùa đông từ một điền trang duy nhất (Råbelöf), chưng ở cột đồng vận hành tay đời 1921; seed-to-bottle trong bán kính ~15 dặm.",
+  "price_vnd_min": 1550000,
+  "price_vnd_max": 1705000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": true,
+  "price_sources": [
+   "ruoungoaihaigiacat.com",
+   "winecity.vn"
+  ]
  }
 ]
