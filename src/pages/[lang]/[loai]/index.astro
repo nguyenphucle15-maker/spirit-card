@@ -1,7 +1,7 @@
 ---
-// Hub loại rượu: /vi/gin/ liệt kê mọi card gin đã Published.
+// Hub loại rượu: /vi/gin/ liệt kê mọi card theo vần A–Z, có ô tìm kiếm.
 import Base from "../../../layouts/Base.astro";
-import { getSpiritCards } from "../../../lib/content.js";
+import { getSpiritCards, slugify } from "../../../lib/content.js";
 import { T, LANGS, CATEGORY_ORDER } from "../../../lib/i18n.js";
 
 export async function getStaticPaths() {
@@ -14,20 +14,104 @@ const { lang, loai } = Astro.params;
 const t = T[lang];
 const cards = (await getSpiritCards())
   .filter((c) => c.categorySlug === loai)
-  .sort((a, b) => a.name.localeCompare(b.name));
+  .sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 const label = cards[0]?.category ?? loai;
+
+// Chữ cái đầu (bỏ dấu); tên bắt đầu bằng số hoặc ký hiệu xếp vào "#"
+const letterOf = (name) => {
+  const ch = slugify(name).charAt(0).toUpperCase();
+  return /[A-Z]/.test(ch) ? ch : "#";
+};
+const LETTERS = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
+const groups = LETTERS.map((L) => ({ L, items: cards.filter((c) => letterOf(c.name) === L) }));
+
+// Chuỗi dùng để tìm: tên, phong cách, nước, nhà sản xuất (bỏ dấu, chữ thường)
+const searchText = (c) => slugify([c.name, c.sub_category, c.country, c.producer].filter(Boolean).join(" ")).replace(/-/g, " ");
 ---
 <Base lang={lang} title={`${label} | ${t.siteName}`} path={`/${loai}/`}>
-  <header class="card-head">
-    <p class="eyebrow">{cards.length} {t.cards}</p>
+  <header class="card-head hub-head">
     <h1>{label}</h1>
+    <label class="hub-search" for="hub-q">
+      <span class="sr-only">{t.searchLabel}</span>
+      <input id="hub-q" type="search" placeholder={t.searchPlaceholder(label)} autocomplete="off" />
+    </label>
+    <nav class="az" aria-label={t.azLabel}>
+      {groups.map((g) =>
+        g.items.length > 0
+          ? <a href={`#van-${g.L === "#" ? "so" : g.L}`} data-letter={g.L}>{g.L}</a>
+          : <span aria-hidden="true">{g.L}</span>
+      )}
+    </nav>
   </header>
-  <div class="grid-cards">
-    {cards.map((c) => (
-      <a class="mini" href={`/${lang}/${loai}/${c.slug}`}>
-        <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}{!c.isTest && c.status !== "Published" && <span class="badge draft">{c.status}</span>}</h3>
-        <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
-      </a>
-    ))}
-  </div>
+
+  <p class="hub-empty" id="hub-empty" hidden>{t.noResults}</p>
+
+  {groups.filter((g) => g.items.length > 0).map((g) => (
+    <section class="az-group" id={`van-${g.L === "#" ? "so" : g.L}`} data-letter={g.L}>
+      <h2 class="az-letter">{g.L}</h2>
+      <div class="grid-cards">
+        {g.items.map((c) => (
+          <a class="mini" href={`/${lang}/${loai}/${c.slug}`} data-q={searchText(c)}>
+            <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}{!c.isTest && c.status !== "Published" && <span class="badge draft">{c.status}</span>}</h3>
+            <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
 </Base>
+
+<style>
+  .hub-head { padding-bottom: 8px; display: grid; gap: 14px; }
+  .hub-head h1 { margin: 0; }
+  .hub-search input {
+    width: 100%; max-width: 520px; padding: 12px 14px; font: inherit;
+    border: 1px solid var(--line); border-radius: 10px; background: #fff; color: var(--ink);
+  }
+  .hub-search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .az {
+    display: flex; flex-wrap: wrap; gap: 4px;
+    position: sticky; top: 0; z-index: 5; background: var(--paper); padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .az a, .az span {
+    min-width: 30px; text-align: center; padding: 4px 6px; border-radius: 6px;
+    font-weight: 600; font-size: .9rem; text-decoration: none;
+  }
+  .az a { color: var(--ink); background: var(--paper-2); }
+  .az a:hover, .az a:focus-visible { background: var(--accent); color: var(--paper); }
+  .az a.off { opacity: .35; pointer-events: none; }
+  .az span { color: var(--line); }
+  .az-group { scroll-margin-top: 60px; }
+  .az-letter { font-size: 1.6rem; color: var(--accent); margin: 28px 0 0; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+  .az-group .grid-cards { margin: 14px 0 0; }
+  .hub-empty { padding: 32px 0; color: var(--ink-2); }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+</style>
+
+<script>
+  // Tìm kiếm ngay khi gõ: không phân biệt dấu, hoa thường; ẩn vần không còn chai nào
+  const input = document.getElementById("hub-q") as HTMLInputElement;
+  const empty = document.getElementById("hub-empty") as HTMLElement;
+  const norm = (s: string) =>
+    s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/gi, "d").toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+
+  function run() {
+    const words = norm(input.value).split(" ").filter(Boolean);
+    let total = 0;
+    document.querySelectorAll<HTMLElement>(".az-group").forEach((g) => {
+      let n = 0;
+      g.querySelectorAll<HTMLElement>(".mini").forEach((card) => {
+        const q = card.dataset.q || "";
+        const ok = words.every((w) => q.includes(w));
+        card.hidden = !ok;
+        if (ok) n++;
+      });
+      g.hidden = n === 0;
+      document.querySelector(`.az a[data-letter="${g.dataset.letter}"]`)?.classList.toggle("off", n === 0);
+      total += n;
+    });
+    empty.hidden = total > 0;
+  }
+  input?.addEventListener("input", run);
+</script>
