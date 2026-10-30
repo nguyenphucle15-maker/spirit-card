@@ -1,7 +1,6 @@
 loai	backlog_name	producer	country	status
 gin	Four Pillars Rare Dry Gin	Four Pillars Distillery, Yarra Valley	Úc	Còn lưu hành
 gin	Four Pillars Spiced Negroni Gin	Four Pillars Distillery	Úc	Còn lưu hành
-gin	Hippocampus Metropolitan Gin	Hippocampus Distillery, Perth	Úc	Cần xác minh
 gin	Manly Spirits Australian Dry Gin	Manly Spirits Co, Sydney	Úc	Còn lưu hành
 gin	McHenry Classic Dry Gin	William McHenry & Sons, Tasmania	Úc	Còn lưu hành
 gin	Melbourne Gin Company Dry Gin	Melbourne Gin Company	Úc	Còn lưu hành
@@ -33,14 +32,11 @@ gin	Ki No Tea Kyoto Dry Gin	The Kyoto Distillery	Nhật Bản	Còn lưu hành
 gin	Komasa Gin Hojicha / Komikan	Komasa Jyozo, Kagoshima	Nhật Bản	Còn lưu hành
 gin	Kozue Gin	Nakano BC, Wakayama	Nhật Bản	Còn lưu hành
 gin	Nikka Coffey Gin	Nikka Whisky Miyagikyo Distillery	Nhật Bản	Còn lưu hành
-gin	Okayama Gin	Miyashita Sake Brewery, Okayama	Nhật Bản	Cần xác minh
 gin	Sakurao Gin Limited	Sakurao Distillery	Nhật Bản	Còn lưu hành
 gin	Sakurao Gin Original	Sakurao Distillery, Hiroshima	Nhật Bản	Còn lưu hành
-gin	Wa Bi Gin	Meiri Shurui, Ibaraki	Nhật Bản	Cần xác minh
 gin	Ableforth's Bathtub Cask Aged	Ableforth's	Anh (UK)	Còn lưu hành
 gin	Beefeater Burrough's Reserve	Beefeater Distillery (Pernod Ricard)	Anh (UK)	Còn lưu hành
 gin	Hayman's Gently Rested Gin	Hayman Distillers	Anh (UK)	Còn lưu hành
-gin	Martin Miller's 9 Moons	Langley Distillery	Anh (UK)	Bản giới hạn / đã hết
 gin	Dictador Colombian Aged Gin Ortodoxy	Destileria Colombiana	Colombia	Còn lưu hành
 gin	Dictador Colombian Aged Gin Treasure	Destileria Colombiana, Cartagena	Colombia	Còn lưu hành
 gin	Zuidam Dutch Courage Aged 88	Zuidam Distillers	Hà Lan	Còn lưu hành
@@ -49,71 +45,38 @@ gin	Bluecoat Barrel Finished Gin	Philadelphia Distilling	Mỹ	Còn lưu hành
 gin	Bourbon Barreled Big Gin	Captive Spirits	Mỹ	Còn lưu hành
 gin	FEW Barrel Gin	FEW Spirits	Mỹ	Còn lưu hành
 gin	St. George Dry Rye Reposado Gin	St. George Spirits	Mỹ	Còn lưu hành
-gin	Ki Noh Bi Karuizawa Cask Aged	The Kyoto Distillery	Nhật Bản	Bản giới hạn / đã hết
 gin	Kyro Koskue Gin	Kyro Distillery	Phần Lan	Còn lưu hành
 gin	Citadelle Reserve	Maison Ferrand	Pháp	Còn lưu hành
 gin	Herno Juniper Cask Gin	Herno Gin	Thụy Điển	Còn lưu hành
 gin	Boatyard Double Gin	Boatyard Distillery, Fermanagh	Bắc Ireland (UK)	Còn lưu hành
-gin	Juniper Green Organic London Dry	Thames Distillers	Anh (UK)	Cần xác minh
 gin	Greenbar Tru Organic Gin	Greenbar Distillery, Los Angeles	Mỹ	Còn lưu hành
 gin	Spirit of Hven Organic Gin	Spirit of Hven Backafallsbyn, đảo Hven	Thụy Điển	Còn lưu hành
 gin	Da Mhile Organic Botanical Gin	Da Mhile Distillery, Ceredigion	Wales (UK)	Còn lưu hành
 gin	Ginepraio Organic Gin	Levante, Tuscany	Ý	Còn lưu hành
 gin	Brookie's Slow Gin	Cape Byron Distillery	Úc	Còn lưu hành
 vodka	Magic Moments	Radico Khaitan, Rampur	Ấn Độ	Còn lưu hành
-vodka	Belvedere 10	Polmos Żyrardów (LVMH)	Ba Lan	Cần xác minh
-vodka	Belvedere Heritage 176	Polmos Żyrardów (LVMH)	Ba Lan	Cần xác minh
-vodka	Chopin Rye Vodka	Podlaska Wytwórnia Wódek Polmos, Siedlce	Ba Lan	Cần xác minh
-vodka	Chopin Wheat Vodka	Podlaska Wytwórnia Wódek Polmos, Siedlce	Ba Lan	Cần xác minh
-vodka	Sobieski	Chưa xác minh chủ sở hữu hiện tại	Ba Lan	Cần xác minh
 vodka	Soplica	Maspex Group	Ba Lan	Còn lưu hành
-vodka	Żubrówka Biała	Polmos Białystok (CEDC, Maspex Group)	Ba Lan	Cần xác minh
 vodka	Crystal Head Vodka	Globefill Inc., Newfoundland	Canada	Còn lưu hành
-vodka	Iceberg Vodka	Canadian Iceberg Vodka Corporation	Canada	Cần xác minh
 vodka	Wodka Gorbatschow	Henkell Freixenet	Đức	Còn lưu hành
-vodka	Saaremaa Vodka	Anora (Altia Eesti)	Estonia	Cần xác minh
 vodka	Viru Valge	Liviko	Estonia	Còn lưu hành
-vodka	Eristoff	Bacardi	Gruzia	Cần xác minh
 vodka	Reyka	Reyka Distillery, Borgarnes (William Grant & Sons)	Iceland	Còn lưu hành
-vodka	Stoli Elit	Stoli Group (SPI Group)	Latvia	Cần xác minh
 vodka	New Amsterdam Vodka	E&J Gallo Winery	Mỹ	Còn lưu hành
-vodka	Wheatley Vodka	Buffalo Trace Distillery (Sazerac)	Mỹ	Cần xác minh
 vodka	42 Below	Pacific Dawn Distillers (Bacardi)	New Zealand	Còn lưu hành
 vodka	Arkhangelskaya	Alviz Distillery, Arkhangelsk (Novabev Group)	Nga	Còn lưu hành
-vodka	Beluga Gold Line	Mariinsk Distillery (Novabev / Noblewood)	Nga	Cần xác minh
 vodka	Five Lakes (Pyat Ozer)	Alcohol Siberia Group	Nga	Còn lưu hành
-vodka	Moskovskaya	Soyuzplodoimport (Nga) / SPI (quốc tế)	Nga	Cần xác minh
 vodka	Russian Standard Imperia	Russian Standard Company (Roust)	Nga	Còn lưu hành
-vodka	Russian Standard Platinum	Russian Standard Company (Roust)	Nga	Cần xác minh
 vodka	Stolichnaya (bản nội địa Nga)	FKP Soyuzplodoimport, Kaliningrad (nhà nước Nga)	Nga	Còn lưu hành
 vodka	Talka	Roust	Nga	Còn lưu hành
-vodka	Tsarskaya Gold (Imperial Collection Gold)	Ladoga Group	Nga	Cần xác minh
 vodka	Tsarskaya Original	Ladoga Group	Nga	Còn lưu hành
-vodka	Zelenaya Marka (Green Mark)	Roust	Nga	Cần xác minh
 vodka	Nikka Coffey Vodka	Nikka Whisky, Miyagikyo (Asahi)	Nhật Bản	Còn lưu hành
 vodka	Koskenkorva Vodka	Anora Group, nhà máy Koskenkorva	Phần Lan	Còn lưu hành
-vodka	Pinnacle Vodka	Chưa xác minh chủ sở hữu hiện tại	Pháp	Cần xác minh
-vodka	Absolut Level	V&S Absolut Spirits (nay Pernod Ricard)	Thụy Điển	Cần xác minh
-vodka	Purity Vodka	Purity Distillery, Ellinge Castle	Thụy Điển	Cần xác minh
-vodka	Xellent Swiss Vodka	Diwisa Distillerie Willisau	Thụy Sĩ	Cần xác minh
 vodka	Hlibny Dar	Bayadera Group	Ukraine	Còn lưu hành
 vodka	Khortytsa	Global Spirits	Ukraine	Còn lưu hành
-vodka	Kozatska Rada (Kozak Vodka)	Bayadera Group	Ukraine	Cần xác minh
 vodka	Morosha	Global Spirits	Ukraine	Còn lưu hành
 vodka	Nemiroff	Nemiroff	Ukraine	Còn lưu hành
 vodka	Pshenychna Sl'oza (Finest Wheat)	Global Spirits	Ukraine	Còn lưu hành
-vodka	Vina Vodka	Halico	Việt Nam	Cần xác minh
-vodka	Vodka 94 Lò Đúc	Halico	Việt Nam	Cần xác minh
 vodka	Vodka Hà Nội	Halico — CTCP Cồn rượu Hà Nội (Diageo là cổ đông lớn từ 2011)	Việt Nam	Còn lưu hành
 vodka	Chase Potato Vodka	Diageo (Chase Distillery Herefordshire đóng 1/2025, chuyển về Cameronbridge)	Anh (UK)	Còn lưu hành
-vodka	Monopolowa	J.A. Baczewski / Altvater Gessler	Áo	Cần xác minh
 vodka	Chopin Potato Vodka	Podlaska Wytwórnia Wódek Polmos, Siedlce (Tadeusz Dorda)	Ba Lan	Còn lưu hành
 vodka	Luksusowa	Polmos Zielona Góra (Pernod Ricard)	Ba Lan	Còn lưu hành
-vodka	Vikingfjord	Arcus	Na Uy	Cần xác minh
-vodka	Karlsson's Gold	Spirits of Gold AB	Thụy Điển	Cần xác minh
-vodka	Ketel One Botanical (Peach & Orange Blossom / Cucumber & Mint / Grapefruit & Rose)	Nolet Distillery (Diageo)	Hà Lan	Cần xác minh
-vodka	Ketel One Citroen	Nolet Distillery (Diageo)	Hà Lan	Cần xác minh
-vodka	Ketel One Oranje	Nolet Distillery (Diageo)	Hà Lan	Cần xác minh
 vodka	Deep Eddy Sweet Tea Vodka	Deep Eddy (Heaven Hill Brands)	Mỹ	Còn lưu hành
-vodka	Hangar 1 Kaffir Lime	Hangar 1 Distillery (Proximo Spirits)	Mỹ	Cần xác minh
-vodka	42 Below Feijoa	Pacific Dawn Distillers (Bacardi)	New Zealand	Cần xác minh

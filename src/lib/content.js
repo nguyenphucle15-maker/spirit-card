@@ -103,6 +103,7 @@ export function mapSpiritCard(d, file = "") {
       fx: d.fx_rate || null,              // ví dụ "1 USD = 25.990 VND"
     },
     tier: d.tier || "Tiêu chuẩn",
+    production_status: d.production_status || null, // Còn lưu hành / Ngừng sản xuất / Bản giới hạn / đã hết
     rating_10: num(d.rating_10),
     tasted_date: date(d.tasted_date),
 

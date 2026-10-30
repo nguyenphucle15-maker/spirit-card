@@ -1,98 +1,30 @@
 loai	backlog_name	producer	country	status
 vodka	Grey Goose L'Orange	Bacardi	Pháp	Còn lưu hành
 vodka	Grey Goose Le Citron	Bacardi	Pháp	Còn lưu hành
-vodka	Absolut Berri Açaí	The Absolut Company (Pernod Ricard)	Thụy Điển	Cần xác minh
 vodka	Absolut Lime	The Absolut Company (Pernod Ricard)	Thụy Điển	Còn lưu hành
-vodka	Absolut Ruby Red	The Absolut Company (Pernod Ricard)	Thụy Điển	Cần xác minh
 vodka	Żołądkowa Gorzka	Stock Polska, Lublin (Stock Spirits)	Ba Lan	Còn lưu hành
-vodka	Nemiroff Ukrainian Honey Pepper	Nemiroff	Ukraine	Cần xác minh
 vodka	Hangar 1 Straight Vodka	Hangar 1 Distillery, Alameda (Proximo Spirits)	Mỹ	Còn lưu hành
 vodka	Cîroc Snap Frost	Diageo, Distillerie de Chevanceaux (Charente)	Pháp	Còn lưu hành
 vodka	Black Cow Pure Milk Vodka	Black Cow Distillery, West Dorset	Anh (UK)	Còn lưu hành
-vodka	Vermont White	Vermont Spirits	Mỹ	Cần xác minh
-vodka	Hartshorn Sheep Whey Vodka	Hartshorn Distillery (Grandvewe Cheeses), Tasmania	Úc	Cần xác minh
-vodka	Belvedere Single Estate Rye — Lake Bartężek	Polmos Żyrardów (LVMH)	Ba Lan	Cần xác minh
-vodka	Belvedere Single Estate Rye — Smogóry Forest	Polmos Żyrardów (LVMH)	Ba Lan	Cần xác minh
-brandy	Christian Brothers VS	Heaven Hill Brands	Mỹ	Cần xác minh
-brandy	Copper & Kings American Craft Brandy	Copper & Kings, Kentucky	Mỹ	Cần xác minh
-brandy	E&J VSOP	E&J Gallo Winery	Mỹ	Cần xác minh
-brandy	Korbel Brandy	Korbel	Mỹ	Cần xác minh
-brandy	Torres 10 Gran Reserva	Familia Torres, Penedès	Tây Ban Nha	Cần xác minh
-brandy	Stock 84	Stock Spirits	Ý	Cần xác minh
-brandy	Vecchia Romagna Etichetta Nera	Montenegro Group	Ý	Cần xác minh
 brandy	Camus Borderies XO	Camus (gia đình Camus)	Pháp	Còn lưu hành
-brandy	Courvoisier VS	Courvoisier, Jarnac (Campari Group)	Pháp	Cần xác minh
-brandy	Courvoisier XO	Courvoisier, Jarnac (Campari Group)	Pháp	Cần xác minh
-brandy	D'Ussé VSOP	Bacardi	Pháp	Cần xác minh
 brandy	Delamain Pale & Dry XO	Delamain (Bollinger nắm đa số từ 2017)	Pháp	Còn lưu hành
-brandy	Frapin VSOP Grande Champagne	Frapin	Pháp	Cần xác minh
 brandy	Hennessy Paradis	Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)	Pháp	Còn lưu hành
 brandy	Hine Antique XO	Thomas Hine & Co. (EDV SAS)	Pháp	Còn lưu hành
 brandy	Hine Rare VSOP	Thomas Hine & Co., Jarnac (EDV SAS)	Pháp	Còn lưu hành
 brandy	L'Or de Jean Martell	Martell (Pernod Ricard)	Pháp	Còn lưu hành
 brandy	Louis XIII	Rémy Martin (Rémy Cointreau)	Pháp	Còn lưu hành
 brandy	Otard VSOP	Château de Cognac (Bacardi)	Pháp	Còn lưu hành
-brandy	Pierre Ferrand 1840 Original Formula	Maison Ferrand	Pháp	Cần xác minh
 brandy	Richard Hennessy	Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)	Pháp	Còn lưu hành
-brandy	Baron de Sigognac 10 ans	Baron de Sigognac	Pháp	Cần xác minh
-brandy	Château de Laubade XO	Château de Laubade	Pháp	Cần xác minh
-brandy	Château du Tariquet Blanche Armagnac	Domaine du Tariquet	Pháp	Cần xác minh
-brandy	Darroze Les Grands Assemblages 20 ans	Darroze	Pháp	Cần xác minh
-brandy	Delord XO	Delord	Pháp	Cần xác minh
-brandy	Janneau VSOP	Janneau	Pháp	Cần xác minh
-brandy	Larressingle VSOP	Larressingle	Pháp	Cần xác minh
-brandy	Cardenal Mendoza Solera Gran Reserva	Sánchez Romate	Tây Ban Nha	Cần xác minh
-brandy	Carlos I Solera Gran Reserva	Osborne	Tây Ban Nha	Cần xác minh
 brandy	Fundador	Bodegas Fundador, Jerez (Emperador Inc.)	Tây Ban Nha	Còn lưu hành
-brandy	Gran Duque de Alba Solera Gran Reserva	Chưa xác minh nhà sản xuất hiện tại	Tây Ban Nha	Cần xác minh
-brandy	Lepanto Solera Gran Reserva	González Byass	Tây Ban Nha	Cần xác minh
-brandy	Terry Centenario	Bodegas Fundador (Emperador Inc.)	Tây Ban Nha	Cần xác minh
-brandy	Avallen Calvados	Avallen	Pháp	Cần xác minh
-brandy	Boulard Grand Solage	Boulard	Pháp	Cần xác minh
-brandy	Château du Breuil Fine	Château du Breuil	Pháp	Cần xác minh
-brandy	Christian Drouin Pays d'Auge VSOP	Christian Drouin	Pháp	Cần xác minh
-brandy	Comte Louis de Lauriston Domfrontais	Lauriston	Pháp	Cần xác minh
-brandy	Dupont Fine Pays d'Auge	Domaine Dupont	Pháp	Cần xác minh
-brandy	Père Magloire Fine	Père Magloire	Pháp	Cần xác minh
-brandy	BarSol Mosto Verde Italia	BarSol	Peru	Cần xác minh
-brandy	BarSol Quebranta	BarSol	Peru	Cần xác minh
-brandy	Pisco Portón Mosto Verde	Hacienda La Caravedo	Peru	Cần xác minh
-brandy	Alto del Carmen Especial 35	Alto del Carmen	Chile	Cần xác minh
-brandy	Capel Reservado	Cooperativa Capel	Chile	Cần xác minh
-brandy	Mistral Gran Nobel	Mistral	Chile	Cần xác minh
-brandy	Berta Grappa	Distillerie Berta, Piemonte	Ý	Cần xác minh
 brandy	Nardini Grappa Bianca	Distilleria Bortolo Nardini, Bassano del Grappa	Ý	Còn lưu hành
-brandy	Nardini Riserva	Distilleria Bortolo Nardini	Ý	Cần xác minh
 brandy	Nonino Grappa Tradizione	Distillerie Nonino, Friuli	Ý	Còn lưu hành
 brandy	Nonino Picolit Cru Monovitigno	Distillerie Nonino	Ý	Còn lưu hành
-brandy	Poli Grappa	Poli Distillerie, Veneto	Ý	Cần xác minh
-brandy	R. Jelínek Slivovice	Rudolf Jelínek, Vizovice	Cộng hòa Séc	Cần xác minh
-brandy	Schladerer Kirschwasser	Schladerer, Black Forest	Đức	Cần xác minh
-brandy	Clear Creek Pear Brandy	Clear Creek Distillery, Oregon	Mỹ	Cần xác minh
-brandy	Laird's Bottled-in-Bond Straight Apple Brandy	Laird & Company	Mỹ	Cần xác minh
 brandy	Laird's Straight Applejack 86	Laird & Company	Mỹ	Còn lưu hành
-brandy	Massenez Poire Williams	Massenez, Alsace	Pháp	Cần xác minh
 brandy	Nonino ÙE (acquavite d'uva)	Distillerie Nonino	Ý	Còn lưu hành
 brandy	Ararat 5 Years	Yerevan Brandy Company (Pernod Ricard)	Armenia	Còn lưu hành
-brandy	Ararat Akhtamar 10 Years	Yerevan Brandy Company (Pernod Ricard)	Armenia	Cần xác minh
 brandy	Ararat Dvin	Yerevan Brandy Company (Pernod Ricard)	Armenia	Còn lưu hành
-brandy	Ararat Nairi 20 Years	Yerevan Brandy Company (Pernod Ricard)	Armenia	Cần xác minh
 brandy	Metaxa 12 Stars	Metaxa (Rémy Cointreau)	Hy Lạp	Còn lưu hành
 brandy	Metaxa 5 Stars	Metaxa (Rémy Cointreau)	Hy Lạp	Còn lưu hành
-brandy	Sarajishvili	Sarajishvili, Tbilisi	Gruzia	Cần xác minh
-brandy	Kizlyar Brandy	Kizlyar Brandy Factory, Dagestan	Nga	Cần xác minh
-brandy	Klipdrift Export	Klipdrift (Heineken Beverages)	Nam Phi	Cần xác minh
-brandy	KWV 10 Year Old	KWV	Nam Phi	Cần xác minh
-brandy	Oude Meester	Heineken Beverages	Nam Phi	Cần xác minh
-brandy	Van Ryn's 12 Year Old Distillers Reserve	Van Ryn Brandy Cellar	Nam Phi	Cần xác minh
-brandy	Courrier Napoleon Brandy	Tilaknagar Industries	Ấn Độ	Cần xác minh
-brandy	Mansion House Brandy	Tilaknagar Industries	Ấn Độ	Cần xác minh
-brandy	McDowell's No.1 Brandy	United Spirits (Diageo)	Ấn Độ	Cần xác minh
-brandy	Morpheus Brandy	Radico Khaitan	Ấn Độ	Cần xác minh
-brandy	Old Admiral Brandy	Chưa xác minh chủ sở hữu	Ấn Độ	Cần xác minh
-brandy	Silver Cup Brandy	Amrut Distillers	Ấn Độ	Cần xác minh
-brandy	Dreher	Campari Group	Brazil	Cần xác minh
-brandy	Old Kenigsberg	Alliance 1892 Brandy Factory	Nga	Cần xác minh
 brandy	Emperador Brandy	Emperador Inc. (Alliance Global Group)	Philippines	Còn lưu hành
 brandy	Emperador Light	Emperador Inc.	Philippines	Còn lưu hành
 tequila	Corralejo Blanco	Tequilera Corralejo, Pénjamo	Mexico (Guanajuato)	Còn lưu hành
@@ -100,9 +32,7 @@ tequila	123 Organic Uno Blanco	Tequila Las Américas, Amatitán	Mexico (Jalisco)
 tequila	1800 Blanco	La Rojeña / Casa 1800 (Becle)	Mexico (Jalisco)	Còn lưu hành
 tequila	818 Blanco	Grupo Solave, Amatitán	Mexico (Jalisco)	Còn lưu hành
 tequila	Arette Blanco	Tequila Arette de Jalisco (El Llano), Tequila	Mexico (Jalisco)	Còn lưu hành
-tequila	Avión Silver	Pernod Ricard	Mexico (Jalisco)	Cần xác minh
 tequila	Cabrito Blanco	Tequila Centinela, Arandas	Mexico (Jalisco)	Còn lưu hành
-tequila	Calle 23 Blanco	Feliciano Vivanco y Asociados, Arandas	Mexico (Jalisco)	Cần xác minh
 tequila	Casa Dragones Blanco	Destilería Leyros, Tequila	Mexico (Jalisco)	Còn lưu hành
 tequila	Casa Noble Crystal	La Cofradía, Tequila	Mexico (Jalisco)	Còn lưu hành
 tequila	Casamigos Blanco	Diageo, Jalisco	Mexico (Jalisco)	Còn lưu hành
@@ -115,5 +45,3 @@ tequila	Cimarrón Blanco	La Tequileña, Tequila (gia đình Fonseca)	Mexico (Jal
 tequila	Clase Azul Plata	Casa Tradición, Jalisco	Mexico (Jalisco)	Còn lưu hành
 tequila	Don Fulano Blanco	La Tequileña, Tequila (gia đình Fonseca)	Mexico (Jalisco)	Còn lưu hành
 tequila	Don Fulano Fuerte	La Tequileña, Tequila (gia đình Fonseca)	Mexico (Jalisco)	Còn lưu hành
-tequila	Don Ramón Plata	Chưa xác minh	Mexico (Jalisco)	Cần xác minh
-tequila	Dulce Vida Blanco	Chưa xác minh	Mexico (Jalisco)	Cần xác minh

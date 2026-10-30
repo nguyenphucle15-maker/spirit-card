@@ -38,6 +38,8 @@ const priceText =
     : fmtVnd(card.price.min ?? card.price.max);
 
 const isExpert = card.tier === "Chuyên gia";
+// Chai đã hết lưu hành: không tra giá, hiện "Ngưng sản xuất – giá tùy thuộc nơi bán"
+const discontinued = ["Ngừng sản xuất", "Bản giới hạn / đã hết"].includes(card.backlogStatus || card.production_status);
 const usesTonic = ["gin", "vodka"].includes(loai);
 
 // Tách nhãn [cần kiểm tra] ra khỏi năm để hiện thành nhãn nhỏ
@@ -95,7 +97,7 @@ const has4 = (P(card.pairing) || []).length > 0;
       </dl>
       <div class="price">
         <span>{t.price}</span>
-        <strong>{priceText ? (card.price.availableVN ? priceText : `≈ ${priceText}`) : t.tbc}</strong>
+        <strong>{priceText ? (card.price.availableVN ? priceText : `≈ ${priceText}`) : discontinued ? t.discontinuedPrice : t.tbc}</strong>
         {card.price.updated && <small>{t.priceUpdated} {card.price.updated}</small>}
         {priceText && !card.price.availableVN && (
           <p class="price-note">
