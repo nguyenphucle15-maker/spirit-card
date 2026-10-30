@@ -361,7 +361,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1994,
   "status": "Còn lưu hành",
-  "note": "NOM 1119. Thương hiệu ra 1994, một trong những tequila 100% agave bán chạy nhất tại Mexico."
+  "note": "NOM 1119. Thương hiệu ra 1994, một trong những tequila 100% agave bán chạy nhất tại Mexico.",
+  "price_vnd_min": 490000,
+  "price_vnd_max": 490000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "18.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blancosilver/el-jimador-blanco-tequila/p/104417750"
+  ]
  },
  {
   "name": "El Tequileño Platinum",
@@ -370,7 +379,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1959,
   "status": "Còn lưu hành",
-  "note": "NOM 1146. Năm thành lập distillery."
+  "note": "NOM 1146. Năm thành lập distillery.",
+  "price_vnd_min": 1120000,
+  "price_vnd_max": 1120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "42.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blancosilver/el-tequileno-platinum-blanco-tequila/p/231679750"
+  ]
  },
  {
   "name": "El Tesoro Blanco",
@@ -379,7 +397,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1139. Thương hiệu thuộc Suntory nhưng làm tại La Alteña; ép 100% tahona, chưng ra đúng độ đóng chai (không pha nước)."
+  "note": "NOM 1139. Thương hiệu thuộc Suntory nhưng làm tại La Alteña; ép 100% tahona, chưng ra đúng độ đóng chai (không pha nước).",
+  "price_vnd_min": 1270000,
+  "price_vnd_max": 1270000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "48.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://pjwine.com/products/el-tesoro-blanco-tequila-750l"
+  ]
  },
  {
   "name": "Espolòn Blanco",
@@ -388,7 +415,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": "NOM 1440. Nhãn vẽ theo phong cách Día de los Muertos (José Guadalupe Posada)."
+  "note": "NOM 1440. Nhãn vẽ theo phong cách Día de los Muertos (José Guadalupe Posada).",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.klwines.com/p/i?i=990598"
+  ]
  },
  {
   "name": "Familia Camarena Silver",
@@ -415,7 +451,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1493. 46% — đúng độ ra khỏi nồi chưng."
+  "note": "NOM 1493. 46% — đúng độ ra khỏi nồi chưng.",
+  "price_vnd_min": 2030000,
+  "price_vnd_max": 2030000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "77.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blancosilver/fortaleza-blanco-still-strength-tequila/p/234898750"
+  ]
  },
  {
   "name": "G4 Blanco",
@@ -424,7 +469,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1579. Pha nước mưa và nước suối; Felipe Camarena tự chế máy nghiền."
+  "note": "NOM 1579. Pha nước mưa và nước suối; Felipe Camarena tự chế máy nghiền.",
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/tequila-brands/products/g4-blanco-tequila-750ml"
+  ]
  },
  {
   "name": "G4 High Proof",
@@ -433,7 +487,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1579. Still strength."
+  "note": "NOM 1579. Still strength.",
+  "price_vnd_min": 2030000,
+  "price_vnd_max": 2030000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "77.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blancosilver/g4-tequila-blanco-high-proof-108/p/2126238213"
+  ]
  },
  {
   "name": "Gran Orendain Blanco",
@@ -442,7 +505,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1110."
+  "note": "NOM 1110.",
+  "price_vnd_min": 860000,
+  "price_vnd_max": 860000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blanco-silver/gran-orendain-blanco/p/173873750"
+  ]
  },
  {
   "name": "Gran Patrón Platinum",
@@ -451,7 +523,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1492. Blanco chưng ba lần, nghỉ ngắn trong bồn."
+  "note": "NOM 1492. Blanco chưng ba lần, nghỉ ngắn trong bồn.",
+  "price_vnd_min": 5200000,
+  "price_vnd_max": 5200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "199.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/products/gran-patron-platinum-tequila-750ml"
+  ]
  },
  {
   "name": "Herencia de Plata Blanco",
@@ -460,7 +541,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1124."
+  "note": "NOM 1124.",
+  "price_vnd_min": 1370000,
+  "price_vnd_max": 1370000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "38.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/tequila/herencia/herencia-de-plata-blanco-tequila/"
+  ]
  },
  {
   "name": "Herradura Silver",
@@ -469,7 +559,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1870,
   "status": "Còn lưu hành",
-  "note": "NOM 1119. 1870 = năm thành lập Casa Herradura. Brown-Forman mua 2007."
+  "note": "NOM 1119. 1870 = năm thành lập Casa Herradura. Brown-Forman mua 2007.",
+  "price_vnd_min": 960000,
+  "price_vnd_max": 960000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "36.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blancosilver/herradura-blanco-tequila/p/12772750"
+  ]
  },
  {
   "name": "Hornitos Plata",
@@ -478,7 +577,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1102."
+  "note": "NOM 1102.",
+  "price_vnd_min": 650000,
+  "price_vnd_max": 650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/sauza-hornitos-plata-tequila"
+  ]
  },
  {
   "name": "Jose Cuervo Tradicional Plata",
@@ -503,7 +611,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1468. Thương hiệu của Eduardo 'Lalo' González (cháu Don Julio González). Chỉ làm blanco."
+  "note": "NOM 1468. Thương hiệu của Eduardo 'Lalo' González (cháu Don Julio González). Chỉ làm blanco.",
+  "price_vnd_min": 1220000,
+  "price_vnd_max": 1220000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "46.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/48532"
+  ]
  },
  {
   "name": "LALO High Proof",
@@ -530,7 +647,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1499 (thêm 1412). Los Altos."
+  "note": "NOM 1499 (thêm 1412). Los Altos.",
+  "price_vnd_min": 1220000,
+  "price_vnd_max": 1220000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "46.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/49186"
+  ]
  },
  {
   "name": "Milagro Silver",
@@ -539,7 +665,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": "NOM 1559. Năm thương hiệu."
+  "note": "NOM 1559. Năm thương hiệu.",
+  "price_vnd_min": 700000,
+  "price_vnd_max": 700000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "26.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://pjwine.com/products/milagro-silver-750l"
+  ]
  },
  {
   "name": "Olmeca Altos Plata",
@@ -548,7 +683,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": "NOM 1111. Tạo cùng hai bartender Henry Besant và Dré Masso; một phần ép tahona."
+  "note": "NOM 1111. Tạo cùng hai bartender Henry Besant và Dré Masso; một phần ép tahona.",
+  "price_vnd_min": 1310000,
+  "price_vnd_max": 1310000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "37.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/11297/olmeca-altos-plata-tequila"
+  ]
  },
  {
   "name": "Padre Azul Blanco",
@@ -575,7 +719,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1989,
   "status": "Còn lưu hành",
-  "note": "NOM 1492. Thương hiệu lập 1989; Bacardi mua toàn bộ 2018. Trước khi có Hacienda Patrón, rượu được làm tại Siete Leguas."
+  "note": "NOM 1492. Thương hiệu lập 1989; Bacardi mua toàn bộ 2018. Trước khi có Hacienda Patrón, rượu được làm tại Siete Leguas.",
+  "price_vnd_min": 1030000,
+  "price_vnd_max": 1030000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.49 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/blancosilver/patron-silver/p/5654750-1"
+  ]
  },
  {
   "name": "Pueblo Viejo Blanco",
@@ -584,7 +737,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1103. Nhãn giá phổ thông 100% agave của San Matías."
+  "note": "NOM 1103. Nhãn giá phổ thông 100% agave của San Matías.",
+  "price_vnd_min": 390000,
+  "price_vnd_max": 390000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "14.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/blanco/products/pueblo-viejo-tequila-blanco"
+  ]
  },
  {
   "name": "Reserva de la Familia Platino",
@@ -618,7 +780,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1102. Chưng ba lần."
+  "note": "NOM 1102. Chưng ba lần.",
+  "price_vnd_min": 990000,
+  "price_vnd_max": 990000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "37.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/tres-generaciones-plata-tequila"
+  ]
  },
  {
   "name": "Siembra Azul Blanco",
@@ -627,7 +798,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2005,
   "status": "Còn lưu hành",
-  "note": "NOM 1414. David Suro-Piñera lập 2005; agave Los Altos."
+  "note": "NOM 1414. David Suro-Piñera lập 2005; agave Los Altos.",
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "69.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/19965"
+  ]
  },
  {
   "name": "Siembra Valles Ancestral",
@@ -645,7 +825,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1123. David Suro-Piñera; thể hiện terroir Los Valles. Bản 46% ép tahona (Agave Matchmaker)."
+  "note": "NOM 1123. David Suro-Piñera; thể hiện terroir Los Valles. Bản 46% ép tahona (Agave Matchmaker).",
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "69.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.klwines.com/p/i?i=1197889"
+  ]
  },
  {
   "name": "Siete Leguas Blanco",
@@ -654,7 +843,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1952,
   "status": "Còn lưu hành",
-  "note": "NOM 1120. 1952 = năm thành lập; tên theo con ngựa của Pancho Villa. Từng sản xuất Patrón đến khoảng 2002."
+  "note": "NOM 1120. 1952 = năm thành lập; tên theo con ngựa của Pancho Villa. Từng sản xuất Patrón đến khoảng 2002.",
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.94 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.sfwtc.com/spirit/7777-siete-leguas-blanco-tequila/7777-224279-750/"
+  ]
  },
  {
   "name": "Suerte Blanco",
@@ -663,7 +861,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1530 — distillery chỉ làm một nhãn. Ép tahona."
+  "note": "NOM 1530 — distillery chỉ làm một nhãn. Ép tahona.",
+  "price_vnd_min": 860000,
+  "price_vnd_max": 860000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/blanco/products/suerte-tequila-blanco"
+  ]
  },
  {
   "name": "Tapatío Blanco",
@@ -672,7 +879,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1937,
   "status": "Còn lưu hành",
-  "note": "NOM 1139. 1937 = Don Felipe Camarena lập La Alteña. Additive-free tự khai, ép tahona một phần."
+  "note": "NOM 1139. 1937 = Don Felipe Camarena lập La Alteña. Additive-free tự khai, ép tahona một phần.",
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/engraving-tequila/products/tequila-tapatio-blanco-750ml"
+  ]
  },
  {
   "name": "Tapatío Blanco 110",
@@ -699,7 +915,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": "NOM 1474. Carlos Camarena & Tomas Estes; mỗi lô ghi tên rancho và năm thu hoạch — 'single estate tequila'. Heaven Hill mua Samson & Surrey (chủ Ocho) 2022."
+  "note": "NOM 1474. Carlos Camarena & Tomas Estes; mỗi lô ghi tên rancho và năm thu hoạch — 'single estate tequila'. Heaven Hill mua Samson & Surrey (chủ Ocho) 2022.",
+  "price_vnd_min": 1380000,
+  "price_vnd_max": 1380000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "52.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/ocho-plata-single-estate-tequila-750ml"
+  ]
  },
  {
   "name": "Teremana Blanco",
@@ -708,7 +933,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": "NOM 1613. Thương hiệu của Dwayne Johnson; distillery riêng chỉ làm một nhãn."
+  "note": "NOM 1613. Thương hiệu của Dwayne Johnson; distillery riêng chỉ làm một nhãn.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://pjwine.com/products/teremana-tequila-blanco-750l"
+  ]
  },
  {
   "name": "Una Vida Blanco",
@@ -1554,7 +1788,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1139. Chưa xác minh năm ra mắt."
+  "note": "NOM 1139. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 7020000,
+  "price_vnd_max": 7020000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "200 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://caviste.co.uk/products/tapatio-excelencia-gran-reserva-extra-anejo-tequila-40"
+  ]
  },
  {
   "name": "Tears of Llorona Extra Añejo",
@@ -1615,7 +1858,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. Mixto (≥51% đường agave). Jose Cuervo là thương hiệu tequila bán chạy nhất thế giới."
+  "note": "NOM 1122. Mixto (≥51% đường agave). Jose Cuervo là thương hiệu tequila bán chạy nhất thế giới.",
+  "price_vnd_min": 470000,
+  "price_vnd_max": 470000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "17.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/jose-cuervo-especial-silver-tequila"
+  ]
  },
  {
   "name": "Sauza Gold",
@@ -1624,7 +1876,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1873,
   "status": "Còn lưu hành",
-  "note": "NOM 1102. Năm thành lập nhà Sauza. Mixto."
+  "note": "NOM 1102. Năm thành lập nhà Sauza. Mixto.",
+  "price_vnd_min": 470000,
+  "price_vnd_max": 470000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "17.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/sauza-gold-tequila"
+  ]
  },
  {
   "name": "Sauza Silver",
@@ -1633,7 +1894,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1873,
   "status": "Còn lưu hành",
-  "note": "NOM 1102. 1873 = Cenobio Sauza mua La Antigua Cruz (năm thành lập nhà Sauza). Mixto."
+  "note": "NOM 1102. 1873 = Cenobio Sauza mua La Antigua Cruz (năm thành lập nhà Sauza). Mixto.",
+  "price_vnd_min": 470000,
+  "price_vnd_max": 470000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "17.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/sauza-silver-tequila"
+  ]
  },
  {
   "name": "1800 Cristalino",
@@ -1658,7 +1928,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": "NOM 1449. Ra 2011 kỷ niệm 70 năm; añejo lọc than."
+  "note": "NOM 1449. Ra 2011 kỷ niệm 70 năm; añejo lọc than.",
+  "price_vnd_min": 2930000,
+  "price_vnd_max": 2930000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "83.52 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/tequila/don-julio/don-julio-70-cristalino-anejo-tequila/?sku=90910"
+  ]
  },
  {
   "name": "Gran Coramino Reposado Cristalino",
@@ -1667,7 +1946,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2023,
   "status": "Còn lưu hành",
-  "note": "NOM 1122 (trước ghi 1612). Thương hiệu của Kevin Hart cùng Juan Domingo Beckmann; reposado finish thùng vang đỏ California rồi lọc mất màu."
+  "note": "NOM 1122 (trước ghi 1612). Thương hiệu của Kevin Hart cùng Juan Domingo Beckmann; reposado finish thùng vang đỏ California rồi lọc mất màu.",
+  "price_vnd_min": 1380000,
+  "price_vnd_max": 1380000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "52.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.lisasliquorbarn.com/spirits/tequila/gran-coramino-reposado-750ml"
+  ]
  },
  {
   "name": "Herradura Ultra",
@@ -1676,7 +1964,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1119. Añejo pha chút mật agave rồi lọc mất màu."
+  "note": "NOM 1119. Añejo pha chút mật agave rồi lọc mất màu.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/anejo/products/herradura-ultra-anejo-750ml"
+  ]
  },
  {
   "name": "Komos Añejo Cristalino",
@@ -1710,7 +2007,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1499."
+  "note": "NOM 1499.",
+  "price_vnd_min": 2080000,
+  "price_vnd_max": 2080000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "79.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/products/mijenta-cristalino-750ml"
+  ]
  },
  {
   "name": "Volcán de mi Tierra Cristalino",
@@ -1719,6 +2025,15 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1523."
+  "note": "NOM 1523.",
+  "price_vnd_min": 2310000,
+  "price_vnd_max": 2310000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "77.9 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.comptoir-irlandais.com/en/tequila/10360-volcan-cristalino.html"
+  ]
  }
 ]
