@@ -69,7 +69,16 @@
   "country": "Pháp",
   "year": 2000,
   "status": "Còn lưu hành",
-  "note": "Nhà lập 1863. Flagship 100% cru Borderies — cru nhỏ nhất, hương hoa violet."
+  "note": "Nhà lập 1863. Flagship 100% cru Borderies — cru nhỏ nhất, hương hoa violet.",
+  "price_vnd_min": 7270000,
+  "price_vnd_max": 7270000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "207 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/5415/camus-xo-borderies-cognac"
+  ]
  },
  {
   "name": "Courvoisier VS",
@@ -105,7 +114,16 @@
   "country": "Pháp",
   "year": 1920,
   "status": "Còn lưu hành",
-  "note": "Nhà lập 1824, chỉ làm Grande Champagne từ hạng XO trở lên. Pale & Dry khoảng 25 năm tuổi, kỷ niệm 100 năm vào 2020."
+  "note": "Nhà lập 1824, chỉ làm Grande Champagne từ hạng XO trở lên. Pale & Dry khoảng 25 năm tuổi, kỷ niệm 100 năm vào 2020.",
+  "price_vnd_min": 4630000,
+  "price_vnd_max": 4630000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "132 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/1710/delamain-pale-dry-xo-cognac"
+  ]
  },
  {
   "name": "Frapin VSOP Grande Champagne",
@@ -123,7 +141,16 @@
   "country": "Pháp",
   "year": 1765,
   "status": "Còn lưu hành",
-  "note": "Năm thành lập nhà; dòng cao cấp trên XO."
+  "note": "Năm thành lập nhà; dòng cao cấp trên XO.",
+  "price_vnd_min": 36860000,
+  "price_vnd_max": 36860000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "1050 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://milroysofsoho.com/products/hennessy-paradis-40-70cl"
+  ]
  },
  {
   "name": "Hennessy V.S",
@@ -180,7 +207,16 @@
   "country": "Pháp",
   "year": 1763,
   "status": "Còn lưu hành",
-  "note": "Năm lập nhà. Hine là một trong ba nhà duy trì liên tục cognac vintage."
+  "note": "Năm lập nhà. Hine là một trong ba nhà duy trì liên tục cognac vintage.",
+  "price_vnd_min": 4210000,
+  "price_vnd_max": 4210000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "120 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/11969/hine-antique-xo-premier-cru-cognac"
+  ]
  },
  {
   "name": "Hine Rare VSOP",
@@ -189,7 +225,16 @@
   "country": "Pháp",
   "year": 1763,
   "status": "Còn lưu hành",
-  "note": "Năm lập nhà. Nhà cognac duy nhất giữ Royal Warrant của Hoàng gia Anh (1962)."
+  "note": "Năm lập nhà. Nhà cognac duy nhất giữ Royal Warrant của Hoàng gia Anh (1962).",
+  "price_vnd_min": 2280000,
+  "price_vnd_max": 2280000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.royalmilewhiskies.com/hine-rare-vsop-cognac-70cl/"
+  ]
  },
  {
   "name": "L'Or de Jean Martell",
@@ -207,7 +252,16 @@
   "country": "Pháp",
   "year": 1874,
   "status": "Còn lưu hành",
-  "note": "Bình pha lê đầu tiên 1874 (kỷ niệm 150 năm nhà). Blend tới 1.200 eaux-de-vie Grande Champagne, 40–100 năm tuổi."
+  "note": "Bình pha lê đầu tiên 1874 (kỷ niệm 150 năm nhà). Blend tới 1.200 eaux-de-vie Grande Champagne, 40–100 năm tuổi.",
+  "price_vnd_min": 125490000,
+  "price_vnd_max": 125490000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "3575 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/1771/remy-martin-louis-xiii-cognac-baccarat-crystal"
+  ]
  },
  {
   "name": "Martell Cordon Bleu",
@@ -248,7 +302,16 @@
   "country": "Pháp",
   "year": 1795,
   "status": "Còn lưu hành",
-  "note": "Jean-Baptiste Antoine Otard lập 1795 ngay trong lâu đài Cognac."
+  "note": "Jean-Baptiste Antoine Otard lập 1795 ngay trong lâu đài Cognac.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "52.5 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://shop.cognatheque.com/en/baron-otard/468-cognac-baron-otard-vsop.html"
+  ]
  },
  {
   "name": "Pierre Ferrand 1840 Original Formula",
@@ -314,7 +377,16 @@
   "country": "Pháp",
   "year": 1765,
   "status": "Còn lưu hành",
-  "note": "Năm thành lập nhà. Bình Baccarat do Daniel Libeskind thiết kế, giá khoảng 7.000 USD."
+  "note": "Năm thành lập nhà. Bình Baccarat do Daniel Libeskind thiết kế, giá khoảng 7.000 USD.",
+  "price_vnd_min": 193060000,
+  "price_vnd_max": 193060000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "5500 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://hedonism.co.uk/product/hennessy-richard-cognac"
+  ]
  },
  {
   "name": "Baron de Sigognac 10 ans",
@@ -404,7 +476,16 @@
   "country": "Tây Ban Nha",
   "year": 1730,
   "status": "Còn lưu hành",
-  "note": "1730 là gốc bodega theo Emperador. Emperador mua Fundador, Terry, Tres Cepas, Harveys từ Beam Suntory năm 2015 (~275 triệu €)."
+  "note": "1730 là gốc bodega theo Emperador. Emperador mua Fundador, Terry, Tres Cepas, Harveys từ Beam Suntory năm 2015 (~275 triệu €).",
+  "price_vnd_min": 330000,
+  "price_vnd_max": 330000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "11.05 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.elcorteingles.es/supermercado/B001018725301230-fundador-brandy-solera-do-jerez-sherry-botella-70-cl/"
+  ]
  },
  {
   "name": "Gran Duque de Alba Solera Gran Reserva",
@@ -584,7 +665,16 @@
   "country": "Ý",
   "year": 1897,
   "status": "Còn lưu hành",
-  "note": "Năm Orazio Nonino xây lò đầu tiên. Bản 41% và 50°."
+  "note": "Năm Orazio Nonino xây lò đầu tiên. Bản 41% và 50°.",
+  "price_vnd_min": 1240000,
+  "price_vnd_max": 1240000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/38115/nonino-grappa-tradizione"
+  ]
  },
  {
   "name": "Nonino Picolit Cru Monovitigno",
@@ -593,7 +683,16 @@
   "country": "Ý",
   "year": 1973,
   "status": "Còn lưu hành",
-  "note": "1973: Nonino làm grappa đơn giống (monovitigno) đầu tiên — từ Picolit. Monovitigno = tối thiểu 85% một giống."
+  "note": "1973: Nonino làm grappa đơn giống (monovitigno) đầu tiên — từ Picolit. Monovitigno = tối thiểu 85% một giống.",
+  "price_vnd_min": 8580000,
+  "price_vnd_max": 8580000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "329.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/nonino-grappa-cru-monovitigno-picolit"
+  ]
  },
  {
   "name": "Poli Grappa",
@@ -710,7 +809,16 @@
   "country": "Hy Lạp",
   "year": 1888,
   "status": "Còn lưu hành",
-  "note": "Số sao không phải số năm tuổi."
+  "note": "Số sao không phải số năm tuổi.",
+  "price_vnd_min": 1130000,
+  "price_vnd_max": 1130000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/18672/metaxa-12-star"
+  ]
  },
  {
   "name": "Metaxa 5 Stars",
@@ -719,7 +827,16 @@
   "country": "Hy Lạp",
   "year": 1888,
   "status": "Còn lưu hành",
-  "note": "Spyros Metaxa tạo 1888. Pha brandy + rượu vang Muscat ủ + botanical → không được gọi là brandy theo luật EU."
+  "note": "Spyros Metaxa tạo 1888. Pha brandy + rượu vang Muscat ủ + botanical → không được gọi là brandy theo luật EU.",
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/20187"
+  ]
  },
  {
   "name": "Sarajishvili",

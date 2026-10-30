@@ -731,7 +731,16 @@
   "country": "Pháp",
   "year": 2001,
   "status": "Còn lưu hành",
-  "note": "Flavour đầu tiên của Grey Goose."
+  "note": "Flavour đầu tiên của Grey Goose.",
+  "price_vnd_min": 1420000,
+  "price_vnd_max": 1420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.trolley.co.uk/product/grey-goose-lorange-vodka/GCY483"
+  ]
  },
  {
   "name": "Grey Goose Le Citron",
@@ -740,7 +749,16 @@
   "country": "Pháp",
   "year": 2002,
   "status": "Còn lưu hành",
-  "note": "Chanh vàng."
+  "note": "Chanh vàng.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/5101/grey-goose-citron-vodka"
+  ]
  },
  {
   "name": "Absolut Apeach",
@@ -808,7 +826,16 @@
   "country": "Thụy Điển",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": "Ra 31 năm sau Peppar — flavour 'hiển nhiên' nhưng đến muộn."
+  "note": "Ra 31 năm sau Peppar — flavour 'hiển nhiên' nhưng đến muộn.",
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "22.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/under-51/products/absolut-lime-vodka-750ml"
+  ]
  },
  {
   "name": "Absolut Mandrin",
@@ -942,7 +969,16 @@
   "country": "Ba Lan",
   "year": 1950,
   "status": "Còn lưu hành",
-  "note": "Ra mắt 1950. Có bản vodka trong và bản hổ phách thảo mộc vị đắng — nhóm 'wódka gatunkowa' Ba Lan. 4,5 triệu thùng 2025 (top 12)."
+  "note": "Ra mắt 1950. Có bản vodka trong và bản hổ phách thảo mộc vị đắng — nhóm 'wódka gatunkowa' Ba Lan. 4,5 triệu thùng 2025 (top 12).",
+  "price_vnd_min": 500000,
+  "price_vnd_max": 500000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "16.95 EUR (chai 500ml)",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.bienmanger.com/2A54810_Zoladkowa_Gorzka_Herbal_Liqueur.html"
+  ]
  },
  {
   "name": "Nemiroff Ukrainian Honey Pepper",
@@ -960,7 +996,16 @@
   "country": "Mỹ",
   "year": 2002,
   "status": "Còn lưu hành",
-  "note": "Blend nho Viognier chưng nồi + lúa mì chưng cột. Khởi nghiệp trong nhà chứa máy bay Thế chiến II tại St. George Spirits; Proximo mua 2010."
+  "note": "Blend nho Viognier chưng nồi + lúa mì chưng cột. Khởi nghiệp trong nhà chứa máy bay Thế chiến II tại St. George Spirits; Proximo mua 2010.",
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.26 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/8862/hangar-one-straight-vodka"
+  ]
  },
  {
   "name": "Cîroc Snap Frost",
@@ -969,7 +1014,16 @@
   "country": "Pháp",
   "year": 2003,
   "status": "Còn lưu hành",
-  "note": "Vodka từ nho Ugni Blanc + Mauzac Blanc, chưng 5 lần, lần cuối trong nồi đồng kiểu Armagnac. Bùng nổ từ 2007 nhờ hợp tác với Sean Combs; nay Diageo sở hữu toàn phần."
+  "note": "Vodka từ nho Ugni Blanc + Mauzac Blanc, chưng 5 lần, lần cuối trong nồi đồng kiểu Armagnac. Bùng nổ từ 2007 nhờ hợp tác với Sean Combs; nay Diageo sở hữu toàn phần.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.target.com/p/c-206-roc-snap-frost-vodka-750ml-bottle/-/A-14983846"
+  ]
  },
  {
   "name": "Black Cow Pure Milk Vodka",
@@ -978,7 +1032,16 @@
   "country": "Anh (UK)",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": "40%. Lên men whey (sản phẩm phụ làm cheddar) — khoảng 20 lít sữa cho 1 lít vodka. Gold SFWSC 2015."
+  "note": "40%. Lên men whey (sản phẩm phụ làm cheddar) — khoảng 20 lít sữa cho 1 lít vodka. Gold SFWSC 2015.",
+  "price_vnd_min": 1060000,
+  "price_vnd_max": 1060000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/21537/black-cow-vodka"
+  ]
  },
  {
   "name": "Vermont White",
