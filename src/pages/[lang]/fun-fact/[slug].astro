@@ -1,7 +1,7 @@
 ---
 // Trang Fun Fact: /vi/fun-fact/[slug]
 import Base from "../../../layouts/Base.astro";
-import { getFunFacts, getSpiritCards } from "../../../lib/notion.js";
+import { getFunFacts, getSpiritCards } from "../../../lib/content.js";
 import { T, LANGS, pick } from "../../../lib/i18n.js";
 
 export async function getStaticPaths() {

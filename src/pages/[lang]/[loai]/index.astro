@@ -1,7 +1,7 @@
 ---
 // Hub loại rượu: /vi/gin/ liệt kê mọi card gin đã Published.
 import Base from "../../../layouts/Base.astro";
-import { getSpiritCards } from "../../../lib/notion.js";
+import { getSpiritCards } from "../../../lib/content.js";
 import { T, LANGS, CATEGORY_ORDER } from "../../../lib/i18n.js";
 
 export async function getStaticPaths() {
@@ -25,7 +25,7 @@ const label = cards[0]?.category ?? loai;
   <div class="grid-cards">
     {cards.map((c) => (
       <a class="mini" href={`/${lang}/${loai}/${c.slug}`}>
-        <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}</h3>
+        <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}{!c.isTest && c.status !== "Published" && <span class="badge draft">{c.status}</span>}</h3>
         <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
       </a>
     ))}

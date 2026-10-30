@@ -1,38 +1,49 @@
 # Spirit Card
 
-Website thông tin rượu. Nội dung nằm trong Notion, web dựng bằng Astro, chạy trên Cloudflare Pages.
+Website thông tin rượu. Nội dung nằm ngay trong repo (thư mục `content/`), web dựng bằng Astro, chạy trên Cloudflare Workers.
 
 ```
-Notion (status = Published) → Astro build → Cloudflare Pages
+content/*.yaml  →  push lên GitHub  →  Cloudflare tự build  →  web
 ```
 
-## Cấu trúc thư mục
+## Nội dung nằm ở đâu
+
+| Đường dẫn | Nội dung |
+|---|---|
+| `content/cards/<loai>/<slug>.yaml` | Spirit Card. Tên trường theo `02-schema.md` |
+| `content/funfacts/<slug>.yaml` | Fun Fact |
+| `content/workshops/<slug>.yaml` | Workshop |
+| `content/backlog/<loai>.json` | Danh sách chai, dùng tạo card khung chạy thử |
+
+Trường dạng danh sách: mỗi mục một dòng, các phần ngăn bằng ` | `. Dòng bắt đầu bằng `#` là ghi chú nội bộ, không hiện trên web.
+
+## Duyệt trước khi đăng
+
+- **Nhánh `main`** = web chính: chỉ hiện card `status: Published` (và card khung chạy thử).
+- **Nhánh khác** (ví dụ `review`): Cloudflare tạo link xem trước riêng, hiện cả `Draft` và `Reviewed` kèm nhãn Bản nháp.
+- Duyệt xong: đổi `status: Published` rồi gộp vào `main`.
+
+## Code
 
 | Đường dẫn | Việc của nó |
 |---|---|
-| `src/lib/notion.js` | Đọc 3 database Notion, chỉ lấy dòng `Published` |
-| `src/lib/sample.js` | Card mẫu Tanqueray, chỉ dùng khi chạy thử trên máy mà chưa có token |
-| `src/lib/i18n.js` | Chữ cố định trên giao diện (VI / EN) |
-| `src/layouts/Base.astro` | Khung trang: SEO, hreflang, menu, cổng 18+, chân trang |
+| `src/lib/content.js` | Đọc các file trong `content/`, lọc theo trạng thái |
+| `src/lib/i18n.js` | Chữ cố định trên giao diện (VI / EN), ngưỡng ẩn menu |
+| `src/layouts/Base.astro` | SEO, hreflang, menu, cổng 18+, chân trang |
 | `src/components/` | Vòng nguyên liệu, biểu đồ 6 đỉnh, pairing A/B/C |
-| `src/pages/[lang]/[loai]/[slug].astro` | Trang card, ví dụ `/vi/gin/tanqueray-london-dry-gin` |
-| `src/pages/[lang]/[loai]/index.astro` | Hub loại rượu, ví dụ `/vi/gin/` |
-| `.github/workflows/daily-build.yml` | Build lại mỗi ngày lúc 3:00 sáng giờ Việt Nam |
+| `src/pages/[lang]/[loai]/[slug].astro` | Trang card |
 
-## Chạy thử trên máy
+## Chạy trên máy
 
 ```bash
 npm install
-npm run dev        # mở http://localhost:4321/vi/gin/tanqueray-london-dry-gin
+npm run dev     # http://localhost:4321/vi/  (hiện cả bản nháp)
 ```
 
-Chưa có `.env` thì web dùng card mẫu. Muốn đọc Notion thật: copy `.env.example` thành `.env` rồi điền `NOTION_TOKEN`.
+## Biến tuỳ chọn trên Cloudflare (Settings → Build → Variables)
 
-## Cloudflare Pages
-
-- Framework preset: **Astro** · Build command: `npm run build` · Output: `dist`
-- Environment variables: `NOTION_TOKEN`, `NOTION_DS_SPIRIT`, `NOTION_DS_FUNFACT`, `NOTION_DS_WORKSHOP`
-- Deploy Hook → dán vào GitHub secret `CLOUDFLARE_DEPLOY_HOOK` để build tự động mỗi ngày.
+- `SHOW_BACKLOG=0`: tắt card khung chạy thử.
+- `SHOW_DRAFTS=1`: hiện cả bản nháp trên web chính (chỉ dùng tạm).
 
 ## Quy tắc
 

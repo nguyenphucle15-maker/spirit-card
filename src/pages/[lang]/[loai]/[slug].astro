@@ -5,7 +5,7 @@ import Base from "../../../layouts/Base.astro";
 import IngredientWheel from "../../../components/IngredientWheel.astro";
 import FlavorRadar from "../../../components/FlavorRadar.astro";
 import Pairing from "../../../components/Pairing.astro";
-import { getSpiritCards, getFunFacts, resolveReads } from "../../../lib/notion.js";
+import { getSpiritCards, getFunFacts, resolveReads } from "../../../lib/content.js";
 import { T, LANGS, pick } from "../../../lib/i18n.js";
 
 export async function getStaticPaths() {
@@ -71,7 +71,7 @@ const has2 = (P(card.ingredient_notes) || []).length > 0 || hasFlavor || hasNote
 const has3 = !!(P(card.serve.neat) || P(card.serve.rocks) || P(card.serve.tonic));
 const has4 = (P(card.pairing) || []).length > 0;
 ---
-<Base lang={lang} title={t.title(card.name)} description={description} path={`/${loai}/${card.slug}`} noindex={card.isTest}>
+<Base lang={lang} title={t.title(card.name)} description={description} path={`/${loai}/${card.slug}`} noindex={card.isTest || card.status !== "Published"}>
   <article>
     <!-- Phần đầu -->
     <header class="card-head">
@@ -80,6 +80,9 @@ const has4 = (P(card.pairing) || []).length > 0;
         {card.bottling && ` · ${card.bottling}`}
       </p>
       <h1>{card.name}</h1>
+      {!card.isTest && card.status !== "Published" && (
+        <aside class="test-note draft-note"><b>{t.draftTitle(card.status)}</b> {t.draftBody}</aside>
+      )}
       {card.isTest && (
         <aside class="test-note">
           <b>{t.testTitle}</b> {t.testBody}

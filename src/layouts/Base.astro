@@ -2,7 +2,7 @@
 // Khung chung cho mọi trang: <head> SEO + hreflang, menu, cổng 18+, chân trang cảnh báo.
 import "../styles/global.css";
 import { T, LANGS, CATEGORY_ORDER, MENU_MIN } from "../lib/i18n.js";
-import { getSpiritCards } from "../lib/notion.js";
+import { getSpiritCards } from "../lib/content.js";
 
 const { lang = "vi", title, description = "", path = "", noindex = false } = Astro.props;
 // path: phần đường dẫn sau /vi hoặc /en, ví dụ "/gin/tanqueray-london-dry-gin"

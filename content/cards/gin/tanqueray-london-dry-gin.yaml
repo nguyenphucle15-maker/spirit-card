@@ -1,0 +1,107 @@
+# Card mẫu đã duyệt (03-card-mau-tanqueray.md). Tên trường theo 02-schema.md.
+# Dòng bắt đầu bằng # là ghi chú nội bộ, không hiện trên web.
+# Trường danh sách: mỗi mục một dòng, các phần ngăn bằng " | ".
+
+# ---------- Phần đầu ----------
+name: Tanqueray London Dry Gin
+slug: tanqueray-london-dry-gin
+category: Gin
+sub_category: London Dry
+brand: Tanqueray
+producer: Cameronbridge Distillery (Diageo)
+country: Anh (UK)              # [cần kiểm tra] ghi đúng theo nhãn chai
+region: Fife, Scotland
+abv:                            # [cần kiểm tra] nồng độ chai nhập khẩu tại Việt Nam
+volume_ml: 750
+base_ingredient: Ngũ cốc
+year_founded: 1830
+price_vnd_min:                  # [cần kiểm tra]
+price_vnd_max:                  # [cần kiểm tra]
+price_updated:
+tier: Tiêu chuẩn
+status: Draft                   # Backlog / Draft / Reviewed / Published / Archived
+
+# ---------- Mục 1. Lịch sử & sản xuất ----------
+history_summary_vi: Gần 200 năm, công thức bốn botanicals của Tanqueray gần như không đổi và trở thành chuẩn tham chiếu cho dòng London Dry.
+
+history_timeline_vi: |
+  1830 | Charles Tanqueray, khi đó 20 tuổi, phá lệ gia đình vốn theo nghề mục sư, mở xưởng chưng cất trên phố Vine, khu Bloomsbury, London. Khu này thời đó nổi tiếng có nguồn nước tốt.
+  Những năm 1830 | Ông thử nghiệm hơn 300 công thức, cuối cùng chốt bốn botanicals: juniper, coriander, angelica root và liquorice. Những công thức còn lại sau này là cảm hứng cho các dòng Tanqueray khác.
+  1868 | Charles qua đời, con trai Charles Waugh Tanqueray tiếp quản công ty.
+  1898 [cần kiểm tra] | Tanqueray sáp nhập với Gordon's thành Tanqueray Gordon & Co., hai cái tên lớn của gin London về chung một nhà.
+  Thế chiến II [cần kiểm tra] | Xưởng ở London bị bom phá hủy gần hết. Theo câu chuyện của hãng, chỉ một nồi chưng cất còn sống sót và vẫn được dùng đến nay.
+  1997 | Ra mắt Tanqueray Malacca, phiên bản ngọt và nhiều hương trái cây hơn (nổi bật là bưởi).
+  1998 | Sản xuất chuyển về Cameronbridge ở Fife, Scotland. Gin vẫn được gọi là London Dry vì tên gọi này chỉ quy trình, không chỉ nơi làm ra rượu.
+  2005–2007 | Tanqueray London Dry nhận Double Gold ba năm liên tiếp tại San Francisco World Spirits Competition.
+  2021 | Ra mắt Tanqueray 0.0%, phiên bản không cồn.
+
+production_notes_vi: |
+  Rượu nền ngũ cốc, chưng cất bốn lần
+  Botanicals đưa vào ở lần chưng cất thứ hai
+  Ba nồi đồng lớn (copper pot still) tại Cameronbridge
+  Master Distiller: Terry Fraser
+  Thuộc nhóm thương hiệu chiến lược toàn cầu của Diageo
+
+abv_by_market: |
+  47,3% | Mỹ, Canada, Đức, duty-free châu Âu
+  43,1% | Anh, Na Uy, Thụy Điển
+  40% | Úc, Canada, New Zealand
+
+expressions: |
+  Tanqueray No. TEN | thêm bưởi, cam, chanh, hoa cúc
+  Tanqueray Rangpur | chanh Rangpur
+  Tanqueray Flor de Sevilla | cam Seville
+  Tanqueray Malacca | ngọt, nhiều trái cây
+
+# ---------- Mục 2. Nguyên liệu & hương vị ----------
+key_ingredients: [Juniper, Coriander, Angelica root, Liquorice]
+
+ingredient_notes_vi: |
+  Juniper | Quả bách xù | Thành phần bắt buộc của mọi chai gin. Mùi thông, nhựa, hơi cay; là xương sống hương vị của Tanqueray.
+  Coriander | Hạt ngò (rau mùi) | Cay ấm, gợi mùi cam quýt; tạo cảm giác tươi và cay nhẹ trên vòm miệng.
+  Angelica root | Rễ bạch chỉ | Mùi đất, khô; giúp liên kết các hương khác và tạo độ khô cho gin.
+  Liquorice | Rễ cam thảo | Ngọt nhẹ, làm tròn vị và tạo cảm giác đầy hơn trong miệng.
+
+ingredient_images:              # [cần kiểm tra] Phúc bổ sung link ảnh: "tên | link"
+
+flavor_profile: "sweet:1, fruity:1, floral:1, herbal_spicy:4, woody:0, smoky:0"
+flavor_tags: [Herbal, Spicy, Citrus]
+
+nose_vi: |
+  Juniper tươi, mùi lá thông
+  Gỗ tuyết tùng
+  Vỏ chanh vàng
+palate_vi: |
+  Juniper đậm
+  Coriander cay nhẹ
+  Liquorice ngọt nhẹ
+finish_vi: |
+  Dài
+  Ấm cay như tiêu
+  Khô và sạch
+
+# ---------- Mục 3. Cách uống ----------
+serve_neat_vi: Rót khoảng 30 ml vào ly nhỏ miệng hẹp, nhiệt độ phòng. Để vài phút cho mùi juniper mở ra.
+serve_rocks_vi: Một viên đá lớn trong ly rocks. Đá tan chậm giúp vị dịu dần mà không bị loãng nhanh.
+serve_tonic_vi: "Highball nhiều đá, tỷ lệ 1 gin : 3 tonic."
+tonic_garnish_vi: Chanh vàng
+tonic_garnish_why_vi: Một lát chanh vàng làm rõ note vỏ chanh trong mùi, giữ G&T khô và sạch đúng chất London Dry.
+
+# ---------- Mục 4. Pairing món Việt ----------
+pairing_vi: |
+  Khai vị · cuốn | Gỏi cuốn tôm thịt | B | Juniper và coriander cộng hưởng với húng quế, rau thơm trong cuốn, làm mùi thảo mộc rõ và kéo dài hơn. | G&T, lát chanh vàng
+  Nướng | Bò lá lốt | B | Mùi lá lốt nướng và tiêu được nâng lên nhờ vị cay ấm của coriander và hậu vị như tiêu của gin. | On the rocks
+  Món kho | Cá kho tộ | A | Món đậm mặn ngọt, thiếu độ tươi. Gin thêm mùi cam quýt và thảo mộc, giúp miếng ăn nhẹ hơn. | G&T, lát chanh vàng
+  Hải sản | Tôm nướng muối ớt | A | Gin thêm lớp mùi thảo mộc và cam quýt mà muối ớt không có, giống vắt chanh lên tôm. | G&T
+  Chiên | Chả giò | C | Gin khô, sắc cắt vị béo của dầu chiên, rửa vòm miệng nhưng vẫn để vị thịt và nấm dẫn dắt. | G&T nhiều đá
+  Tráng miệng | Chè bưởi | C | Vị khô, hơi đắng của juniper đối lập với cốt dừa ngọt béo; mùi cam quýt nối với vỏ bưởi. | Neat, ly nhỏ
+
+# ---------- Mục 5. Bài đọc gợi ý, nguồn ----------
+# Ghi "loai/slug" của card và slug của fun fact. Bài chưa có thì web tự bỏ qua.
+suggested_reads: [gin/tanqueray-no-ten, gin/beefeater-london-dry-gin]
+suggested_funfacts: [vi-sao-gin-lam-o-scotland-van-goi-la-london-dry, juniper-la-gi]
+sources: |
+  https://diageobaracademy.com/en-zz/home/our-brands/tanqueray
+  https://en.wikipedia.org/wiki/Tanqueray
+  https://www.diffordsguide.com/producers/1116/cameronbridge-gin-distillery/history
+  https://www.whisky.com/whisky-database/distilleries/details/cameronbridge.html

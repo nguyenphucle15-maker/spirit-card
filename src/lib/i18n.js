@@ -64,6 +64,8 @@ export const T = {
     testBody: "Card khung lấy từ bảng tra cứu, nội dung đầy đủ đang được soạn.",
     testNoteLabel: "Ghi chú tra cứu (chưa kiểm chứng)",
     testBadge: "Thử nghiệm",
+    draftTitle: (st) => `Bản nháp (${st}).`,
+    draftBody: "Chỉ hiện trên link xem trước, chưa có trên web chính.",
   },
   en: {
     siteName: "Spirit Card",
@@ -127,6 +129,8 @@ export const T = {
     testBody: "A placeholder card from our reference list; the full card is being written.",
     testNoteLabel: "Reference note (unverified)",
     testBadge: "Test",
+    draftTitle: (st) => `Draft (${st}).`,
+    draftBody: "Visible on the preview link only, not on the live site.",
   },
 };
 

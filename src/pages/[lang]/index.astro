@@ -1,7 +1,7 @@
 ---
 // Trang chủ theo ngôn ngữ: /vi/ và /en/
 import Base from "../../layouts/Base.astro";
-import { getSpiritCards } from "../../lib/notion.js";
+import { getSpiritCards } from "../../lib/content.js";
 import { T, LANGS, CATEGORY_ORDER } from "../../lib/i18n.js";
 
 export function getStaticPaths() {
@@ -28,7 +28,7 @@ const groups = CATEGORY_ORDER.map((c) => ({
       <div class="grid-cards">
         {g.items.slice(0, 6).map((c) => (
           <a class="mini" href={`/${lang}/${g.slug}/${c.slug}`}>
-            <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}</h3>
+            <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}{!c.isTest && c.status !== "Published" && <span class="badge draft">{c.status}</span>}</h3>
             <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
           </a>
         ))}
