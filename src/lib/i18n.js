@@ -142,5 +142,5 @@ export function pick(obj, lang) {
   return empty ? obj.vi : v;
 }
 
-export const CATEGORY_ORDER = ["gin", "whisky", "rum", "vodka", "brandy"];
+export const CATEGORY_ORDER = ["gin", "whisky", "rum", "vodka", "brandy", "tequila"];
 export const MENU_MIN = 20; // phân mục chưa đủ 20 bài thì ẩn khỏi menu

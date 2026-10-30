@@ -1,0 +1,866 @@
+[
+ {
+  "name": "Magic Moments",
+  "type": "Grain Vodka",
+  "producer": "Radico Khaitan, Rampur",
+  "country": "Ấn Độ",
+  "year": 2006,
+  "status": "Còn lưu hành",
+  "note": "8,2 triệu thùng 2025 (#7 thế giới) — vodka Ấn Độ lớn nhất."
+ },
+ {
+  "name": "Belvedere 10",
+  "type": "Grain Vodka",
+  "producer": "Polmos Żyrardów (LVMH)",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Dòng super-premium, lấy cảm hứng quy trình năm 1910 khi nhà máy Żyrardów thành lập. Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Belvedere Heritage 176",
+  "type": "Grain Vodka",
+  "producer": "Polmos Żyrardów (LVMH)",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Dùng rye Dankowskie được malt ở 176 độ (theo mô tả nhà bán lẻ). Cần đối chiếu website Belvedere."
+ },
+ {
+  "name": "Belvedere Vodka (Pure)",
+  "type": "Grain Vodka",
+  "producer": "Polmos Żyrardów (Moët Hennessy / LVMH)",
+  "country": "Ba Lan",
+  "year": 1993,
+  "status": "Còn lưu hành",
+  "note": "40%. 100% lúa mạch đen Dankowskie vùng Mazovia. Tên theo dinh Belweder, Warszawa. Nhà máy xây 1910; LVMH nắm cổ phần 2002, sở hữu toàn phần 2005."
+ },
+ {
+  "name": "Chopin Rye Vodka",
+  "type": "Grain Vodka",
+  "producer": "Podlaska Wytwórnia Wódek Polmos, Siedlce",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bản lúa mạch đen trong bộ ba single-ingredient của Chopin (khoai tây / rye / wheat). Chưa xác minh năm."
+ },
+ {
+  "name": "Chopin Wheat Vodka",
+  "type": "Grain Vodka",
+  "producer": "Podlaska Wytwórnia Wódek Polmos, Siedlce",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bản lúa mì trong bộ ba Chopin — dùng để training so sánh nguyên liệu nền."
+ },
+ {
+  "name": "Sobieski",
+  "type": "Grain Vodka",
+  "producer": "Chưa xác minh chủ sở hữu hiện tại",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka rye Ba Lan phân khúc giá phổ thông. Chủ sở hữu đã đổi nhiều lần — cần xác minh trước khi ghi."
+ },
+ {
+  "name": "Soplica",
+  "type": "Grain Vodka",
+  "producer": "Maspex Group",
+  "country": "Ba Lan",
+  "year": 1891,
+  "status": "Còn lưu hành",
+  "note": "Nhãn có từ 1891, nền rye. Maspex mua cụm vodka Ba Lan năm 2021. Nhiều phiên bản trái cây có độ cồn thấp hơn 37,5% → về luật EU là liqueur, cần đọc nhãn từng chai."
+ },
+ {
+  "name": "Wyborowa",
+  "type": "Grain Vodka",
+  "producer": "Wyborowa S.A., Poznań (Pernod Ricard)",
+  "country": "Ba Lan",
+  "year": 1823,
+  "status": "Còn lưu hành",
+  "note": "40%, rye. 1823 là năm Hartwig Kantorowicz lập nhà chưng cất ở Poznań, không phải năm nhãn hiện tại. 2017 ra Wyborowa Dark."
+ },
+ {
+  "name": "Żubrówka Biała",
+  "type": "Grain Vodka",
+  "producer": "Polmos Białystok (CEDC, Maspex Group)",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka trắng không hương mang tên Żubrówka — dễ nhầm với bản cỏ bò rừng. Chưa xác minh năm."
+ },
+ {
+  "name": "Crystal Head Vodka",
+  "type": "Grain Vodka",
+  "producer": "Globefill Inc., Newfoundland",
+  "country": "Canada",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": "Dan Aykroyd & họa sĩ John Alexander; chai đầu lâu pha lê. Ngũ cốc Ontario, nước Newfoundland, lọc qua tinh thể Herkimer diamond (theo hãng)."
+ },
+ {
+  "name": "Iceberg Vodka",
+  "type": "Grain Vodka",
+  "producer": "Canadian Iceberg Vodka Corporation",
+  "country": "Canada",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Dùng nước băng trôi Newfoundland. Chưa xác minh năm."
+ },
+ {
+  "name": "Wodka Gorbatschow",
+  "type": "Grain Vodka",
+  "producer": "Henkell Freixenet",
+  "country": "Đức",
+  "year": 1921,
+  "status": "Còn lưu hành",
+  "note": "37,5%. Gia đình Gorbatschow từ St Petersburg mở xưởng ở Berlin 28/4/1921. Vodka số 1 thị trường Đức theo hãng."
+ },
+ {
+  "name": "Saaremaa Vodka",
+  "type": "Grain Vodka",
+  "producer": "Anora (Altia Eesti)",
+  "country": "Estonia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka Estonia. Chưa xác minh năm."
+ },
+ {
+  "name": "Viru Valge",
+  "type": "Grain Vodka",
+  "producer": "Liviko",
+  "country": "Estonia",
+  "year": 1962,
+  "status": "Còn lưu hành",
+  "note": "Thương hiệu vodka lâu đời nhất Estonia; có bản 80% (Viru Valge Vägev). Biểu tượng người thổi tù và."
+ },
+ {
+  "name": "Eristoff",
+  "type": "Grain Vodka",
+  "producer": "Bacardi",
+  "country": "Gruzia",
+  "year": 1806,
+  "status": "Cần xác minh",
+  "note": "Gắn với công thức của hoàng tử Eristavi vùng Racha năm 1806 (truyền thống, khó kiểm chứng). Sản xuất công nghiệp hiện nay không ở Gruzia — xuất xứ trên nhãn tùy thị trường."
+ },
+ {
+  "name": "Ketel One",
+  "type": "Grain Vodka",
+  "producer": "Nolet Distillery, Schiedam (Nolet 50% / Diageo 50%)",
+  "country": "Hà Lan",
+  "year": 1983,
+  "status": "Còn lưu hành",
+  "note": "Lúa mì mùa đông, kết hợp cột + nồi đồng đốt than 'Distilleerketel #1'. Nhà Nolet lập 1691 (làm genever). Ra mắt ở San Francisco, không quảng cáo đến 2003."
+ },
+ {
+  "name": "Reyka",
+  "type": "Grain Vodka",
+  "producer": "Reyka Distillery, Borgarnes (William Grant & Sons)",
+  "country": "Iceland",
+  "year": 2005,
+  "status": "Còn lưu hành",
+  "note": "Nhà chưng cất đầu tiên của Iceland, ra 9/2005; nồi Carter-Head, lọc qua đá nham thạch, nước suối không cần xử lý. IWSC Vodka Trophy 2011."
+ },
+ {
+  "name": "Stoli (bản quốc tế, trước là Stolichnaya)",
+  "type": "Grain Vodka",
+  "producer": "Stoli Group (SPI Group), sản xuất tại Latvia",
+  "country": "Latvia",
+  "year": 1938,
+  "status": "Cần xác minh",
+  "note": "Đổi tên Stolichnaya → Stoli năm 2022. Stoli Group USA nộp Chapter 11 tháng 11/2024; 2026 tòa chỉ định trustee điều hành. Kiểm tra nguồn hàng trước khi lên menu."
+ },
+ {
+  "name": "Stoli Elit",
+  "type": "Grain Vodka",
+  "producer": "Stoli Group (SPI Group)",
+  "country": "Latvia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Dòng ultra-premium của Stoli Group. Chưa xác minh năm và tình trạng sau tái cấu trúc."
+ },
+ {
+  "name": "New Amsterdam Vodka",
+  "type": "Grain Vodka",
+  "producer": "E&J Gallo Winery",
+  "country": "Mỹ",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": "Sản xuất ở California. 5,0 triệu thùng 2025 (#9 thế giới)."
+ },
+ {
+  "name": "Skyy Vodka",
+  "type": "Grain Vodka",
+  "producer": "Campari Group",
+  "country": "Mỹ",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": "Maurice Kanbar lập 1992 ở San Francisco; Campari mua 2009. Chai xanh coban; 3,5 triệu thùng 2025."
+ },
+ {
+  "name": "Tito's Handmade Vodka",
+  "type": "Grain Vodka",
+  "producer": "Fifth Generation Inc., Austin, Texas",
+  "country": "Mỹ",
+  "year": 1997,
+  "status": "Còn lưu hành",
+  "note": "Vodka ngô, chưng nồi (pot still) theo hãng. Tito Beveridge lập 1997 — nhà chưng cất hợp pháp đầu tiên ở Texas thời điểm đó. Chữ 'Handmade' từng bị kiện."
+ },
+ {
+  "name": "Wheatley Vodka",
+  "type": "Grain Vodka",
+  "producer": "Buffalo Trace Distillery (Sazerac)",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka từ nhà làm bourbon. Chưa xác minh năm."
+ },
+ {
+  "name": "42 Below",
+  "type": "Grain Vodka",
+  "producer": "Pacific Dawn Distillers (Bacardi)",
+  "country": "New Zealand",
+  "year": 1999,
+  "status": "Còn lưu hành",
+  "note": "Lúa mì không biến đổi gen; tên theo vĩ độ 42° Nam. Geoff Ross bắt đầu chưng trong garage Wellington; Bacardi mua 2006 giá NZ$138 triệu."
+ },
+ {
+  "name": "Arkhangelskaya",
+  "type": "Grain Vodka",
+  "producer": "Alviz Distillery, Arkhangelsk (Novabev Group)",
+  "country": "Nga",
+  "year": 1898,
+  "status": "Còn lưu hành",
+  "note": "Năm 1898 là gốc thương hiệu/nhà máy theo hãng. Thành phố cảng biển Trắng; 4,9 triệu thùng 2025 (top 10)."
+ },
+ {
+  "name": "Beluga Gold Line",
+  "type": "Grain Vodka",
+  "producer": "Mariinsk Distillery (Novabev / Noblewood)",
+  "country": "Nga",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bản cao cấp nghỉ 90 ngày (Noble 30, Transatlantic 45, Allure 60). Chai kèm búa nhỏ để đập lớp sáp niêm."
+ },
+ {
+  "name": "Beluga Noble",
+  "type": "Grain Vodka",
+  "producer": "Mariinsk Distillery, Siberia (Novabev Group tại Nga; Noblewood Group ngoài Nga)",
+  "country": "Nga",
+  "year": 2002,
+  "status": "Cần xác minh",
+  "note": "Lô đầu năm 2002 chỉ 38 chai; dùng malt spirit, nghỉ 30 ngày trước đóng chai. Từ 10/2022 thương hiệu ngoài Nga thuộc Noblewood, có nguồn ghi xuất xứ Montenegro — kiểm tra nhãn chai đang bán."
+ },
+ {
+  "name": "Five Lakes (Pyat Ozer)",
+  "type": "Grain Vodka",
+  "producer": "Alcohol Siberia Group",
+  "country": "Nga",
+  "year": 2006,
+  "status": "Còn lưu hành",
+  "note": "Vodka Siberia từ ngũ cốc và nước vùng. 4,4 triệu thùng 2025 (top 13 thế giới)."
+ },
+ {
+  "name": "Moskovskaya",
+  "type": "Grain Vodka",
+  "producer": "Soyuzplodoimport (Nga) / SPI (quốc tế)",
+  "country": "Nga",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nhãn thời Xô Viết, bị tranh chấp quyền thương hiệu giống Stolichnaya. Cần xác minh bản đang bán ở từng thị trường."
+ },
+ {
+  "name": "Russian Standard Imperia",
+  "type": "Grain Vodka",
+  "producer": "Russian Standard Company (Roust)",
+  "country": "Nga",
+  "year": 2004,
+  "status": "Còn lưu hành",
+  "note": "Dòng luxury 2004, chưng thêm 4 lần, lọc qua thạch anh (theo hãng)."
+ },
+ {
+  "name": "Russian Standard Original",
+  "type": "Grain Vodka",
+  "producer": "Russian Standard Company (Roust, Roustam Tariko), St Petersburg",
+  "country": "Nga",
+  "year": 1998,
+  "status": "Còn lưu hành",
+  "note": "40%. Ra mắt 17/7/1998 — định vị 'premium vodka Nga đầu tiên'. Lúa mì mùa đông, nước hồ Ladoga."
+ },
+ {
+  "name": "Russian Standard Platinum",
+  "type": "Grain Vodka",
+  "producer": "Russian Standard Company (Roust)",
+  "country": "Nga",
+  "year": 2001,
+  "status": "Cần xác minh",
+  "note": "Ra 2001, lọc thêm qua bạc. Từ 2024 được thay bằng 'The Standard 1894' ở một số thị trường — tình trạng tùy nước."
+ },
+ {
+  "name": "Stolichnaya (bản nội địa Nga)",
+  "type": "Grain Vodka",
+  "producer": "FKP Soyuzplodoimport, Kaliningrad (nhà nước Nga)",
+  "country": "Nga",
+  "year": 1938,
+  "status": "Còn lưu hành",
+  "note": "Công thức thời Xô Viết 1938. Tồn tại hai 'Stolichnaya': bản trong Nga do nhà nước Nga sở hữu, bản quốc tế do SPI/Stoli Group làm tại Latvia."
+ },
+ {
+  "name": "Talka",
+  "type": "Grain Vodka",
+  "producer": "Roust",
+  "country": "Nga",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": "Bán chủ yếu ở Nga, Kazakhstan, Armenia, Georgia; 4,1 triệu thùng 2025."
+ },
+ {
+  "name": "Tsarskaya Gold (Imperial Collection Gold)",
+  "type": "Grain Vodka",
+  "producer": "Ladoga Group",
+  "country": "Nga",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Hãng mô tả theo quy trình thế kỷ 17 có dùng mật ong. Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Tsarskaya Original",
+  "type": "Grain Vodka",
+  "producer": "Ladoga Group",
+  "country": "Nga",
+  "year": 2003,
+  "status": "Còn lưu hành",
+  "note": "Có mặt trong Brand Champions của The Spirits Business liên tục từ 2017; 3,8 triệu thùng 2025."
+ },
+ {
+  "name": "Zelenaya Marka (Green Mark)",
+  "type": "Grain Vodka",
+  "producer": "Roust",
+  "country": "Nga",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nhãn đại trà lớn của Roust. Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Nikka Coffey Vodka",
+  "type": "Grain Vodka",
+  "producer": "Nikka Whisky, Miyagikyo (Asahi)",
+  "country": "Nhật Bản",
+  "year": 2017,
+  "status": "Còn lưu hành",
+  "note": "Ngô + đại mạch malt, chưng trên nồi Coffey nhập từ Scotland năm 1963 → kết cấu dày hơn cột hiện đại."
+ },
+ {
+  "name": "Smirnoff No. 21 Red Label",
+  "type": "Grain Vodka",
+  "producer": "Diageo (sản xuất tại nhiều nước)",
+  "country": "Nhiều nước",
+  "year": 1864,
+  "status": "Còn lưu hành",
+  "note": "Gốc Moskva 1864 (Pyotr Smirnov). Vodka bán chạy nhất thế giới: 23,4 triệu thùng 2025 dù giảm năm thứ 3 liên tiếp."
+ },
+ {
+  "name": "Finlandia",
+  "type": "Grain Vodka",
+  "producer": "Anora (sản xuất) — chủ thương hiệu Coca-Cola HBC",
+  "country": "Phần Lan",
+  "year": 1970,
+  "status": "Còn lưu hành",
+  "note": "Đại mạch Phần Lan. Brown-Forman bán cho Coca-Cola HBC giá 220 triệu USD (2023); Anora chưng & đóng chai đến 2035. 2,7 triệu thùng/năm."
+ },
+ {
+  "name": "Koskenkorva Vodka",
+  "type": "Grain Vodka",
+  "producer": "Anora Group, nhà máy Koskenkorva",
+  "country": "Phần Lan",
+  "year": 1953,
+  "status": "Còn lưu hành",
+  "note": "Đại mạch. Koskenkorva Viina ra 1953; spirit bán chạy nhất Phần Lan từ 1960. Ban đầu chưng từ khoai tây."
+ },
+ {
+  "name": "Grey Goose",
+  "type": "Grain Vodka",
+  "producer": "Bacardi (sản xuất tại Cognac, Pháp)",
+  "country": "Pháp",
+  "year": 1997,
+  "status": "Còn lưu hành",
+  "note": "40%, lúa mì Picardie. Sidney Frank lên ý tưởng 1997, bán cho Bacardi 2004. 4,3 triệu thùng 2025."
+ },
+ {
+  "name": "Pinnacle Vodka",
+  "type": "Grain Vodka",
+  "producer": "Chưa xác minh chủ sở hữu hiện tại",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka Pháp giá phổ thông nổi tiếng với dòng hương tráng miệng ở Mỹ. Cần xác minh."
+ },
+ {
+  "name": "Absolut Level",
+  "type": "Grain Vodka",
+  "producer": "V&S Absolut Spirits (nay Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2003,
+  "status": "Cần xác minh",
+  "note": "Dòng super-premium công bố cuối 2003. Không còn trong danh mục Absolut hiện tại — cần xác minh năm ngừng."
+ },
+ {
+  "name": "Absolut Vodka",
+  "type": "Grain Vodka",
+  "producer": "The Absolut Company, Åhus (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 1979,
+  "status": "Còn lưu hành",
+  "note": "40%, lúa mì mùa đông. Nhãn hiện đại ra 1979; chai ghi 'Since 1879' theo Absolut Rent Brännvin của Lars Olsson Smith. #2 thế giới, 12,3 triệu thùng 2025."
+ },
+ {
+  "name": "Purity Vodka",
+  "type": "Grain Vodka",
+  "producer": "Purity Distillery, Ellinge Castle",
+  "country": "Thụy Điển",
+  "year": 2002,
+  "status": "Cần xác minh",
+  "note": "Lúa mì mùa đông hữu cơ + đại mạch malt; hãng nêu 34 lần chưng. Chưa xác minh tình trạng phân phối hiện tại."
+ },
+ {
+  "name": "Svedka",
+  "type": "Grain Vodka",
+  "producer": "Sazerac (Constellation Brands 2007–01/2025)",
+  "country": "Thụy Điển",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka Thụy Điển bán chủ yếu ở Mỹ; Constellation bán cho Sazerac, hoàn tất 6/1/2025. Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Xellent Swiss Vodka",
+  "type": "Grain Vodka",
+  "producer": "Diwisa Distillerie Willisau",
+  "country": "Thụy Sĩ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka rye Thụy Sĩ, cùng nhà với Xellent Swiss Gin. Chưa xác minh năm."
+ },
+ {
+  "name": "Hlibny Dar",
+  "type": "Grain Vodka",
+  "producer": "Bayadera Group",
+  "country": "Ukraine",
+  "year": 2002,
+  "status": "Còn lưu hành",
+  "note": "Nghĩa là 'món quà từ bánh mì'. 10,5 triệu thùng 2025, #5 thế giới."
+ },
+ {
+  "name": "Khortytsa",
+  "type": "Grain Vodka",
+  "producer": "Global Spirits",
+  "country": "Ukraine",
+  "year": 2003,
+  "status": "Còn lưu hành",
+  "note": "Công ty lập 1998 (phân phối), ra vodka mang tên Khortytsa năm 2003. #3 thế giới 2025 với 11,7 triệu thùng."
+ },
+ {
+  "name": "Kozatska Rada (Kozak Vodka)",
+  "type": "Grain Vodka",
+  "producer": "Bayadera Group",
+  "country": "Ukraine",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka lúa mì; 3,2 triệu thùng 2025 (#20). Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Morosha",
+  "type": "Grain Vodka",
+  "producer": "Global Spirits",
+  "country": "Ukraine",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": "Vodka Brand Champion 2026 (TSB); 11,2 triệu thùng 2025, #4 thế giới."
+ },
+ {
+  "name": "Nemiroff",
+  "type": "Grain Vodka",
+  "producer": "Nemiroff",
+  "country": "Ukraine",
+  "year": 1872,
+  "status": "Còn lưu hành",
+  "note": "Chưng vodka lúa mì từ 1872. Supreme Brand Champion 2025 của The Spirits Business; 4,3 triệu thùng 2025."
+ },
+ {
+  "name": "Pshenychna Sl'oza (Finest Wheat)",
+  "type": "Grain Vodka",
+  "producer": "Global Spirits",
+  "country": "Ukraine",
+  "year": 2024,
+  "status": "Còn lưu hành",
+  "note": "Ra 2024, tăng 190,5% năm 2025 lên 6,1 triệu thùng — nhảy thẳng vào top 10 thế giới."
+ },
+ {
+  "name": "Vina Vodka",
+  "type": "Grain Vodka",
+  "producer": "Halico",
+  "country": "Việt Nam",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nhãn vodka khác của Halico. Chưa có nguồn thứ hai về năm, tình trạng."
+ },
+ {
+  "name": "Vodka 94 Lò Đúc",
+  "type": "Grain Vodka",
+  "producer": "Halico",
+  "country": "Việt Nam",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Tên theo địa chỉ nhà máy 94 Lò Đúc, Hà Nội. Cần xác minh."
+ },
+ {
+  "name": "Vodka Hà Nội",
+  "type": "Grain Vodka",
+  "producer": "Halico — CTCP Cồn rượu Hà Nội (Diageo là cổ đông lớn từ 2011)",
+  "country": "Việt Nam",
+  "year": 1898,
+  "status": "Còn lưu hành",
+  "note": "1898 là năm hãng Fontaine (Pháp) lập Nhà máy Rượu Hà Nội. Từng phủ sóng phân khúc bình dân; Halico lỗ từ 2015."
+ },
+ {
+  "name": "Chase Potato Vodka",
+  "type": "Potato Vodka",
+  "producer": "Diageo (Chase Distillery Herefordshire đóng 1/2025, chuyển về Cameronbridge)",
+  "country": "Anh (UK)",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": "Khởi đầu là single estate potato vodka trên trang trại Herefordshire; Diageo mua 3/2021. Từ 2025 không còn sản xuất tại trang trại."
+ },
+ {
+  "name": "Monopolowa",
+  "type": "Potato Vodka",
+  "producer": "J.A. Baczewski / Altvater Gessler",
+  "country": "Áo",
+  "year": 1782,
+  "status": "Cần xác minh",
+  "note": "Vodka khoai tây. 1782 là năm Baczewski lập ở Lwów, không phải năm nhãn hiện tại. Cần xác minh."
+ },
+ {
+  "name": "Chopin Potato Vodka",
+  "type": "Potato Vodka",
+  "producer": "Podlaska Wytwórnia Wódek Polmos, Siedlce (Tadeusz Dorda)",
+  "country": "Ba Lan",
+  "year": 1993,
+  "status": "Còn lưu hành",
+  "note": "Vodka khoai tây, bán ở Ba Lan từ 1993, vào Mỹ 1997. Hãng tự nhận 'super-premium vodka đầu tiên' — là tuyên bố của hãng."
+ },
+ {
+  "name": "Luksusowa",
+  "type": "Potato Vodka",
+  "producer": "Polmos Zielona Góra (Pernod Ricard)",
+  "country": "Ba Lan",
+  "year": 1928,
+  "status": "Còn lưu hành",
+  "note": "40%, vodka khoai tây. Sản xuất liên tục từ 1928; 'luksusowa' = sang trọng. Sau Thế chiến II chuyển về Zielona Góra."
+ },
+ {
+  "name": "Vikingfjord",
+  "type": "Potato Vodka",
+  "producer": "Arcus",
+  "country": "Na Uy",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka khoai tây Na Uy. Chưa xác minh năm và chủ sở hữu hiện tại."
+ },
+ {
+  "name": "Karlsson's Gold",
+  "type": "Potato Vodka",
+  "producer": "Spirits of Gold AB",
+  "country": "Thụy Điển",
+  "year": 2006,
+  "status": "Cần xác minh",
+  "note": "Börje Karlsson (cựu master blender Absolut). Blend 7 giống khoai 'virgin new potato' vùng Cape Bjäre, chưng một lần, không lọc; hãng gợi ý uống với tiêu đen."
+ },
+ {
+  "name": "Ketel One Botanical (Peach & Orange Blossom / Cucumber & Mint / Grapefruit & Rose)",
+  "type": "Flavoured Vodka",
+  "producer": "Nolet Distillery (Diageo)",
+  "country": "Hà Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka chưng với botanical, không đường. Kiểm tra ABV trên nhãn — có thể dưới ngưỡng 37,5% của EU."
+ },
+ {
+  "name": "Ketel One Citroen",
+  "type": "Flavoured Vodka",
+  "producer": "Nolet Distillery (Diageo)",
+  "country": "Hà Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Ra trong giai đoạn 2000–2010 theo Wikipedia. Chưa xác minh năm."
+ },
+ {
+  "name": "Ketel One Oranje",
+  "type": "Flavoured Vodka",
+  "producer": "Nolet Distillery (Diageo)",
+  "country": "Hà Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bản cam; nhiều thị trường không còn thấy. Cần xác minh tình trạng."
+ },
+ {
+  "name": "Deep Eddy Sweet Tea Vodka",
+  "type": "Flavoured Vodka",
+  "producer": "Deep Eddy (Heaven Hill Brands)",
+  "country": "Mỹ",
+  "year": 2010,
+  "status": "Còn lưu hành",
+  "note": "Bản đầu tiên của Deep Eddy (Austin, 2010), tên theo hồ bơi cổ Deep Eddy. Heaven Hill mua 2015."
+ },
+ {
+  "name": "Hangar 1 Kaffir Lime",
+  "type": "Flavoured Vodka",
+  "producer": "Hangar 1 Distillery (Proximo Spirits)",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bản nổi tiếng nhất của Hangar 1, hương chanh kaffir. Chưa xác minh năm."
+ },
+ {
+  "name": "42 Below Feijoa",
+  "type": "Flavoured Vodka",
+  "producer": "Pacific Dawn Distillers (Bacardi)",
+  "country": "New Zealand",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Hương feijoa — trái cây biểu tượng NZ. Chưa xác minh năm, tình trạng."
+ },
+ {
+  "name": "Grey Goose L'Orange",
+  "type": "Flavoured Vodka",
+  "producer": "Bacardi",
+  "country": "Pháp",
+  "year": 2001,
+  "status": "Còn lưu hành",
+  "note": "Flavour đầu tiên của Grey Goose."
+ },
+ {
+  "name": "Grey Goose Le Citron",
+  "type": "Flavoured Vodka",
+  "producer": "Bacardi",
+  "country": "Pháp",
+  "year": 2002,
+  "status": "Còn lưu hành",
+  "note": "Chanh vàng."
+ },
+ {
+  "name": "Absolut Apeach",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2005,
+  "status": "Cần xác minh",
+  "note": "Đào; ra Mỹ 5/2005. Danh mục hiện tại có 'Absolut Peach' — cần xác minh có phải cùng sản phẩm đổi tên."
+ },
+ {
+  "name": "Absolut Berri Açaí",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2010,
+  "status": "Cần xác minh",
+  "note": "Açaí, việt quất, lựu. Chưa xác minh còn bán."
+ },
+ {
+  "name": "Absolut Citron",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 1988,
+  "status": "Còn lưu hành",
+  "note": "Ra 1988 — nền của Cosmopolitan (Toby Cecchini)."
+ },
+ {
+  "name": "Absolut Kurant (nay là Absolut Wild Berri)",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": "Hương lý chua đen 1992; dùng trong Metropolitan (1993). Sau đổi tên thành Wild Berri."
+ },
+ {
+  "name": "Absolut Lime",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2017,
+  "status": "Còn lưu hành",
+  "note": "Ra 31 năm sau Peppar — flavour 'hiển nhiên' nhưng đến muộn."
+ },
+ {
+  "name": "Absolut Mandrin",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 1999,
+  "status": "Còn lưu hành",
+  "note": "Quýt + cam."
+ },
+ {
+  "name": "Absolut Mango",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2007,
+  "status": "Còn lưu hành",
+  "note": "Xoài, ra cùng năm với Pears."
+ },
+ {
+  "name": "Absolut Pears",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2007,
+  "status": "Còn lưu hành",
+  "note": "Difford's ghi là vodka vị lê đầu tiên thế giới."
+ },
+ {
+  "name": "Absolut Peppar",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 1986,
+  "status": "Còn lưu hành",
+  "note": "Flavour đầu tiên của Absolut, làm ra để pha Bloody Mary. Bản UK ghi 38%."
+ },
+ {
+  "name": "Absolut Raspberri",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2004,
+  "status": "Còn lưu hành",
+  "note": "Mâm xôi; ra mắt đúng 25 năm sau Absolut gốc."
+ },
+ {
+  "name": "Absolut Ruby Red",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2006,
+  "status": "Cần xác minh",
+  "note": "Bưởi hồng 2006. Danh mục hiện tại có 'Absolut Grapefruit' — cần xác minh đổi tên."
+ },
+ {
+  "name": "Absolut Vanilia",
+  "type": "Flavoured Vodka",
+  "producer": "The Absolut Company (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2003,
+  "status": "Còn lưu hành",
+  "note": "38%, vani Madagascar; ra Mỹ/Canada tháng 2/2003."
+ },
+ {
+  "name": "Żubrówka Bison Grass Vodka",
+  "type": "Bison Grass Vodka",
+  "producer": "Polmos Białystok (CEDC, Maspex Group)",
+  "country": "Ba Lan",
+  "year": 1928,
+  "status": "Còn lưu hành",
+  "note": "40%, nền rye, mỗi chai một cọng cỏ bò rừng hái tay ở rừng Białowieża. Bản gốc bị cấm vào Mỹ từ 1978 vì coumarin — bản bán ở Mỹ là công thức khác. Top 6 thế giới (9,2 triệu thùng 2025)."
+ },
+ {
+  "name": "Żołądkowa Gorzka",
+  "type": "Polish Herbal Bitter Vodka",
+  "producer": "Stock Polska, Lublin (Stock Spirits)",
+  "country": "Ba Lan",
+  "year": 1950,
+  "status": "Còn lưu hành",
+  "note": "Ra mắt 1950. Có bản vodka trong và bản hổ phách thảo mộc vị đắng — nhóm 'wódka gatunkowa' Ba Lan. 4,5 triệu thùng 2025 (top 12)."
+ },
+ {
+  "name": "Nemiroff Ukrainian Honey Pepper",
+  "type": "Horilka z Pertsem",
+  "producer": "Nemiroff",
+  "country": "Ukraine",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Horilka mật ong + ớt — phong cách 'z pertsem' của Ukraine. Chưa xác minh năm và ABV."
+ },
+ {
+  "name": "Hangar 1 Straight Vodka",
+  "type": "Grape Vodka",
+  "producer": "Hangar 1 Distillery, Alameda (Proximo Spirits)",
+  "country": "Mỹ",
+  "year": 2002,
+  "status": "Còn lưu hành",
+  "note": "Blend nho Viognier chưng nồi + lúa mì chưng cột. Khởi nghiệp trong nhà chứa máy bay Thế chiến II tại St. George Spirits; Proximo mua 2010."
+ },
+ {
+  "name": "Cîroc Snap Frost",
+  "type": "Grape Vodka",
+  "producer": "Diageo, Distillerie de Chevanceaux (Charente)",
+  "country": "Pháp",
+  "year": 2003,
+  "status": "Còn lưu hành",
+  "note": "Vodka từ nho Ugni Blanc + Mauzac Blanc, chưng 5 lần, lần cuối trong nồi đồng kiểu Armagnac. Bùng nổ từ 2007 nhờ hợp tác với Sean Combs; nay Diageo sở hữu toàn phần."
+ },
+ {
+  "name": "Black Cow Pure Milk Vodka",
+  "type": "Whey / Milk Vodka",
+  "producer": "Black Cow Distillery, West Dorset",
+  "country": "Anh (UK)",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": "40%. Lên men whey (sản phẩm phụ làm cheddar) — khoảng 20 lít sữa cho 1 lít vodka. Gold SFWSC 2015."
+ },
+ {
+  "name": "Vermont White",
+  "type": "Whey / Milk Vodka",
+  "producer": "Vermont Spirits",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka từ đường sữa — NPR dẫn là một vodka sữa khác ngoài Black Cow. Chưa xác minh năm, tình trạng."
+ },
+ {
+  "name": "Hartshorn Sheep Whey Vodka",
+  "type": "Whey / Milk Vodka",
+  "producer": "Hartshorn Distillery (Grandvewe Cheeses), Tasmania",
+  "country": "Úc",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Vodka đầu tiên từ whey sữa cừu; không lọc; mẻ 80–100 chai. World's Best Vodka — World Vodka Awards 2018."
+ },
+ {
+  "name": "Haku Vodka",
+  "type": "Rice Vodka (Nhật Bản)",
+  "producer": "Suntory — chưng ở Kagoshima, lọc than tre ở Osaka",
+  "country": "Nhật Bản",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "40%, 100% gạo trắng Nhật lên men koji như làm shochu, chưng nồi + cột, lọc than tre. Ra UK 4/2019; năm ra mắt Nhật cần xác minh."
+ },
+ {
+  "name": "Belvedere Single Estate Rye — Lake Bartężek",
+  "type": "Single Estate Vodka",
+  "producer": "Polmos Żyrardów (LVMH)",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cùng giống rye, trồng ven hồ Bartężek — đem so với bản Smogóry để thấy khác biệt do đất. Góc nội dung 'vodka có terroir không?'."
+ },
+ {
+  "name": "Belvedere Single Estate Rye — Smogóry Forest",
+  "type": "Single Estate Vodka",
+  "producer": "Polmos Żyrardów (LVMH)",
+  "country": "Ba Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Rye Dankowskie Diamond trồng ở Smogóry (vùng rừng). Cặp đôi với bản Lake Bartężek để chứng minh terroir trong vodka (theo LVMH)."
+ },
+ {
+  "name": "Absolut Elyx",
+  "type": "Single Estate Vodka",
+  "producer": "The Absolut Company, Åhus (Pernod Ricard)",
+  "country": "Thụy Điển",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": "42,3%. Lúa mì mùa đông từ một điền trang duy nhất (Råbelöf), chưng ở cột đồng vận hành tay đời 1921; seed-to-bottle trong bán kính ~15 dặm."
+ }
+]

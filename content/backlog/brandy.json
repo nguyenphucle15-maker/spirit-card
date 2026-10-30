@@ -1,0 +1,812 @@
+[
+ {
+  "name": "Christian Brothers VS",
+  "type": "Brandy (EU / TTB)",
+  "producer": "Heaven Hill Brands",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Copper & Kings American Craft Brandy",
+  "type": "Brandy (EU / TTB)",
+  "producer": "Copper & Kings, Kentucky",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Craft brandy chưng nồi đồng; đã relaunch sau đổi chủ. Cần xác minh."
+ },
+ {
+  "name": "E&J VSOP",
+  "type": "Brandy (EU / TTB)",
+  "producer": "E&J Gallo Winery",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Brandy California. Brandy Mỹ chưa ủ sồi đủ 2 năm phải ghi 'immature'. Cần xác minh."
+ },
+ {
+  "name": "Korbel Brandy",
+  "type": "Brandy (EU / TTB)",
+  "producer": "Korbel",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Torres 10 Gran Reserva",
+  "type": "Brandy (EU / TTB)",
+  "producer": "Familia Torres, Penedès",
+  "country": "Tây Ban Nha",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Brandy Penedès (Catalonia) — KHÔNG phải Brandy de Jerez. Cần xác minh."
+ },
+ {
+  "name": "Stock 84",
+  "type": "Brandy (EU / TTB)",
+  "producer": "Stock Spirits",
+  "country": "Ý",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Vecchia Romagna Etichetta Nera",
+  "type": "Brandy (EU / TTB)",
+  "producer": "Montenegro Group",
+  "country": "Ý",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Brandy Ý phổ biến nhất. Cần xác minh."
+ },
+ {
+  "name": "Camus Borderies XO",
+  "type": "Cognac (AOC)",
+  "producer": "Camus (gia đình Camus)",
+  "country": "Pháp",
+  "year": 2000,
+  "status": "Còn lưu hành",
+  "note": "Nhà lập 1863. Flagship 100% cru Borderies — cru nhỏ nhất, hương hoa violet."
+ },
+ {
+  "name": "Courvoisier VS",
+  "type": "Cognac (AOC)",
+  "producer": "Courvoisier, Jarnac (Campari Group)",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nguồn đá nhau về năm thành lập (1796 hay 1835). Campari mua từ Suntory, hoàn tất 1/5/2024."
+ },
+ {
+  "name": "Courvoisier XO",
+  "type": "Cognac (AOC)",
+  "producer": "Courvoisier, Jarnac (Campari Group)",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cùng lý do năm như trên. Chai Joséphine ra 1951."
+ },
+ {
+  "name": "D'Ussé VSOP",
+  "type": "Cognac (AOC)",
+  "producer": "Bacardi",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Gắn với Jay-Z; Drinks International 2026 ghi nhận lần đầu lọt danh sách bar. Chưa xác minh năm."
+ },
+ {
+  "name": "Delamain Pale & Dry XO",
+  "type": "Cognac (AOC)",
+  "producer": "Delamain (Bollinger nắm đa số từ 2017)",
+  "country": "Pháp",
+  "year": 1920,
+  "status": "Còn lưu hành",
+  "note": "Nhà lập 1824, chỉ làm Grande Champagne từ hạng XO trở lên. Pale & Dry khoảng 25 năm tuổi, kỷ niệm 100 năm vào 2020."
+ },
+ {
+  "name": "Frapin VSOP Grande Champagne",
+  "type": "Cognac (AOC)",
+  "producer": "Frapin",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nhà gia đình, toàn bộ Grande Champagne. Chưa xác minh năm."
+ },
+ {
+  "name": "Hennessy Paradis",
+  "type": "Cognac (AOC)",
+  "producer": "Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)",
+  "country": "Pháp",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": "Năm thành lập nhà; dòng cao cấp trên XO."
+ },
+ {
+  "name": "Hennessy V.S",
+  "type": "Cognac (AOC)",
+  "producer": "Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)",
+  "country": "Pháp",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": "1765 = năm Richard Hennessy (sĩ quan Ireland) lập nhà. Cognac bán chạy số 1–2 thế giới: 6,5 triệu thùng 2023 (TSB)."
+ },
+ {
+  "name": "Hennessy V.S.O.P Privilège",
+  "type": "Cognac (AOC)",
+  "producer": "Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)",
+  "country": "Pháp",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": "Năm thành lập nhà. Thuật ngữ VSOP xuất hiện 1817 khi Hoàng tử Nhiếp chính Anh đặt 'very superior old pale'."
+ },
+ {
+  "name": "Hennessy X.O",
+  "type": "Cognac (AOC)",
+  "producer": "Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)",
+  "country": "Pháp",
+  "year": 1870,
+  "status": "Còn lưu hành",
+  "note": "Maurice Hennessy tạo 1870 — được coi là XO đầu tiên."
+ },
+ {
+  "name": "Hine Antique XO",
+  "type": "Cognac (AOC)",
+  "producer": "Thomas Hine & Co. (EDV SAS)",
+  "country": "Pháp",
+  "year": 1763,
+  "status": "Còn lưu hành",
+  "note": "Năm lập nhà. Hine là một trong ba nhà duy trì liên tục cognac vintage."
+ },
+ {
+  "name": "Hine Rare VSOP",
+  "type": "Cognac (AOC)",
+  "producer": "Thomas Hine & Co., Jarnac (EDV SAS)",
+  "country": "Pháp",
+  "year": 1763,
+  "status": "Còn lưu hành",
+  "note": "Năm lập nhà. Nhà cognac duy nhất giữ Royal Warrant của Hoàng gia Anh (1962)."
+ },
+ {
+  "name": "L'Or de Jean Martell",
+  "type": "Cognac (AOC)",
+  "producer": "Martell (Pernod Ricard)",
+  "country": "Pháp",
+  "year": 2009,
+  "status": "Còn lưu hành",
+  "note": "Dòng prestige ra 2009."
+ },
+ {
+  "name": "Louis XIII",
+  "type": "Cognac (AOC)",
+  "producer": "Rémy Martin (Rémy Cointreau)",
+  "country": "Pháp",
+  "year": 1874,
+  "status": "Còn lưu hành",
+  "note": "Bình pha lê đầu tiên 1874 (kỷ niệm 150 năm nhà). Blend tới 1.200 eaux-de-vie Grande Champagne, 40–100 năm tuổi."
+ },
+ {
+  "name": "Martell Cordon Bleu",
+  "type": "Cognac (AOC)",
+  "producer": "Martell (Pernod Ricard)",
+  "country": "Pháp",
+  "year": 1912,
+  "status": "Còn lưu hành",
+  "note": "Ra mắt 1912 tại Hôtel de Paris sau dịch phylloxera; được xem là cognac premium đại trà đầu tiên."
+ },
+ {
+  "name": "Martell VSOP",
+  "type": "Cognac (AOC)",
+  "producer": "Martell (Pernod Ricard)",
+  "country": "Pháp",
+  "year": 1715,
+  "status": "Còn lưu hành",
+  "note": "1715 = Jean Martell (gốc đảo Jersey) lập nhà — nhà cognac lớn lâu đời nhất trong 'Big Four'."
+ },
+ {
+  "name": "Otard VSOP",
+  "type": "Cognac (AOC)",
+  "producer": "Château de Cognac (Bacardi)",
+  "country": "Pháp",
+  "year": 1795,
+  "status": "Còn lưu hành",
+  "note": "Jean-Baptiste Antoine Otard lập 1795 ngay trong lâu đài Cognac."
+ },
+ {
+  "name": "Pierre Ferrand 1840 Original Formula",
+  "type": "Cognac (AOC)",
+  "producer": "Maison Ferrand",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Dòng tái hiện cognac cho cocktail thế kỷ 19. Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Rémy Martin 1738 Accord Royal",
+  "type": "Cognac (AOC)",
+  "producer": "Rémy Martin (Rémy Cointreau)",
+  "country": "Pháp",
+  "year": 1997,
+  "status": "Còn lưu hành",
+  "note": "Tên theo sắc lệnh 1738 của vua Louis XV cho phép nhà Rémy trồng nho mới."
+ },
+ {
+  "name": "Rémy Martin VSOP Fine Champagne",
+  "type": "Cognac (AOC)",
+  "producer": "Rémy Martin (Rémy Cointreau)",
+  "country": "Pháp",
+  "year": 1927,
+  "status": "Còn lưu hành",
+  "note": "Tạo 1927, VSOP bán chạy nhất thế giới. Fine Champagne = chỉ Grande + Petite Champagne, tối thiểu 50% Grande."
+ },
+ {
+  "name": "Rémy Martin XO",
+  "type": "Cognac (AOC)",
+  "producer": "Rémy Martin (Rémy Cointreau)",
+  "country": "Pháp",
+  "year": 1981,
+  "status": "Còn lưu hành",
+  "note": "André Giraud tạo 1981, blend tới 400 eaux-de-vie. Drinks International 2026 xếp Rémy Martin là cognac bán chạy nhất trong bar."
+ },
+ {
+  "name": "Richard Hennessy",
+  "type": "Cognac (AOC)",
+  "producer": "Hennessy (Moët Hennessy: LVMH 66% / Diageo 34%)",
+  "country": "Pháp",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": "Năm thành lập nhà. Bình Baccarat do Daniel Libeskind thiết kế, giá khoảng 7.000 USD."
+ },
+ {
+  "name": "Baron de Sigognac 10 ans",
+  "type": "Armagnac (AOC)",
+  "producer": "Baron de Sigognac",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Château de Laubade XO",
+  "type": "Armagnac (AOC)",
+  "producer": "Château de Laubade",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bas-Armagnac. Chưa xác minh năm, ABV."
+ },
+ {
+  "name": "Château du Tariquet Blanche Armagnac",
+  "type": "Armagnac (AOC)",
+  "producer": "Domaine du Tariquet",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Blanche = armagnac không ủ, có AOC riêng. Cần xác minh tên chai đang bán."
+ },
+ {
+  "name": "Darroze Les Grands Assemblages 20 ans",
+  "type": "Armagnac (AOC)",
+  "producer": "Darroze",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nhà nổi tiếng với armagnac đơn vườn và vintage. Cần xác minh."
+ },
+ {
+  "name": "Delord XO",
+  "type": "Armagnac (AOC)",
+  "producer": "Delord",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bas-Armagnac. Cần xác minh."
+ },
+ {
+  "name": "Janneau VSOP",
+  "type": "Armagnac (AOC)",
+  "producer": "Janneau",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Một trong các nhà armagnac lớn. Cần xác minh."
+ },
+ {
+  "name": "Larressingle VSOP",
+  "type": "Armagnac (AOC)",
+  "producer": "Larressingle",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Ténarèze. Cần xác minh."
+ },
+ {
+  "name": "Cardenal Mendoza Solera Gran Reserva",
+  "type": "Brandy de Jerez (IG)",
+  "producer": "Sánchez Romate",
+  "country": "Tây Ban Nha",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Solera Gran Reserva = tối thiểu 3 năm. Chưa xác minh năm."
+ },
+ {
+  "name": "Carlos I Solera Gran Reserva",
+  "type": "Brandy de Jerez (IG)",
+  "producer": "Osborne",
+  "country": "Tây Ban Nha",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Fundador",
+  "type": "Brandy de Jerez (IG)",
+  "producer": "Bodegas Fundador, Jerez (Emperador Inc.)",
+  "country": "Tây Ban Nha",
+  "year": 1730,
+  "status": "Còn lưu hành",
+  "note": "1730 là gốc bodega theo Emperador. Emperador mua Fundador, Terry, Tres Cepas, Harveys từ Beam Suntory năm 2015 (~275 triệu €)."
+ },
+ {
+  "name": "Gran Duque de Alba Solera Gran Reserva",
+  "type": "Brandy de Jerez (IG)",
+  "producer": "Chưa xác minh nhà sản xuất hiện tại",
+  "country": "Tây Ban Nha",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Lepanto Solera Gran Reserva",
+  "type": "Brandy de Jerez (IG)",
+  "producer": "González Byass",
+  "country": "Tây Ban Nha",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Terry Centenario",
+  "type": "Brandy de Jerez (IG)",
+  "producer": "Bodegas Fundador (Emperador Inc.)",
+  "country": "Tây Ban Nha",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Brandy bán chạy nhất Tây Ban Nha theo Emperador. Chưa xác minh năm và có thuộc IG Jerez không."
+ },
+ {
+  "name": "Avallen Calvados",
+  "type": "Calvados (AOC)",
+  "producer": "Avallen",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Thương hiệu định vị 'thân thiện môi trường' (ong). Cần xác minh."
+ },
+ {
+  "name": "Boulard Grand Solage",
+  "type": "Calvados (AOC)",
+  "producer": "Boulard",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Château du Breuil Fine",
+  "type": "Calvados (AOC)",
+  "producer": "Château du Breuil",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Christian Drouin Pays d'Auge VSOP",
+  "type": "Calvados (AOC)",
+  "producer": "Christian Drouin",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "AOC Pays d'Auge: bắt buộc chưng nồi hai lần. Cần xác minh năm."
+ },
+ {
+  "name": "Comte Louis de Lauriston Domfrontais",
+  "type": "Calvados (AOC)",
+  "producer": "Lauriston",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "AOC Domfrontais: tối thiểu 30% lê, chỉ chưng cột. Cần xác minh."
+ },
+ {
+  "name": "Dupont Fine Pays d'Auge",
+  "type": "Calvados (AOC)",
+  "producer": "Domaine Dupont",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Pays d'Auge. Cần xác minh."
+ },
+ {
+  "name": "Père Magloire Fine",
+  "type": "Calvados (AOC)",
+  "producer": "Père Magloire",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Nhãn calvados phổ biến. Cần xác minh chủ sở hữu, năm."
+ },
+ {
+  "name": "BarSol Mosto Verde Italia",
+  "type": "Pisco Perú (DO)",
+  "producer": "BarSol",
+  "country": "Peru",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Mosto Verde: chưng khi chưa lên men hết đường → mềm, đắt gần gấp đôi."
+ },
+ {
+  "name": "BarSol Quebranta",
+  "type": "Pisco Perú (DO)",
+  "producer": "BarSol",
+  "country": "Peru",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Pisco puro Quebranta (giống không thơm). 41,3–41,8% theo Difford's. Chưa xác minh năm."
+ },
+ {
+  "name": "Pisco Portón Mosto Verde",
+  "type": "Pisco Perú (DO)",
+  "producer": "Hacienda La Caravedo",
+  "country": "Peru",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "43%. Cần xác minh tên chai và năm."
+ },
+ {
+  "name": "Alto del Carmen Especial 35",
+  "type": "Pisco Chile (DO)",
+  "producer": "Alto del Carmen",
+  "country": "Chile",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "35% — hạng 'Especial' theo luật Chile. Cần xác minh."
+ },
+ {
+  "name": "Capel Reservado",
+  "type": "Pisco Chile (DO)",
+  "producer": "Cooperativa Capel",
+  "country": "Chile",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Pisco Chile được phép ủ gỗ, khác Peru. Cần xác minh."
+ },
+ {
+  "name": "Mistral Gran Nobel",
+  "type": "Pisco Chile (DO)",
+  "producer": "Mistral",
+  "country": "Chile",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Bản 40% có ủ gỗ. Cần xác minh."
+ },
+ {
+  "name": "Berta Grappa",
+  "type": "Grappa (IG)",
+  "producer": "Distillerie Berta, Piemonte",
+  "country": "Ý",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Nardini Grappa Bianca",
+  "type": "Grappa (IG)",
+  "producer": "Distilleria Bortolo Nardini, Bassano del Grappa",
+  "country": "Ý",
+  "year": 1779,
+  "status": "Còn lưu hành",
+  "note": "Nhà grappa lâu đời nhất thế giới (1779); nhãn gần như giữ nguyên từ đó."
+ },
+ {
+  "name": "Nardini Riserva",
+  "type": "Grappa (IG)",
+  "producer": "Distilleria Bortolo Nardini",
+  "country": "Ý",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Grappa ủ sồi, ra từ thập niên 1950. Chưa xác minh năm chính xác."
+ },
+ {
+  "name": "Nonino Grappa Tradizione",
+  "type": "Grappa (IG)",
+  "producer": "Distillerie Nonino, Friuli",
+  "country": "Ý",
+  "year": 1897,
+  "status": "Còn lưu hành",
+  "note": "Năm Orazio Nonino xây lò đầu tiên. Bản 41% và 50°."
+ },
+ {
+  "name": "Nonino Picolit Cru Monovitigno",
+  "type": "Grappa (IG)",
+  "producer": "Distillerie Nonino",
+  "country": "Ý",
+  "year": 1973,
+  "status": "Còn lưu hành",
+  "note": "1973: Nonino làm grappa đơn giống (monovitigno) đầu tiên — từ Picolit. Monovitigno = tối thiểu 85% một giống."
+ },
+ {
+  "name": "Poli Grappa",
+  "type": "Grappa (IG)",
+  "producer": "Poli Distillerie, Veneto",
+  "country": "Ý",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "R. Jelínek Slivovice",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Rudolf Jelínek, Vizovice",
+  "country": "Cộng hòa Séc",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Slivovitz mận. Hãng mua đa số Vinprom-Troyan (Bulgaria) năm 2007. Cần xác minh năm."
+ },
+ {
+  "name": "Schladerer Kirschwasser",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Schladerer, Black Forest",
+  "country": "Đức",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Kirsch = chưng anh đào chua cả hạt, không ngọt (khác liqueur cherry). Cần xác minh."
+ },
+ {
+  "name": "Clear Creek Pear Brandy",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Clear Creek Distillery, Oregon",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh chủ sở hữu, năm."
+ },
+ {
+  "name": "Laird's Bottled-in-Bond Straight Apple Brandy",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Laird & Company",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "100 proof. Chưa xác minh năm."
+ },
+ {
+  "name": "Laird's Straight Applejack 86",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Laird & Company",
+  "country": "Mỹ",
+  "year": 1780,
+  "status": "Còn lưu hành",
+  "note": "Nhà chưng cất có giấy phép lâu đời nhất nước Mỹ (License No. 1, 1780). Applejack khác Calvados: không có AOC."
+ },
+ {
+  "name": "Massenez Poire Williams",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Massenez, Alsace",
+  "country": "Pháp",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Eau-de-vie lê Williams. Cần xác minh."
+ },
+ {
+  "name": "Nonino ÙE (acquavite d'uva)",
+  "type": "Fruit Brandy / Eau-de-vie",
+  "producer": "Distillerie Nonino",
+  "country": "Ý",
+  "year": 1984,
+  "status": "Còn lưu hành",
+  "note": "Chưng từ nguyên quả nho, KHÔNG phải grappa (grappa chỉ từ bã)."
+ },
+ {
+  "name": "Ararat 5 Years",
+  "type": "Armenian Brandy",
+  "producer": "Yerevan Brandy Company (Pernod Ricard)",
+  "country": "Armenia",
+  "year": 1877,
+  "status": "Còn lưu hành",
+  "note": "1877 là năm thương hiệu Ararat bắt đầu sản xuất. Chuyện 'được gọi là cognac nhờ giải Paris 1900' chưa được kiểm chứng."
+ },
+ {
+  "name": "Ararat Akhtamar 10 Years",
+  "type": "Armenian Brandy",
+  "producer": "Yerevan Brandy Company (Pernod Ricard)",
+  "country": "Armenia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "10 năm tuổi. Chưa xác minh năm ra mắt."
+ },
+ {
+  "name": "Ararat Dvin",
+  "type": "Armenian Brandy",
+  "producer": "Yerevan Brandy Company (Pernod Ricard)",
+  "country": "Armenia",
+  "year": 1943,
+  "status": "Còn lưu hành",
+  "note": "Ra 1943. Giai thoại Stalin tặng Churchill ở Yalta — chưa có tài liệu xác nhận."
+ },
+ {
+  "name": "Ararat Nairi 20 Years",
+  "type": "Armenian Brandy",
+  "producer": "Yerevan Brandy Company (Pernod Ricard)",
+  "country": "Armenia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "20 năm tuổi."
+ },
+ {
+  "name": "Metaxa 12 Stars",
+  "type": "Greek Spirit (Metaxa)",
+  "producer": "Metaxa (Rémy Cointreau)",
+  "country": "Hy Lạp",
+  "year": 1888,
+  "status": "Còn lưu hành",
+  "note": "Số sao không phải số năm tuổi."
+ },
+ {
+  "name": "Metaxa 5 Stars",
+  "type": "Greek Spirit (Metaxa)",
+  "producer": "Metaxa (Rémy Cointreau)",
+  "country": "Hy Lạp",
+  "year": 1888,
+  "status": "Còn lưu hành",
+  "note": "Spyros Metaxa tạo 1888. Pha brandy + rượu vang Muscat ủ + botanical → không được gọi là brandy theo luật EU."
+ },
+ {
+  "name": "Sarajishvili",
+  "type": "Georgian Brandy",
+  "producer": "Sarajishvili, Tbilisi",
+  "country": "Gruzia",
+  "year": 1884,
+  "status": "Cần xác minh",
+  "note": "David Sarajishvili lập xưởng brandy Tbilisi 1884. Cần xác minh dòng đang bán."
+ },
+ {
+  "name": "Kizlyar Brandy",
+  "type": "Russian Brandy",
+  "producer": "Kizlyar Brandy Factory, Dagestan",
+  "country": "Nga",
+  "year": 1885,
+  "status": "Cần xác minh",
+  "note": "Sản xuất lần đầu 1885 theo công thức Pháp. Cần xác minh."
+ },
+ {
+  "name": "Klipdrift Export",
+  "type": "South African Brandy",
+  "producer": "Klipdrift (Heineken Beverages)",
+  "country": "Nam Phi",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "KWV 10 Year Old",
+  "type": "South African Brandy",
+  "producer": "KWV",
+  "country": "Nam Phi",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Luật Nam Phi: pot still brandy chưng nồi đồng hai lần, ủ tối thiểu 3 năm. Cần xác minh."
+ },
+ {
+  "name": "Oude Meester",
+  "type": "South African Brandy",
+  "producer": "Heineken Beverages",
+  "country": "Nam Phi",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Van Ryn's 12 Year Old Distillers Reserve",
+  "type": "South African Brandy",
+  "producer": "Van Ryn Brandy Cellar",
+  "country": "Nam Phi",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "Cần xác minh."
+ },
+ {
+  "name": "Courrier Napoleon Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Tilaknagar Industries",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "1,6 triệu thùng 2023 (+55,5%)."
+ },
+ {
+  "name": "Mansion House Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Tilaknagar Industries",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "#1 bảng brandy & cognac TSB 2024: 8,3 triệu thùng (2023). Chưa xác minh năm, công thức."
+ },
+ {
+  "name": "McDowell's No.1 Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "United Spirits (Diageo)",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "1,2 triệu thùng 2023."
+ },
+ {
+  "name": "Morpheus Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Radico Khaitan",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "1,3 triệu thùng 2023."
+ },
+ {
+  "name": "Old Admiral Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Chưa xác minh chủ sở hữu",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "3,7 triệu thùng 2023 (#3)."
+ },
+ {
+  "name": "Silver Cup Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Amrut Distillers",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "1,7 triệu thùng 2023."
+ },
+ {
+  "name": "Dreher",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Campari Group",
+  "country": "Brazil",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "2,7 triệu thùng 2023 (#4). Cần xác minh nguyên liệu nền."
+ },
+ {
+  "name": "Old Kenigsberg",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Alliance 1892 Brandy Factory",
+  "country": "Nga",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": "1,5 triệu thùng 2023 (+44,7%)."
+ },
+ {
+  "name": "Emperador Brandy",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Emperador Inc. (Alliance Global Group)",
+  "country": "Philippines",
+  "year": 1990,
+  "status": "Còn lưu hành",
+  "note": "Nhãn brandy đầu tiên của Philippines; brandy bán chạy nhất thế giới từ 2006 theo hãng."
+ },
+ {
+  "name": "Emperador Light",
+  "type": "Mass-market Brandy (châu Á / Mỹ Latin)",
+  "producer": "Emperador Inc.",
+  "country": "Philippines",
+  "year": 2010,
+  "status": "Còn lưu hành",
+  "note": "Cut brandy: brandy pha cồn mía trung tính, độ cồn thấp. ~300 triệu lít năm 2015."
+ }
+]

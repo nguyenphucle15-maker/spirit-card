@@ -1,0 +1,4448 @@
+[
+ {
+  "name": "A1710 La Fleur",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie A1710",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "A1710 La Perle Blanche",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie A1710, Le Simon",
+  "country": "Martinique (Pháp)",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Depaz Blue Cane Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Depaz, Saint-Pierre",
+  "country": "Martinique (Pháp)",
+  "year": 1917,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Depaz VSOP Réserve Spéciale",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Depaz",
+  "country": "Martinique (Pháp)",
+  "year": 1917,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Depaz XO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Depaz",
+  "country": "Martinique (Pháp)",
+  "year": 1917,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Dillon Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Dillon, Fort-de-France",
+  "country": "Martinique (Pháp)",
+  "year": 1690,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Hardy VSOP",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Hardy (sản xuất tại Simon)",
+  "country": "Martinique (Pháp)",
+  "year": 1830,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "HSE Black Sheriff",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Saint-Etienne",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "HSE Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Saint-Etienne, Gros-Morne",
+  "country": "Martinique (Pháp)",
+  "year": 1882,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "HSE VSOP",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Saint-Etienne",
+  "country": "Martinique (Pháp)",
+  "year": 1882,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "HSE XO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Saint-Etienne",
+  "country": "Martinique (Pháp)",
+  "year": 1882,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "La Favorite Coeur de Canne Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie La Favorite, Fort-de-France",
+  "country": "Martinique (Pháp)",
+  "year": 1842,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "La Favorite La Flibuste Millésime",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie La Favorite",
+  "country": "Martinique (Pháp)",
+  "year": 1990,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "La Mauny Blanc 50",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie La Mauny, Rivière-Pilote",
+  "country": "Martinique (Pháp)",
+  "year": 1749,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "La Mauny VSOP",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie La Mauny",
+  "country": "Martinique (Pháp)",
+  "year": 1749,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Le Rhum par Neisson",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Neisson",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Neisson Blanc L'Esprit 70",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Neisson, Le Carbet",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Neisson Réserve Spéciale",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Neisson",
+  "country": "Martinique (Pháp)",
+  "year": 1932,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Neisson XO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Neisson",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Bally Millésime",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Bally (sản xuất tại Simon)",
+  "country": "Martinique (Pháp)",
+  "year": 1917,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Rhum Clément Blanc 50",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Clément / Le Simon",
+  "country": "Martinique (Pháp)",
+  "year": 1887,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Clément Canne Bleue",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Clément / Le Simon",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Clément VSOP",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Clément",
+  "country": "Martinique (Pháp)",
+  "year": 1887,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Clément XO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Habitation Clément",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum J.M Blanc 55",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie J.M, Macouba",
+  "country": "Martinique (Pháp)",
+  "year": 1845,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum J.M Terroir Volcanique",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie J.M",
+  "country": "Martinique (Pháp)",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum J.M VO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie J.M",
+  "country": "Martinique (Pháp)",
+  "year": 1845,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum J.M VSOP",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie J.M",
+  "country": "Martinique (Pháp)",
+  "year": 1845,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum J.M XO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie J.M",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Saint James Fleur de Canne Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Saint James",
+  "country": "Martinique (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Saint James Imperial Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Saint James, Sainte-Marie",
+  "country": "Martinique (Pháp)",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Saint James Royal Ambre",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Saint James",
+  "country": "Martinique (Pháp)",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Saint James VO / VSOP",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Saint James",
+  "country": "Martinique (Pháp)",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Saint James XO",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Saint James",
+  "country": "Martinique (Pháp)",
+  "year": 1765,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Trois Rivières Ambre",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Trois Rivières",
+  "country": "Martinique (Pháp)",
+  "year": 1660,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Trois Rivières Blanc",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Trois Rivières (La Mauny)",
+  "country": "Martinique (Pháp)",
+  "year": 1660,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Trois Rivières Cuvée de l'Océan",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Trois Rivières",
+  "country": "Martinique (Pháp)",
+  "year": 2007,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Trois Rivières Triple Millésime",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Trois Rivières",
+  "country": "Martinique (Pháp)",
+  "year": 2013,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Trois Rivières VSOP Réserve Spéciale",
+  "type": "Rhum Agricole AOC Martinique",
+  "producer": "Distillerie Trois Rivières",
+  "country": "Martinique (Pháp)",
+  "year": 1660,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bologne Black Cane",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Bologne",
+  "country": "Guadeloupe (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bologne Blanc 50",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Bologne, Basse-Terre",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1887,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Damoiseau Blanc 55",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Damoiseau, Le Moule",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1942,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Damoiseau Millésime",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Damoiseau",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1953,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Damoiseau VSOP",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Damoiseau",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1942,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Damoiseau XO",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Damoiseau",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1942,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Karukera Blanc",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Longueteau (Karukera)",
+  "country": "Guadeloupe (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Karukera Rhum Vieux Réserve Spéciale",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Longueteau",
+  "country": "Guadeloupe (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Longueteau Blanc 62",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Longueteau, Sainte-Marie",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1895,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Longueteau Genesis",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Longueteau",
+  "country": "Guadeloupe (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Montebello Blanc 50",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Montebello, Petit-Bourg",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1930,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Montebello Vieux 6 ans",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Montebello",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1930,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Reimonenq Blanc",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Reimonenq, Sainte-Rose",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1916,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Severin Blanc",
+  "type": "Rhum Agricole (Guadeloupe)",
+  "producer": "Distillerie Severin, Sainte-Rose",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1928,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bellevue Blanc",
+  "type": "Rhum Agricole (Marie-Galante)",
+  "producer": "Distillerie Bellevue, Marie-Galante",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1821,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Bielle Blanc 59",
+  "type": "Rhum Agricole (Marie-Galante)",
+  "producer": "Distillerie Bielle, Marie-Galante",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1769,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bielle Premium 2007",
+  "type": "Rhum Agricole (Marie-Galante)",
+  "producer": "Distillerie Bielle",
+  "country": "Guadeloupe (Pháp)",
+  "year": 2007,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Père Labat Blanc 59",
+  "type": "Rhum Agricole (Marie-Galante)",
+  "producer": "Distillerie Poisson, Marie-Galante",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1916,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Père Labat Vieux",
+  "type": "Rhum Agricole (Marie-Galante)",
+  "producer": "Distillerie Poisson",
+  "country": "Guadeloupe (Pháp)",
+  "year": 1916,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Isautier Vieux 7 ans",
+  "type": "Rhum Traditionnel (Réunion)",
+  "producer": "Distillerie Isautier",
+  "country": "Réunion (Pháp)",
+  "year": 1845,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Rivière du Mât Vieux XO",
+  "type": "Rhum Traditionnel (Réunion)",
+  "producer": "Distillerie Rivière du Mât",
+  "country": "Réunion (Pháp)",
+  "year": 1845,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Savanna Créol Blanc",
+  "type": "Rhum Traditionnel (Réunion)",
+  "producer": "Distillerie Savanna, Bois-Rouge",
+  "country": "Réunion (Pháp)",
+  "year": 1948,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Savanna Intense 5 ans",
+  "type": "Rhum Traditionnel (Réunion)",
+  "producer": "Distillerie Savanna",
+  "country": "Réunion (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Savanna Grand Arôme HERR",
+  "type": "Rhum Grand Arôme",
+  "producer": "Distillerie Savanna",
+  "country": "Réunion (Pháp)",
+  "year": 1948,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Savanna Lontan Grand Arôme",
+  "type": "Rhum Grand Arôme",
+  "producer": "Distillerie Savanna",
+  "country": "Réunion (Pháp)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rum Agricola da Madeira 970",
+  "type": "Rum da Madeira (IGP)",
+  "producer": "Engenhos do Norte, Porto da Cruz",
+  "country": "Bồ Đào Nha",
+  "year": 1927,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "William Hinton 6 Años",
+  "type": "Rum da Madeira (IGP)",
+  "producer": "Engenho Novo da Madeira",
+  "country": "Bồ Đào Nha",
+  "year": 2006,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "William Hinton Rum Agricola Branco",
+  "type": "Rum da Madeira (IGP)",
+  "producer": "Engenho Novo da Madeira",
+  "country": "Bồ Đào Nha",
+  "year": 2006,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cacique 500 Extra Añejo",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Licorerias Unidas (Diageo)",
+  "country": "Venezuela",
+  "year": 1959,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Diplomático Ambassador Selection",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Destilerías Unidas (DUSA)",
+  "country": "Venezuela",
+  "year": 2013,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Diplomático Distillery Collection No.1-3",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Destilerías Unidas (DUSA)",
+  "country": "Venezuela",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Diplomático Mantuano",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Destilerías Unidas (DUSA)",
+  "country": "Venezuela",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Diplomático Planas",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Destilerías Unidas (DUSA), Lara",
+  "country": "Venezuela",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Diplomático Reserva Exclusiva",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Destilerías Unidas (DUSA)",
+  "country": "Venezuela",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Diplomático Single Vintage",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Destilerías Unidas (DUSA)",
+  "country": "Venezuela",
+  "year": 2010,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Ocumare Añejo",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Ron Ocumare",
+  "country": "Venezuela",
+  "year": 1889,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Pampero Aniversario",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Industrias Pampero (Diageo)",
+  "country": "Venezuela",
+  "year": 1963,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Pampero Especial",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Industrias Pampero (Diageo)",
+  "country": "Venezuela",
+  "year": 1938,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Carupano 21 Años",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Ron Carupano, Sucre",
+  "country": "Venezuela",
+  "year": 1762,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santa Teresa 1796 Solera",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Ron Santa Teresa, Aragua",
+  "country": "Venezuela",
+  "year": 1996,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santa Teresa Claro",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Ron Santa Teresa",
+  "country": "Venezuela",
+  "year": 1796,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santa Teresa Gran Reserva",
+  "type": "Ron de Venezuela (DOC)",
+  "producer": "Ron Santa Teresa",
+  "country": "Venezuela",
+  "year": 1796,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Uruapan Charanda Añejo",
+  "type": "Charanda (DO Mexico)",
+  "producer": "Destilería Uruapan",
+  "country": "Mexico",
+  "year": 1907,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Uruapan Charanda Blanco",
+  "type": "Charanda (DO Mexico)",
+  "producer": "Destilería Uruapan, Michoacán",
+  "country": "Mexico",
+  "year": 1907,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Abelha Organic Cachaça",
+  "type": "Cachaça",
+  "producer": "Abelha, Bahia",
+  "country": "Brazil",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Avua Prata / Amburana",
+  "type": "Cachaça",
+  "producer": "Avua Cachaça, Rio de Janeiro",
+  "country": "Brazil",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cachaça 51",
+  "type": "Cachaça",
+  "producer": "Companhia Müller de Bebidas, São Paulo",
+  "country": "Brazil",
+  "year": 1959,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Germana Heritage",
+  "type": "Cachaça",
+  "producer": "Cachaçaria Nega Fulo, Minas Gerais",
+  "country": "Brazil",
+  "year": 1912,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Leblon Cachaça",
+  "type": "Cachaça",
+  "producer": "Maison Leblon, Minas Gerais (Bacardi)",
+  "country": "Brazil",
+  "year": 2005,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Magnifica Tradicional",
+  "type": "Cachaça",
+  "producer": "Cachaça Magnifica, São Paulo",
+  "country": "Brazil",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Novo Fogo Silver / Barrel Aged",
+  "type": "Cachaça",
+  "producer": "Novo Fogo, Paraná",
+  "country": "Brazil",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Pitu",
+  "type": "Cachaça",
+  "producer": "Pitu, Pernambuco",
+  "country": "Brazil",
+  "year": 1938,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Sagatiba Pura",
+  "type": "Cachaça",
+  "producer": "Sagatiba (Campari)",
+  "country": "Brazil",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Salinas Prata",
+  "type": "Cachaça",
+  "producer": "Cachaça Salinas, Minas Gerais",
+  "country": "Brazil",
+  "year": 1960,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Seleta Ouro",
+  "type": "Cachaça",
+  "producer": "Cachaça Seleta, Minas Gerais",
+  "country": "Brazil",
+  "year": 1878,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Weber Haus Organic",
+  "type": "Cachaça",
+  "producer": "Weber Haus, Rio Grande do Sul",
+  "country": "Brazil",
+  "year": 1948,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Yaguara Organic Cachaça",
+  "type": "Cachaça",
+  "producer": "Yaguara, Rio Grande do Sul",
+  "country": "Brazil",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ypioca Prata / Ouro",
+  "type": "Cachaça",
+  "producer": "Ypioca, Ceará (Diageo)",
+  "country": "Brazil",
+  "year": 1846,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ronmiel Arehucas",
+  "type": "Ronmiel de Canarias (IGP)",
+  "producer": "Destilerías Arehucas",
+  "country": "Tây Ban Nha",
+  "year": 1884,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bumbu The Original",
+  "type": "Flavoured Rum",
+  "producer": "Bumbu Rum Company (rum Barbados)",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Plantation Pineapple Stiggins' Fancy",
+  "type": "Flavoured Rum",
+  "producer": "Maison Ferrand",
+  "country": "Pháp",
+  "year": 2014,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Coconut",
+  "type": "Flavoured Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Limon",
+  "type": "Flavoured Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1995,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Raspberry (Razz)",
+  "type": "Flavoured Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Dead Man's Fingers Spiced Rum",
+  "type": "Spiced Rum",
+  "producer": "Halewood Artisanal Spirits",
+  "country": "Anh (UK)",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Old J Spiced Rum",
+  "type": "Spiced Rum",
+  "producer": "Atom Brands",
+  "country": "Anh (UK)",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Spytail Black Ginger",
+  "type": "Spiced Rum",
+  "producer": "Biggar & Leith (rum Caribbean)",
+  "country": "Anh (UK)",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Bois Bande Spiced Rum",
+  "type": "Spiced Rum",
+  "producer": "Dominica",
+  "country": "Dominica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Sailor Jerry Spiced Rum",
+  "type": "Spiced Rum",
+  "producer": "William Grant & Sons (rum Caribbean)",
+  "country": "Mỹ",
+  "year": 1999,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Oakheart Spiced",
+  "type": "Spiced Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2011,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Captain Morgan Black Spiced",
+  "type": "Spiced Rum",
+  "producer": "Diageo",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Captain Morgan Original Spiced Gold",
+  "type": "Spiced Rum",
+  "producer": "Diageo (chưng cất tại St. Croix)",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": 1984,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Chairman's Reserve Spiced",
+  "type": "Spiced Rum",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "The Kraken Black Spiced Rum",
+  "type": "Spiced Rum",
+  "producer": "Proximo Spirits (rum Trinidad)",
+  "country": "Trinidad & Tobago",
+  "year": 2010,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Malibu Original Coconut",
+  "type": "Rum Liqueur",
+  "producer": "West Indies Rum Distillery (Pernod Ricard)",
+  "country": "Barbados",
+  "year": 1980,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Legendario Elixir de Cuba",
+  "type": "Rum Liqueur",
+  "producer": "Legendario, La Habana",
+  "country": "Cuba",
+  "year": 1946,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Koko Kanu Coconut Rum",
+  "type": "Rum Liqueur",
+  "producer": "J. Wray & Nephew",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Sangster's Jamaica Rum Cream",
+  "type": "Rum Liqueur",
+  "producer": "Sangster's",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Stroh 40 / 54 / 60",
+  "type": "Inländer-Rum",
+  "producer": "Sebastian Stroh",
+  "country": "Áo",
+  "year": 1832,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Stroh 80 Original",
+  "type": "Inländer-Rum",
+  "producer": "Sebastian Stroh, Klagenfurt",
+  "country": "Áo",
+  "year": 1832,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Balle Rum-Verschnitt",
+  "type": "Rum-Verschnitt",
+  "producer": "Balle, Flensburg",
+  "country": "Đức",
+  "year": 1772,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Flensburger Rum-Verschnitt Hansen",
+  "type": "Rum-Verschnitt",
+  "producer": "Hansen Rum, Flensburg",
+  "country": "Đức",
+  "year": 1858,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Pott Rum 54%",
+  "type": "Rum-Verschnitt",
+  "producer": "Pott (Eckes), Flensburg",
+  "country": "Đức",
+  "year": 1811,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Brugal Añejo",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Brugal & Co, Puerto Plata (Edrington)",
+  "country": "Cộng hòa Dominica",
+  "year": 1888,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Carta Blanca (sản xuất tại Cuba)",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Bacardi, Santiago de Cuba",
+  "country": "Cuba",
+  "year": 1862,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Havana Club Añejo 3 Años",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard / Cuba Ron), San José",
+  "country": "Cuba",
+  "year": 1934,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Havana Club Añejo Especial",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": 2003,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Carta Blanca / Superior",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Q Cristal",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Destilería Serralles, Ponce",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1934,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Palo Viejo",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1935,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Llave",
+  "type": "Ron Ligero (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1960,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Dictador 12 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Colombiana, Cartagena",
+  "country": "Colombia",
+  "year": 1913,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Dictador 2 Masters Collection",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Colombiana",
+  "country": "Colombia",
+  "year": 2015,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Dictador 20 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Colombiana",
+  "country": "Colombia",
+  "year": 1913,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Dictador XO Insolent / Perpetual",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Colombiana",
+  "country": "Colombia",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "La Hechicera Reserva Familiar",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Casa Santana, Barranquilla",
+  "country": "Colombia",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Parce 8 / 12 Year",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Parce Rum",
+  "country": "Colombia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Viejo de Caldas 8 / 15",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Industria Licorera de Caldas",
+  "country": "Colombia",
+  "year": 1926,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Atlantico Private Cask",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Atlantico Rum",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Brugal 1888 Gran Reserva Familiar",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Brugal & Co",
+  "country": "Cộng hòa Dominica",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Brugal Extra Viejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Brugal & Co",
+  "country": "Cộng hòa Dominica",
+  "year": 1888,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Brugal Leyenda Extra Viejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Brugal & Co",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Brugal Papa Andres",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Brugal & Co",
+  "country": "Cộng hòa Dominica",
+  "year": 2012,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Matusalem Insolito",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Matusalem",
+  "country": "Cộng hòa Dominica",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Barceló Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Barceló",
+  "country": "Cộng hòa Dominica",
+  "year": 1930,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Barceló Gran Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Barceló",
+  "country": "Cộng hòa Dominica",
+  "year": 1930,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Barceló Imperial",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Barceló",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Barceló Imperial Onyx",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Barceló",
+  "country": "Cộng hòa Dominica",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Barceló Imperial Premium Blend 30 Aniversario",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Barceló",
+  "country": "Cộng hòa Dominica",
+  "year": 2018,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Ron Bermúdez 1852",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Bermúdez",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Bermúdez Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Bermúdez, Santiago de los Caballeros",
+  "country": "Cộng hòa Dominica",
+  "year": 1852,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Siboney Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Siboney",
+  "country": "Cộng hòa Dominica",
+  "year": 1930,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Centenario 9 Conmemorativo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Centenario Internacional, Alajuela",
+  "country": "Costa Rica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Eminente Ambar Claro",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Eminente (LVMH)",
+  "country": "Cuba",
+  "year": 2022,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Eminente Reserva 7 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Eminente (LVMH / Cuba Ron)",
+  "country": "Cuba",
+  "year": 2020,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Havana Club 15 Años Gran Reserva",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Havana Club Añejo 7 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Havana Club Maximo Extra Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": 2006,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Havana Club Seleccion de Maestros",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Havana Club Tributo Collection",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Havana Club Union",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Caney Carta Blanca",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Caney, Santiago",
+  "country": "Cuba",
+  "year": 1862,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Cubay Añejo 10 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Cubay (Cuba Ron), Villa Clara",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Mulata Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Technoazucar / Cuba",
+  "country": "Cuba",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Varadero Añejo 7 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Cuba Ron",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santiago de Cuba 20 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Santiago de Cuba",
+  "country": "Cuba",
+  "year": 1998,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santiago de Cuba 25 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Santiago de Cuba",
+  "country": "Cuba",
+  "year": 1998,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Santiago de Cuba Añejo 11 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Santiago de Cuba",
+  "country": "Cuba",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santiago de Cuba Extra Añejo 12 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Ron Santiago de Cuba",
+  "country": "Cuba",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Deadhead Rum 6 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Rubi / Deadhead",
+  "country": "Mexico",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Mocambo 20 Años Art Edition",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Licores Veracruz",
+  "country": "Mexico",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Prohibido Rum Solera 12",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Prohibido, Veracruz",
+  "country": "Mexico",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Mombacho 8 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Mombacho Rum, Granada",
+  "country": "Nicaragua",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Flor de Cana 12 Años Centenario",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Compañía Licorera de Nicaragua",
+  "country": "Nicaragua",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Flor de Cana 18 Años Centenario Gold",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Compañía Licorera de Nicaragua",
+  "country": "Nicaragua",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Flor de Cana 25 Años Centenario",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Compañía Licorera de Nicaragua",
+  "country": "Nicaragua",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Flor de Cana 4 Extra Seco",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Compañía Licorera de Nicaragua, Chichigalpa",
+  "country": "Nicaragua",
+  "year": 1890,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Flor de Cana 5 Años Black Label",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Compañía Licorera de Nicaragua",
+  "country": "Nicaragua",
+  "year": 1890,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Flor de Cana 7 Años Gran Reserva",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Compañía Licorera de Nicaragua",
+  "country": "Nicaragua",
+  "year": 1890,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Malecón Reserva Imperial 21",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilerías Panameñas",
+  "country": "Panama",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Abuelo 12 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Varela Hermanos",
+  "country": "Panama",
+  "year": 1936,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Abuelo 7 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Varela Hermanos, Pesé",
+  "country": "Panama",
+  "year": 1936,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Abuelo Centuria",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Varela Hermanos",
+  "country": "Panama",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Abuelo XV Finish Collection (Oloroso / Tawny Port)",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Varela Hermanos",
+  "country": "Panama",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Selvarey Cacao / Owner's Reserve",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Selvarey Rum",
+  "country": "Panama",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Cartavio XO 18",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Cartavio",
+  "country": "Peru",
+  "year": 1929,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Facundo Eximo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Facundo Exquisito",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Facundo Neo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Facundo Paraiso",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Gran Reserva Diez 10 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Reserva Cuatro 4 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Reserva Ocho 8 Años",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Caliche Rum",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Serralles (cho Caliche)",
+  "country": "Puerto Rico (Mỹ)",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Don Q Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1865,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Q Double Aged Vermouth Cask Finish",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Q Gran Añejo",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1865,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Q Reserva 7",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Q Signature Release Single Barrel",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2015,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Ron del Barrilito 2 Estrellas",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Edmundo B. Fernandez, Bayamon",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1880,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron del Barrilito 3 Estrellas",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Edmundo B. Fernandez",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1880,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron del Barrilito 4 Estrellas",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Edmundo B. Fernandez",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2017,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Ron del Barrilito 5 Estrellas",
+  "type": "Aged Rum (Spanish Style)",
+  "producer": "Edmundo B. Fernandez",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 2021,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Cavalier Antigua Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Antigua Distillery",
+  "country": "Antigua & Barbuda",
+  "year": 1932,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "English Harbour 10 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Antigua Distillery",
+  "country": "Antigua & Barbuda",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "English Harbour 1981 Reserve",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Antigua Distillery",
+  "country": "Antigua & Barbuda",
+  "year": 2012,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "English Harbour 5 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Antigua Distillery, St. John's",
+  "country": "Antigua & Barbuda",
+  "year": 1932,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "English Harbour High Congener Series",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Antigua Distillery",
+  "country": "Antigua & Barbuda",
+  "year": 2019,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "John Watling's Buena Vista",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "John Watling's Distillery, Nassau",
+  "country": "Bahamas",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ricardo Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Bahamas",
+  "country": "Bahamas",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Cockspur VSOR",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "West Indies Rum Distillery",
+  "country": "Barbados",
+  "year": 1884,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Doorly's 12 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Doorly's 14 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Doorly's 5 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Doorly's XO",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery, St. Philip",
+  "country": "Barbados",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mount Gay 1703 Master Select",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Mount Gay Distilleries",
+  "country": "Barbados",
+  "year": 2009,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mount Gay Origin Series (The Port Cask / Madeira Cask)",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Mount Gay Distilleries",
+  "country": "Barbados",
+  "year": 2021,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Mount Gay XO Triple Cask Blend",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Mount Gay Distilleries",
+  "country": "Barbados",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Plantation Barbados 5 Year Grande Reserve",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Maison Ferrand / WIRD",
+  "country": "Barbados",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Plantation Barbados XO 20th Anniversary",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Maison Ferrand / WIRD",
+  "country": "Barbados",
+  "year": 2009,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "R.L. Seale's 10 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Nicholas Abbey 10 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Nicholas Abbey",
+  "country": "Barbados",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Nicholas Abbey 12 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Nicholas Abbey",
+  "country": "Barbados",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Nicholas Abbey 15 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Nicholas Abbey",
+  "country": "Barbados",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Nicholas Abbey 18 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Nicholas Abbey",
+  "country": "Barbados",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Nicholas Abbey 5 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Nicholas Abbey, St. Peter",
+  "country": "Barbados",
+  "year": 2009,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Nicholas Abbey 8 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Nicholas Abbey",
+  "country": "Barbados",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "The Real McCoy 12 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "The Real McCoy 5 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Travellers Don Omario's Vintage 12",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Travellers Liquors",
+  "country": "Belize",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Travellers One Barrel",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Travellers Liquors, Belize City",
+  "country": "Belize",
+  "year": 1953,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Gosling's Black Seal",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Gosling Brothers, Hamilton",
+  "country": "Bermuda",
+  "year": 1860,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Gosling's Gold Bermuda Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Gosling Brothers",
+  "country": "Bermuda",
+  "year": 1806,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Gosling's Old Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Gosling Brothers",
+  "country": "Bermuda",
+  "year": 1806,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Macoucherie Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Macoucherie Distillery",
+  "country": "Dominica",
+  "year": 1817,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Renegade Pre-Cask / Cane Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Renegade Rum Distillery, Saint Patrick",
+  "country": "Grenada",
+  "year": 2021,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Westerhall Plantation Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Westerhall Estate",
+  "country": "Grenada",
+  "year": 1800,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Blackwell Black Gold Fine Jamaican Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "J. Wray & Nephew cho Blackwell",
+  "country": "Jamaica",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Monymusk Classic Gold",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Clarendon Distillers",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Lazy Dodo Single Estate",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Grays Distilling",
+  "country": "Mauritius",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "New Grove Old Tradition 8",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Grays Distilling, Saint Aubin",
+  "country": "Mauritius",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Penny Blue XO Single Estate",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Medine Distillery",
+  "country": "Mauritius",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Papa's Pilar Blonde / Dark",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Hemingway Rum Company, Florida",
+  "country": "Mỹ",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ragged Mountain Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Cape Cod / Massachusetts",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Roulaison Historic Louisiana Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Roulaison Distilling, New Orleans",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Tapanga Overproof",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Tapanga / Nam Phi",
+  "country": "Nam Phi",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Plantation 3 Stars White Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Maison Ferrand (Barbados/Jamaica/Trinidad)",
+  "country": "Pháp",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Plantation Fiji 2009",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Maison Ferrand (rum Fiji)",
+  "country": "Pháp",
+  "year": 2018,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Plantation Original Dark",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Maison Ferrand (Trinidad/Jamaica)",
+  "country": "Pháp",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Plantation Xaymaca Special Dry",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Maison Ferrand (rum Jamaica)",
+  "country": "Pháp",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Callwood Arundel Rum",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Callwood Distillery, Tortola",
+  "country": "Quần đảo Virgin thuộc Anh",
+  "year": 1800,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Captain Morgan Private Stock",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Diageo",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cruzan Aged Light / Aged Dark",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Cruzan Rum Distillery, St. Croix (Beam Suntory)",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": 1760,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cruzan Single Barrel Estate Diamond",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Cruzan Rum Distillery",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Admiral Rodney HMS Formidable",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Admiral Rodney HMS Princessa",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bounty Premium Dark",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Chairman's Reserve 1931",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": 2011,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Chairman's Reserve Forgotten Casks",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Chairman's Reserve Original",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Lucia Distillers, Roseau Valley",
+  "country": "Saint Lucia",
+  "year": 1999,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Captain Bligh XO",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "St. Vincent Distillers",
+  "country": "Saint Vincent & Grenadines",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Takamaka Bay St. Andre 8",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Takamaka Rum, Mahé",
+  "country": "Seychelles",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Takamaka Zepis Kreol",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Takamaka Rum",
+  "country": "Seychelles",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Angostura 1824",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Angostura 1919",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Angostura 5 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": 1947,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Angostura 7 Year",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": 1947,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Angostura No. 1 Cask Collection",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": 2013,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Angostura Single Barrel",
+  "type": "Aged Rum (Caribbean / English Style)",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": 2010,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Cockspur Fine Rum",
+  "type": "Barbados Blended Rum",
+  "producer": "West Indies Rum Distillery, St. Michael",
+  "country": "Barbados",
+  "year": 1884,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mount Gay Black Barrel",
+  "type": "Barbados Blended Rum",
+  "producer": "Mount Gay Distilleries",
+  "country": "Barbados",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mount Gay Eclipse",
+  "type": "Barbados Blended Rum",
+  "producer": "Mount Gay Distilleries (Rémy Cointreau)",
+  "country": "Barbados",
+  "year": 1703,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mount Gay Pot Still Rum",
+  "type": "Barbados Blended Rum",
+  "producer": "Mount Gay Distilleries",
+  "country": "Barbados",
+  "year": 2021,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate 12 Year Rare Casks",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate 15 Year Black River Casks",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 2020,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate 21 Year Nassau Valley",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate 30 Year",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 2003,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate 8 Year Reserve",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate Joy Anniversary Blend 25 Year",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate Signature Blend",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (J. Wray & Nephew / Campari), Nassau Valley",
+  "country": "Jamaica",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Appleton Estate V/X",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 1749,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Doctor Bird Jamaican Rum",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Two James Spirits (rum Jamaica)",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Hampden Estate 8 Year",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Hampden Estate",
+  "country": "Jamaica",
+  "year": 2020,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Hampden Estate Great House Distillery Edition",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Hampden Estate",
+  "country": "Jamaica",
+  "year": 2019,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Hampden Estate Pure Single Jamaican Rum 46%",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Hampden Estate, Trelawny",
+  "country": "Jamaica",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Hampden HLCF Classic",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Hampden Estate",
+  "country": "Jamaica",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Hampden LROK The Younger",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Hampden Estate",
+  "country": "Jamaica",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Kingston 62 Gold / White",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Appleton Estate (Campari)",
+  "country": "Jamaica",
+  "year": 2020,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Long Pond TECA / ITP",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Long Pond Distillery, Trelawny",
+  "country": "Jamaica",
+  "year": 1753,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Worthy Park 109",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Worthy Park Estate",
+  "country": "Jamaica",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Worthy Park Single Estate Reserve",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Worthy Park Estate, St. Catherine",
+  "country": "Jamaica",
+  "year": 2017,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Worthy Park Special Cask Series",
+  "type": "Jamaican Pot Still Rum",
+  "producer": "Worthy Park Estate",
+  "country": "Jamaica",
+  "year": 2018,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "El Dorado 12 Year",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado 15 Year Special Reserve",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado 21 Year Special Reserve",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado 25 Year",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 2007,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "El Dorado 3 Year White",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers, Diamond",
+  "country": "Guyana",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado 5 Year",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado 8 Year",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado Rare Collection Enmore",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "El Dorado Rare Collection Port Mourant",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "El Dorado Rare Collection Versailles",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 2017,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Port Mourant Double Wooden Pot Still marque",
+  "type": "Demerara Rum",
+  "producer": "Demerara Distillers (still từ 1732)",
+  "country": "Guyana",
+  "year": 1732,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Skeldon 1978 (Velier)",
+  "type": "Demerara Rum",
+  "producer": "Skeldon Distillery (đã đóng cửa)",
+  "country": "Guyana",
+  "year": 2005,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Uitvlugt Single Cask (đóng chai độc lập)",
+  "type": "Demerara Rum",
+  "producer": "Uitvlugt Distillery (đã đóng cửa)",
+  "country": "Guyana",
+  "year": 2000,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "XM 5 Year / XM 10 Year",
+  "type": "Demerara Rum",
+  "producer": "Banks DIH, Georgetown",
+  "country": "Guyana",
+  "year": 1959,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Angostura White Oak",
+  "type": "Trinidad Rum",
+  "producer": "Angostura Ltd, Laventille",
+  "country": "Trinidad & Tobago",
+  "year": 1947,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Caroni 1996 (Velier / đóng chai độc lập)",
+  "type": "Trinidad Rum",
+  "producer": "Caroni Distillery (đóng cửa 2003)",
+  "country": "Trinidad & Tobago",
+  "year": 1918,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Caroni Heavy Trinidad Rum 100 Proof",
+  "type": "Trinidad Rum",
+  "producer": "Caroni Distillery",
+  "country": "Trinidad & Tobago",
+  "year": 1918,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Fernandes Black Label",
+  "type": "Trinidad Rum",
+  "producer": "Angostura Ltd (thương hiệu Fernandes)",
+  "country": "Trinidad & Tobago",
+  "year": 1932,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Royal Oak Trinidad Rum",
+  "type": "Trinidad Rum",
+  "producer": "Angostura Ltd",
+  "country": "Trinidad & Tobago",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ten Cane Rum",
+  "type": "Trinidad Rum",
+  "producer": "Ten Cane Distillery (LVMH)",
+  "country": "Trinidad & Tobago",
+  "year": 2005,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Black Tot Finest Caribbean",
+  "type": "Navy Rum",
+  "producer": "Elixir Distillers",
+  "country": "Anh (UK)",
+  "year": 2010,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Black Tot Last Consignment",
+  "type": "Navy Rum",
+  "producer": "Elixir Distillers (rum tồn kho Hải quân Anh)",
+  "country": "Anh (UK)",
+  "year": 2010,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Black Tot Master Blender's Reserve",
+  "type": "Navy Rum",
+  "producer": "Elixir Distillers",
+  "country": "Anh (UK)",
+  "year": 2021,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Lamb's Navy Rum",
+  "type": "Navy Rum",
+  "producer": "Halewood Artisanal Spirits",
+  "country": "Anh (UK)",
+  "year": 1849,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Wood's 100 Old Navy Rum",
+  "type": "Navy Rum",
+  "producer": "William Grant & Sons (rum Guyana)",
+  "country": "Anh (UK)",
+  "year": 1887,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Lemon Hart 151",
+  "type": "Navy Rum",
+  "producer": "Demerara Distillers cho Mosaiq",
+  "country": "Guyana",
+  "year": 1804,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Lemon Hart Original 1804",
+  "type": "Navy Rum",
+  "producer": "Demerara Distillers cho Mosaiq",
+  "country": "Guyana",
+  "year": 1804,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "OVD Old Vatted Demerara",
+  "type": "Navy Rum",
+  "producer": "William Grant & Sons (rum Guyana)",
+  "country": "Guyana",
+  "year": 1838,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Skipper Demerara Rum",
+  "type": "Navy Rum",
+  "producer": "Skipper (rum Guyana)",
+  "country": "Guyana",
+  "year": 1960,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Smith & Cross Traditional Jamaica Rum 57%",
+  "type": "Navy Rum",
+  "producer": "Hampden + Long Pond, đóng chai bởi Hayman",
+  "country": "Jamaica",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Pusser's 15 Year Aged",
+  "type": "Navy Rum",
+  "producer": "Pusser's Rum Ltd",
+  "country": "Quần đảo Virgin thuộc Anh",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Pusser's British Navy Rum Blue Label",
+  "type": "Navy Rum",
+  "producer": "Pusser's Rum Ltd (blend Guyana/Trinidad)",
+  "country": "Quần đảo Virgin thuộc Anh",
+  "year": 1979,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Pusser's Gunpowder Proof 54.5%",
+  "type": "Navy Rum",
+  "producer": "Pusser's Rum Ltd",
+  "country": "Quần đảo Virgin thuộc Anh",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Barbancourt 3 Star (4 ans)",
+  "type": "Rhum Haïti",
+  "producer": "Société du Rhum Barbancourt, Port-au-Prince",
+  "country": "Haiti",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Barbancourt 5 Star (8 ans)",
+  "type": "Rhum Haïti",
+  "producer": "Société du Rhum Barbancourt",
+  "country": "Haiti",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Barbancourt Blanc",
+  "type": "Rhum Haïti",
+  "producer": "Société du Rhum Barbancourt",
+  "country": "Haiti",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rhum Barbancourt Estate Reserve 15 ans",
+  "type": "Rhum Haïti",
+  "producer": "Société du Rhum Barbancourt",
+  "country": "Haiti",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clairin Ansyen (ủ thùng)",
+  "type": "Clairin",
+  "producer": "Velier",
+  "country": "Haiti",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clairin Casimir",
+  "type": "Clairin",
+  "producer": "Distillerie Casimir, Barradère (Velier)",
+  "country": "Haiti",
+  "year": 2014,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clairin Communal",
+  "type": "Clairin",
+  "producer": "Velier (blend 4 nhà nấu)",
+  "country": "Haiti",
+  "year": 2018,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clairin Le Rocher",
+  "type": "Clairin",
+  "producer": "Distillerie Le Rocher, Pignon (Velier)",
+  "country": "Haiti",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clairin Sajous",
+  "type": "Clairin",
+  "producer": "Distillerie Chelo, Saint-Michel-de-l'Attalaye (Velier)",
+  "country": "Haiti",
+  "year": 2014,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clairin Vaval",
+  "type": "Clairin",
+  "producer": "Distillerie Arawaks, Cavaillon (Velier)",
+  "country": "Haiti",
+  "year": 2014,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St Aubin Arrange Vanille",
+  "type": "Rhum Arrangé",
+  "producer": "Distillerie St Aubin",
+  "country": "Mauritius",
+  "year": 1819,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Isautier Arrange Vanille",
+  "type": "Rhum Arrangé",
+  "producer": "Distillerie Isautier, Saint-Pierre",
+  "country": "Réunion (Pháp)",
+  "year": 1845,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Dzama Cuvee Noire Prestige",
+  "type": "Rhum Madagascar",
+  "producer": "Vidzar, Nosy Be",
+  "country": "Madagascar",
+  "year": 1980,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Dzama Vieux 10 ans",
+  "type": "Rhum Madagascar",
+  "producer": "Vidzar",
+  "country": "Madagascar",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Chamarel Blanc Agricole",
+  "type": "Rhum Agricole (ngoài Pháp)",
+  "producer": "Rhumerie de Chamarel",
+  "country": "Mauritius",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Chamarel VSOP",
+  "type": "Rhum Agricole (ngoài Pháp)",
+  "producer": "Rhumerie de Chamarel",
+  "country": "Mauritius",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rivière du Mât Blanc Agricole",
+  "type": "Rhum Agricole (ngoài Pháp)",
+  "producer": "Distillerie Rivière du Mât",
+  "country": "Réunion (Pháp)",
+  "year": 1845,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Aldea Tradicional",
+  "type": "Rhum Agricole (ngoài Pháp)",
+  "producer": "Destilería Aldea, La Palma",
+  "country": "Tây Ban Nha",
+  "year": 1936,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Arehucas 12 Años",
+  "type": "Ron Español (Canarias / Granada)",
+  "producer": "Destilerías Arehucas",
+  "country": "Tây Ban Nha",
+  "year": 1884,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Arehucas Carta Oro",
+  "type": "Ron Español (Canarias / Granada)",
+  "producer": "Destilerías Arehucas, Gran Canaria",
+  "country": "Tây Ban Nha",
+  "year": 1884,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Montero Reserva Especial",
+  "type": "Ron Español (Canarias / Granada)",
+  "producer": "Destilerías Montero, Motril Granada",
+  "country": "Tây Ban Nha",
+  "year": 1963,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Grogue de Santo Antao",
+  "type": "Grogue",
+  "producer": "Nhiều trapiche thủ công, Santo Antao",
+  "country": "Cape Verde",
+  "year": 1500,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Contessa Rum",
+  "type": "Indian Rum",
+  "producer": "Radico Khaitan",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Hercules XXX Rum",
+  "type": "Indian Rum",
+  "producer": "Mohan Meakin",
+  "country": "Ấn Độ",
+  "year": 1960,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "McDowell's No.1 Celebration Rum",
+  "type": "Indian Rum",
+  "producer": "United Spirits (Diageo)",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Old Monk 7 Year Dark Rum",
+  "type": "Indian Rum",
+  "producer": "Mohan Meakin, Ghaziabad",
+  "country": "Ấn Độ",
+  "year": 1954,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Old Monk Supreme XXX",
+  "type": "Indian Rum",
+  "producer": "Mohan Meakin",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mekhong Thai Spirit",
+  "type": "Thai Rum",
+  "producer": "Bangyikhan Distillery",
+  "country": "Thái Lan",
+  "year": 1941,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Phraya Deep Matured Gold",
+  "type": "Thai Rum",
+  "producer": "Sang Som Co / Thai Beverage",
+  "country": "Thái Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "SangSom Special Rum",
+  "type": "Thai Rum",
+  "producer": "Thai Beverage, Nakhon Pathom",
+  "country": "Thái Lan",
+  "year": 1977,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Papa 10 Year",
+  "type": "Philippine Rum",
+  "producer": "Bleeding Heart Rum Co",
+  "country": "Philippines",
+  "year": 2017,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Papa 7 Year",
+  "type": "Philippine Rum",
+  "producer": "Bleeding Heart Rum Co (Diageo), Negros",
+  "country": "Philippines",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Papa Baroko",
+  "type": "Philippine Rum",
+  "producer": "Bleeding Heart Rum Co",
+  "country": "Philippines",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Papa Rye Cask Finish",
+  "type": "Philippine Rum",
+  "producer": "Bleeding Heart Rum Co",
+  "country": "Philippines",
+  "year": 2019,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Tanduay Asian Rum 12 Years",
+  "type": "Philippine Rum",
+  "producer": "Tanduay Distillers",
+  "country": "Philippines",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Tanduay Asian Rum 5 Years",
+  "type": "Philippine Rum",
+  "producer": "Tanduay Distillers",
+  "country": "Philippines",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Tanduay Double Rum",
+  "type": "Philippine Rum",
+  "producer": "Tanduay Distillers",
+  "country": "Philippines",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Tanduay Silver / Gold",
+  "type": "Philippine Rum",
+  "producer": "Tanduay Distillers, Manila",
+  "country": "Philippines",
+  "year": 1854,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Beenleigh Artisan Double Cask",
+  "type": "Australian Rum",
+  "producer": "Beenleigh Artisan Distillers, Queensland",
+  "country": "Úc",
+  "year": 1884,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bundaberg Black Barrel",
+  "type": "Australian Rum",
+  "producer": "Bundaberg Distilling Co",
+  "country": "Úc",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bundaberg Master Distillers Collection",
+  "type": "Australian Rum",
+  "producer": "Bundaberg Distilling Co",
+  "country": "Úc",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bundaberg Original UP Rum",
+  "type": "Australian Rum",
+  "producer": "Bundaberg Distilling Co, Queensland (Diageo)",
+  "country": "Úc",
+  "year": 1888,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bundaberg Select Vat 207",
+  "type": "Australian Rum",
+  "producer": "Bundaberg Distilling Co",
+  "country": "Úc",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Husk Pure Cane Rum",
+  "type": "Australian Rum",
+  "producer": "Husk Distillers, New South Wales",
+  "country": "Úc",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Kalki Moon Original Spiced",
+  "type": "Australian Rum",
+  "producer": "Kalki Moon Distilling, Bundaberg",
+  "country": "Úc",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Mt. Uncle Botanic Australian Rum",
+  "type": "Australian Rum",
+  "producer": "Mt. Uncle Distillery, Queensland",
+  "country": "Úc",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Sunshine & Sons Australian Rum",
+  "type": "Australian Rum",
+  "producer": "Sunshine & Sons, Sunshine Coast",
+  "country": "Úc",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Bati Premium Gold",
+  "type": "Pacific Rum",
+  "producer": "South Pacific Distilleries, Lautoka",
+  "country": "Fiji",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ratu Signature Blend 5 Year",
+  "type": "Pacific Rum",
+  "producer": "South Pacific Distilleries",
+  "country": "Fiji",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Rum Co. of Fiji Overproof",
+  "type": "Pacific Rum",
+  "producer": "South Pacific Distilleries",
+  "country": "Fiji",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "John Watling's Pale",
+  "type": "White / Light Rum",
+  "producer": "John Watling's Distillery",
+  "country": "Bahamas",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Doorly's 3 Year White",
+  "type": "White / Light Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "E.S.A. Field White Rum",
+  "type": "White / Light Rum",
+  "producer": "West Indies Rum Distillery",
+  "country": "Barbados",
+  "year": 1893,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Mount Gay Silver",
+  "type": "White / Light Rum",
+  "producer": "Mount Gay Distilleries",
+  "country": "Barbados",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Probitas White Blended Rum",
+  "type": "White / Light Rum",
+  "producer": "Foursquare + Hampden",
+  "country": "Barbados",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "The Real McCoy 3 Year",
+  "type": "White / Light Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Brugal Blanco Supremo",
+  "type": "White / Light Rum",
+  "producer": "Brugal & Co",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Matusalem Platino",
+  "type": "White / Light Rum",
+  "producer": "Matusalem (gốc Cuba 1872)",
+  "country": "Cộng hòa Dominica",
+  "year": 1872,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Havana Club Añejo Blanco",
+  "type": "White / Light Rum",
+  "producer": "Havana Club (Pernod Ricard)",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Cubay Carta Blanca",
+  "type": "White / Light Rum",
+  "producer": "Ron Cubay (Cuba Ron)",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Varadero Silver Dry",
+  "type": "White / Light Rum",
+  "producer": "Cuba Ron, Santa Clara",
+  "country": "Cuba",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Santiago de Cuba Carta Blanca",
+  "type": "White / Light Rum",
+  "producer": "Ron Santiago de Cuba (Cuba Ron)",
+  "country": "Cuba",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Caña Brava 3 Year",
+  "type": "White / Light Rum",
+  "producer": "Las Cabras Distillery (The 86 Co.)",
+  "country": "Panama",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Barceló Dorado",
+  "type": "Gold Rum",
+  "producer": "Ron Barceló, San Pedro de Macoris",
+  "country": "Cộng hòa Dominica",
+  "year": 1930,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Monymusk Special Gold Reserve",
+  "type": "Gold Rum",
+  "producer": "Clarendon Distillers, Monymusk",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rum-Bar Gold",
+  "type": "Gold Rum",
+  "producer": "Worthy Park Estate",
+  "country": "Jamaica",
+  "year": 2007,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Carta Oro / Gold",
+  "type": "Gold Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1862,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Don Q Gold",
+  "type": "Gold Rum",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1934,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Old Brigand Black Label",
+  "type": "Dark / Black Rum",
+  "producer": "West Indies Rum Distillery",
+  "country": "Barbados",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Coruba Dark Rum",
+  "type": "Dark / Black Rum",
+  "producer": "Coruba / Rum Company Switzerland",
+  "country": "Jamaica",
+  "year": 1889,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Myers's Original Dark Rum",
+  "type": "Dark / Black Rum",
+  "producer": "Myers's (Sazerac), Kingston",
+  "country": "Jamaica",
+  "year": 1879,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi Carta Negra / Black",
+  "type": "Dark / Black Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Captain Morgan Dark Rum",
+  "type": "Dark / Black Rum",
+  "producer": "Diageo",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": 1944,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cruzan Black Strap Rum",
+  "type": "Dark / Black Rum",
+  "producer": "Cruzan Rum Distillery",
+  "country": "Quần đảo Virgin thuộc Mỹ",
+  "year": 1760,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Clarke's Court Pure White 69%",
+  "type": "Overproof Rum",
+  "producer": "Grenada Distillers",
+  "country": "Grenada",
+  "year": 1937,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Rivers Royale Grenadian Rum 69%",
+  "type": "Overproof Rum",
+  "producer": "River Antoine Estate, Saint Patrick",
+  "country": "Grenada",
+  "year": 1785,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "El Dorado High Strength 151",
+  "type": "Overproof Rum",
+  "producer": "Demerara Distillers",
+  "country": "Guyana",
+  "year": 1992,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Monymusk Overproof",
+  "type": "Overproof Rum",
+  "producer": "Clarendon Distillers",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rum Fire Velvet Overproof 63%",
+  "type": "Overproof Rum",
+  "producer": "Hampden Estate",
+  "country": "Jamaica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Rum-Bar White Overproof",
+  "type": "Overproof Rum",
+  "producer": "Worthy Park Estate",
+  "country": "Jamaica",
+  "year": 2007,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Wray & Nephew White Overproof 63%",
+  "type": "Overproof Rum",
+  "producer": "J. Wray & Nephew (Campari)",
+  "country": "Jamaica",
+  "year": 1825,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Plantation O.F.T.D. 69%",
+  "type": "Overproof Rum",
+  "producer": "Maison Ferrand (Guyana/Jamaica/Barbados)",
+  "country": "Pháp",
+  "year": 2017,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bacardi 151",
+  "type": "Overproof Rum",
+  "producer": "Bacardi, Cataño",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1963,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Don Q 151",
+  "type": "Overproof Rum",
+  "producer": "Destilería Serralles",
+  "country": "Puerto Rico (Mỹ)",
+  "year": 1934,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Denros Strong Rum 80%",
+  "type": "Overproof Rum",
+  "producer": "St. Lucia Distillers",
+  "country": "Saint Lucia",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Sunset Very Strong Rum 84.5%",
+  "type": "Overproof Rum",
+  "producer": "St. Vincent Distillers",
+  "country": "Saint Vincent & Grenadines",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Matusalem Clasico 10",
+  "type": "Solera Rum",
+  "producer": "Matusalem",
+  "country": "Cộng hòa Dominica",
+  "year": 1872,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Matusalem Gran Reserva 15",
+  "type": "Solera Rum",
+  "producer": "Matusalem",
+  "country": "Cộng hòa Dominica",
+  "year": 1872,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Matusalem Gran Reserva 18",
+  "type": "Solera Rum",
+  "producer": "Matusalem",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Opthimus 15 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Opthimus 18 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Opthimus 21 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Opthimus 25 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": 2008,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Quorhum 12 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Quorhum 23 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Quorhum 30 Años",
+  "type": "Solera Rum",
+  "producer": "Oliver & Oliver",
+  "country": "Cộng hòa Dominica",
+  "year": 2008,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Ron Centenario 20 Fundacion",
+  "type": "Solera Rum",
+  "producer": "Centenario Internacional",
+  "country": "Costa Rica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Centenario 25 Edicion Limitada",
+  "type": "Solera Rum",
+  "producer": "Centenario Internacional",
+  "country": "Costa Rica",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Botran Añejo 8",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": 1939,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Botran Reserva 15",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": 1939,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Botran Solera 1893",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": 1939,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Zacapa Centenario 15",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Zacapa Centenario 23",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala (Diageo)",
+  "country": "Guatemala",
+  "year": 1976,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Zacapa Edicion Negra",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Zacapa La Doma",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": 2021,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Ron Zacapa XO Solera Gran Reserva Especial",
+  "type": "Solera Rum",
+  "producer": "Industrias Licoreras de Guatemala",
+  "country": "Guatemala",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cartavio Solera 12",
+  "type": "Solera Rum",
+  "producer": "Destilería Cartavio, La Libertad",
+  "country": "Peru",
+  "year": 1929,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ron Millonario Solera 15",
+  "type": "Solera Rum",
+  "producer": "Ron Millonario",
+  "country": "Peru",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ron Millonario XO",
+  "type": "Solera Rum",
+  "producer": "Ron Millonario",
+  "country": "Peru",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Foursquare Criterion",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2017,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Detente",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2019,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Empery",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2018,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Isonomy",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2023,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Nobiliary",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2020,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Premise",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2018,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Redoutable",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2020,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Sagacity",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2019,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Shibboleth",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2022,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Foursquare Zinfandel Cask Blend",
+  "type": "Single Blended Rum",
+  "producer": "Foursquare Rum Distillery",
+  "country": "Barbados",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Skipper Finest Old Demerara",
+  "type": "Blended Rum (đa nguồn)",
+  "producer": "Halewood Artisanal Spirits",
+  "country": "Anh (UK)",
+  "year": 1960,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "The Duppy Share Aged Caribbean Rum",
+  "type": "Blended Rum (đa nguồn)",
+  "producer": "Westbourne Drinks (Jamaica + Barbados)",
+  "country": "Anh (UK)",
+  "year": 2016,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Habitation Velier Forsyths WP",
+  "type": "Independent Bottler",
+  "producer": "Velier (rum Jamaica)",
+  "country": "Ý",
+  "year": 2015,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Rum Nation Panama / Jamaica",
+  "type": "Independent Bottler",
+  "producer": "Rum Nation (Rossi & Rossi)",
+  "country": "Ý",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Velier Caroni Employees Series",
+  "type": "Independent Bottler",
+  "producer": "Velier, Genova (rum Trinidad)",
+  "country": "Ý",
+  "year": 2015,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Velier Foursquare Collaboration Series",
+  "type": "Independent Bottler",
+  "producer": "Velier (rum Barbados)",
+  "country": "Ý",
+  "year": 2016,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Velier Hampden Endemic Birds Series",
+  "type": "Independent Bottler",
+  "producer": "Velier, Genova (rum Jamaica)",
+  "country": "Ý",
+  "year": 2020,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Copalli Barrel Rested",
+  "type": "Organic Rum",
+  "producer": "Copal Tree Distillery, Toledo",
+  "country": "Belize",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Copalli White Rum",
+  "type": "Organic Rum",
+  "producer": "Copal Tree Distillery",
+  "country": "Belize",
+  "year": 2019,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Bayou Select / Reserve",
+  "type": "American Craft Rum",
+  "producer": "Bayou Rum, Lacassine Louisiana",
+  "country": "Mỹ",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Cane Land Louisiana Rum",
+  "type": "American Craft Rum",
+  "producer": "Cane Land Distilling, Baton Rouge",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Cotton & Reed Dry Spiced",
+  "type": "American Craft Rum",
+  "producer": "Cotton & Reed, Washington DC",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ko Hana Koho Agricole",
+  "type": "American Craft Rum",
+  "producer": "Ko Hana Distillers, Oahu Hawaii",
+  "country": "Mỹ",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Koloa Kauai White / Gold",
+  "type": "American Craft Rum",
+  "producer": "Koloa Rum Company, Hawaii",
+  "country": "Mỹ",
+  "year": 2009,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Lost Spirits Navy Style Rum 61%",
+  "type": "American Craft Rum",
+  "producer": "Lost Spirits Distillery, California",
+  "country": "Mỹ",
+  "year": 2013,
+  "status": "Ngừng sản xuất",
+  "note": null
+ },
+ {
+  "name": "Maggie's Farm White / Queen's Share",
+  "type": "American Craft Rum",
+  "producer": "Allegheny Distilling, Pittsburgh",
+  "country": "Mỹ",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Montanya Oro / Platino",
+  "type": "American Craft Rum",
+  "producer": "Montanya Distillers, Colorado",
+  "country": "Mỹ",
+  "year": 2008,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Old New Orleans Crystal / Amber",
+  "type": "American Craft Rum",
+  "producer": "Celebration Distillation, Louisiana",
+  "country": "Mỹ",
+  "year": 1995,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Prichard's Fine Rum",
+  "type": "American Craft Rum",
+  "producer": "Prichard's Distillery, Tennessee",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Privateer New England Reserve",
+  "type": "American Craft Rum",
+  "producer": "Privateer Rum",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Privateer Queen's Share",
+  "type": "American Craft Rum",
+  "producer": "Privateer Rum",
+  "country": "Mỹ",
+  "year": 2015,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Privateer Silver Reserve",
+  "type": "American Craft Rum",
+  "producer": "Privateer Rum, Ipswich Massachusetts",
+  "country": "Mỹ",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Richland Single Estate Old Georgia Rum",
+  "type": "American Craft Rum",
+  "producer": "Richland Rum, Georgia",
+  "country": "Mỹ",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Siesta Key Silver / Spiced",
+  "type": "American Craft Rum",
+  "producer": "Drum Circle Distilling, Florida",
+  "country": "Mỹ",
+  "year": 2011,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "St. Augustine Florida Double Cask",
+  "type": "American Craft Rum",
+  "producer": "St. Augustine Distillery",
+  "country": "Mỹ",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Thomas Tew Single Barrel",
+  "type": "American Craft Rum",
+  "producer": "Newport Distilling, Rhode Island",
+  "country": "Mỹ",
+  "year": 2006,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ableforth's Rumbullion!",
+  "type": "English Craft Rum",
+  "producer": "Ableforth's (Atom Supplies)",
+  "country": "Anh (UK)",
+  "year": 2010,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Two Drifters Signature Spiced",
+  "type": "English Craft Rum",
+  "producer": "Two Drifters Distillery, Exeter",
+  "country": "Anh (UK)",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Dark Matter Spiced Rum",
+  "type": "English Craft Rum",
+  "producer": "Dark Matter Distillers, Aberdeenshire",
+  "country": "Scotland (UK)",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ninefold Pure Single Rum",
+  "type": "English Craft Rum",
+  "producer": "Ninefold Distillery, Dumfries",
+  "country": "Scotland (UK)",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "SeaWolf Spiced Rum",
+  "type": "English Craft Rum",
+  "producer": "SeaWolf Spirit Co",
+  "country": "Scotland (UK)",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Nine Springs Rum",
+  "type": "German Craft Rum",
+  "producer": "Nine Springs Distillery",
+  "country": "Đức",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Mhoba Glass Cask White",
+  "type": "African Craft Rum",
+  "producer": "Mhoba Rum",
+  "country": "Nam Phi",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Mhoba Select Release",
+  "type": "African Craft Rum",
+  "producer": "Mhoba Rum, Mpumalanga",
+  "country": "Nam Phi",
+  "year": 2015,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Amrut Two Indies Rum",
+  "type": "Indian Craft Rum",
+  "producer": "Amrut Distilleries, Bangalore",
+  "country": "Ấn Độ",
+  "year": 2010,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Camikara 3 / 8 / 12 Year Cane Juice Rum",
+  "type": "Indian Craft Rum",
+  "producer": "Piccadily Distilleries",
+  "country": "Ấn Độ",
+  "year": 2022,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Maka Zai Gold / White",
+  "type": "Indian Craft Rum",
+  "producer": "Third Eye Distillery, Goa",
+  "country": "Ấn Độ",
+  "year": 2021,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Segredo Aldeia Branco",
+  "type": "Indian Craft Rum",
+  "producer": "Fullarton Distilleries, Goa",
+  "country": "Ấn Độ",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Cor Cor Green / Red",
+  "type": "Japanese Craft Rum",
+  "producer": "Grace Rum, Minami Daito Okinawa",
+  "country": "Nhật Bản",
+  "year": 2004,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Helios Teeda 21 Year",
+  "type": "Japanese Craft Rum",
+  "producer": "Helios Distillery",
+  "country": "Nhật Bản",
+  "year": 2018,
+  "status": "Bản giới hạn / đã hết",
+  "note": null
+ },
+ {
+  "name": "Helios Teeda 5 Year",
+  "type": "Japanese Craft Rum",
+  "producer": "Helios Distillery, Okinawa",
+  "country": "Nhật Bản",
+  "year": 1961,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Nine Leaves Angel's Half",
+  "type": "Japanese Craft Rum",
+  "producer": "Nine Leaves Distillery",
+  "country": "Nhật Bản",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Nine Leaves Clear",
+  "type": "Japanese Craft Rum",
+  "producer": "Nine Leaves Distillery, Shiga",
+  "country": "Nhật Bản",
+  "year": 2013,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Ogasawara Rum",
+  "type": "Japanese Craft Rum",
+  "producer": "Ogasawara Rum Liqueur, Tokyo",
+  "country": "Nhật Bản",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Ryoma Japanese Rum 7 Years",
+  "type": "Japanese Craft Rum",
+  "producer": "Kikusui Shuzo, Kochi",
+  "country": "Nhật Bản",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Chalong Bay Double Barrel",
+  "type": "Thai Craft Rum",
+  "producer": "Chalong Bay Distillery",
+  "country": "Thái Lan",
+  "year": null,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Chalong Bay Pure Rum",
+  "type": "Thai Craft Rum",
+  "producer": "Chalong Bay Distillery, Phuket",
+  "country": "Thái Lan",
+  "year": 2012,
+  "status": "Còn lưu hành",
+  "note": null
+ },
+ {
+  "name": "Issan Rum Blanc",
+  "type": "Thai Craft Rum",
+  "producer": "Issan Rum, Nakhon Ratchasima",
+  "country": "Thái Lan",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Sampan Rhum 43 Off The Grid",
+  "type": "Vietnamese Craft Rum",
+  "producer": "Distillerie d'Indochine",
+  "country": "Việt Nam",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Sampan Rhum Blanc 54",
+  "type": "Vietnamese Craft Rum",
+  "producer": "Distillerie d'Indochine, Hau Giang",
+  "country": "Việt Nam",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ },
+ {
+  "name": "Sampan Rhum Vieux / XO",
+  "type": "Vietnamese Craft Rum",
+  "producer": "Distillerie d'Indochine",
+  "country": "Việt Nam",
+  "year": null,
+  "status": "Cần xác minh",
+  "note": null
+ }
+]
