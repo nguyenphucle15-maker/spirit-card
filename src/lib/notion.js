@@ -156,18 +156,110 @@ export function mapSpiritCard(id, get) {
   };
 }
 
+// ---------- 4b. CHẠY THỬ: card khung từ backlog (Spirit Database) ----------
+// Mỗi chai trong backlog thành một trang card khung (tên, loại, nước, năm, nhà sản xuất),
+// gắn nhãn "Bản thử nghiệm". Chai đã có card thật thì bỏ qua.
+// Tắt: đặt biến môi trường SHOW_BACKLOG=0 trên Cloudflare (hoặc xoá phần này).
+// Whisky chưa đưa vào theo yêu cầu; rum, tequila chưa có bảng dữ liệu trong Notion.
+const SHOW_BACKLOG = import.meta.env.SHOW_BACKLOG !== "0";
+
+export const BACKLOGS = [
+  { category: "Gin", ds: "f404619d-eff5-4ad5-b611-a580c81f0eca",
+    name: "Tên gin", type: "Loại gin", producer: "Thuộc distillery nào" },
+  { category: "Vodka", ds: "330b5690-1d5d-449d-89ed-53f084a32209",
+    name: "Tên vodka", type: "Loại vodka", producer: "Thuộc distillery nào" },
+  { category: "Brandy", ds: "a0148da2-ed3d-4f81-a327-680d6ef94052",
+    name: "Tên brandy", type: "Loại brandy", producer: "Thuộc nhà sản xuất nào" },
+];
+
+export function slugify(s) {
+  return (s || "")
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")
+    .replace(/đ/g, "d").replace(/Đ/g, "D")
+    .toLowerCase().replace(/['’]/g, "").replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+// Một dòng backlog → card khung, cùng cấu trúc với card thật
+export function mapBacklogRow(cfg, page) {
+  const get = (k) => read(page, k);
+  const name = get(cfg.name);
+  const base = mapSpiritCard(page.id, (k) => {
+    switch (k) {
+      case "name": return name;
+      case "slug": return slugify(name);
+      case "category": return cfg.category;
+      case "sub_category": return get(cfg.type);
+      case "producer": return get(cfg.producer);
+      case "country": return get("Nước sản xuất");
+      case "year_founded": return get("Năm sản xuất");
+      default: return null;
+    }
+  });
+  return {
+    ...base,
+    isTest: true,
+    backlogStatus: get("Tình trạng"),
+    backlogNote: get("Ghi chú"),
+    linked: (get("spirit_card") || []).length > 0, // đã có card thật
+  };
+}
+
+async function queryAll(dataSourceId) {
+  const results = [];
+  let cursor;
+  do {
+    const res = await notion.dataSources.query({ data_source_id: dataSourceId, start_cursor: cursor, page_size: 100 });
+    results.push(...res.results);
+    cursor = res.has_more ? res.next_cursor : undefined;
+  } while (cursor);
+  return results;
+}
+
+async function getBacklogCards() {
+  if (!notion || !SHOW_BACKLOG) return [];
+  const out = [];
+  for (const cfg of BACKLOGS) {
+    try {
+      const pages = await queryAll(cfg.ds);
+      out.push(...pages.map((p) => mapBacklogRow(cfg, p)).filter((c) => !c.linked));
+    } catch (e) {
+      // Integration chưa được nối với trang Spirit Database → bỏ qua, build vẫn chạy
+      console.warn(`[backlog] Không đọc được ${cfg.category}: ${e.message}`);
+    }
+  }
+  return out;
+}
+
 // Lưu kết quả trong một lần build, tránh gọi Notion lặp lại cho từng trang
 let cardsCache, factsCache, workshopsCache;
 
 export async function getSpiritCards() {
   if (cardsCache) return cardsCache;
+  let real;
   if (USE_SAMPLE) {
-    cardsCache = SAMPLE_CARDS.map((s) => mapSpiritCard(s.id, (k) => s[k] ?? null));
+    real = SAMPLE_CARDS.map((s) => mapSpiritCard(s.id, (k) => s[k] ?? null));
   } else {
     const pages = await queryPublished(import.meta.env.NOTION_DS_SPIRIT);
-    cardsCache = pages.map((p) => mapSpiritCard(p.id, (k) => read(p, k)));
+    real = pages.map((p) => mapSpiritCard(p.id, (k) => read(p, k)));
   }
-  cardsCache = cardsCache.filter((c) => c.slug && c.categorySlug);
+  real = real.filter((c) => c.slug && c.categorySlug);
+
+  // Ghép card khung, bỏ trùng đường dẫn với card thật hoặc giữa các dòng backlog
+  const seen = new Set(real.map((c) => `${c.categorySlug}/${c.slug}`));
+  const tests = [];
+  for (const c of await getBacklogCards()) {
+    if (!c.slug) continue;
+    let key = `${c.categorySlug}/${c.slug}`;
+    if (seen.has(key)) {
+      if (real.some((r) => `${r.categorySlug}/${r.slug}` === key)) continue; // đã có card thật
+      c.slug = `${c.slug}-${c.id.slice(0, 4)}`;
+      key = `${c.categorySlug}/${c.slug}`;
+    }
+    seen.add(key);
+    tests.push(c);
+  }
+  cardsCache = [...real, ...tests];
   return cardsCache;
 }
 

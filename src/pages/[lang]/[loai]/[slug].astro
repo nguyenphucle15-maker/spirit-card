@@ -21,7 +21,15 @@ const t = T[lang];
 const P = (o) => pick(o, lang);
 
 const [allCards, allFacts] = await Promise.all([getSpiritCards(), getFunFacts()]);
-const reads = resolveReads(card, allCards, allFacts, lang);
+let reads = resolveReads(card, allCards, allFacts, lang);
+// Chưa gắn bài gợi ý → tạm gợi ý 3 card cùng loại rượu
+if (reads.length === 0) {
+  reads = allCards
+    .filter((c) => c.categorySlug === loai && c.id !== card.id)
+    .sort((a, b) => (a.isTest === b.isTest ? 0 : a.isTest ? 1 : -1))
+    .slice(0, 3)
+    .map((c) => ({ kind: "Spirit Card", title: c.name, url: `/${lang}/${c.categorySlug}/${c.slug}` }));
+}
 
 const fmtVnd = (n) => (n == null ? null : n.toLocaleString("vi-VN") + " ₫");
 const priceText =
@@ -53,8 +61,17 @@ const specs = [
 
 const description = P(card.history_summary) || "";
 const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
+
+// Mục nào chưa có nội dung thì ẩn (card khung chạy thử thường chỉ có phần đầu)
+const has1 = !!description || timeline.length > 0 || P(card.production_notes)?.length > 0
+  || card.abv_by_market.length > 0 || card.expressions.length > 0;
+const hasNotes = ["nose", "palate", "finish"].some((k) => P(card[k])?.length > 0);
+const hasFlavor = Object.values(card.flavor_profile).some((v) => v > 0);
+const has2 = (P(card.ingredient_notes) || []).length > 0 || hasFlavor || hasNotes;
+const has3 = !!(P(card.serve.neat) || P(card.serve.rocks) || P(card.serve.tonic));
+const has4 = (P(card.pairing) || []).length > 0;
 ---
-<Base lang={lang} title={t.title(card.name)} description={description} path={`/${loai}/${card.slug}`}>
+<Base lang={lang} title={t.title(card.name)} description={description} path={`/${loai}/${card.slug}`} noindex={card.isTest}>
   <article>
     <!-- Phần đầu -->
     <header class="card-head">
@@ -63,6 +80,13 @@ const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
         {card.bottling && ` · ${card.bottling}`}
       </p>
       <h1>{card.name}</h1>
+      {card.isTest && (
+        <aside class="test-note">
+          <b>{t.testTitle}</b> {t.testBody}
+          {card.backlogStatus && <span class="tag">{card.backlogStatus}</span>}
+          {card.backlogNote && <p class="test-extra">{t.testNoteLabel}: {card.backlogNote}</p>}
+        </aside>
+      )}
       <dl class="specs">
         {specs.map(([k, v]) => <div><dt>{k}</dt><dd>{v}</dd></div>)}
       </dl>
@@ -74,7 +98,7 @@ const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
     </header>
 
     <!-- Mục 1 -->
-    <section class="block">
+    {has1 && <section class="block">
       <h2><span class="section-num">01</span>{t.s1}</h2>
       {description && <p class="summary">{description}</p>}
       {timeline.length > 0 && (
@@ -98,10 +122,10 @@ const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
           <div><h3>{t.expressions}</h3><ul class="kv">{card.expressions.map((r) => <li><b>{r.name}</b><span>{r.difference}</span></li>)}</ul></div>
         )}
       </div>
-    </section>
+    </section>}
 
     <!-- Mục 2 -->
-    <section class="block">
+    {has2 && <section class="block">
       <h2><span class="section-num">02</span>{t.s2}</h2>
       <IngredientWheel items={P(card.ingredient_notes) || []} images={card.ingredient_images} hint={t.wheelHint} />
       <div class="cols">
@@ -122,10 +146,10 @@ const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
           {isExpert && card.rating_10 != null && <p><b>{card.rating_10}/10</b></p>}
         </div>
       </div>
-    </section>
+    </section>}
 
     <!-- Mục 3 -->
-    <section class="block">
+    {has3 && <section class="block">
       <h2><span class="section-num">03</span>{t.s3}</h2>
       <div class="serve-grid">
         {P(card.serve.neat) && <div class="serve"><h3>{t.neat}</h3><p>{P(card.serve.neat)}</p></div>}
@@ -140,13 +164,13 @@ const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
           </div>
         )}
       </div>
-    </section>
+    </section>}
 
     <!-- Mục 4 -->
-    <section class="block">
+    {has4 && <section class="block">
       <h2><span class="section-num">04</span>{t.s4}</h2>
       <Pairing items={P(card.pairing) || []} t={t} />
-    </section>
+    </section>}
 
     <!-- Mục 5 -->
     <section class="block">

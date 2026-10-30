@@ -60,6 +60,10 @@ export const T = {
     subscribe: "Đăng ký",
     home: "Trang chủ",
     noCards: "Chưa có card nào được đăng.",
+    testTitle: "Bản thử nghiệm.",
+    testBody: "Card khung lấy từ bảng tra cứu, nội dung đầy đủ đang được soạn.",
+    testNoteLabel: "Ghi chú tra cứu (chưa kiểm chứng)",
+    testBadge: "Thử nghiệm",
   },
   en: {
     siteName: "Spirit Card",
@@ -119,6 +123,10 @@ export const T = {
     subscribe: "Subscribe",
     home: "Home",
     noCards: "No cards published yet.",
+    testTitle: "Test page.",
+    testBody: "A placeholder card from our reference list; the full card is being written.",
+    testNoteLabel: "Reference note (unverified)",
+    testBadge: "Test",
   },
 };
 

@@ -106,3 +106,8 @@ section.block { padding: 36px 0; border-top: 1px solid var(--line); }
 .gate-box { background: var(--paper); border-radius: var(--radius); padding: 28px; max-width: 420px; text-align: center; }
 .gate-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 16px; }
 .btn.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+
+/* Card khung chạy thử */
+.test-note { background: #f3e6c8; border: 1px dashed #c9a35a; border-radius: var(--radius); padding: 12px 16px; margin: 4px 0 16px; font-size: .92rem; display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; }
+.test-extra { flex-basis: 100%; margin: 4px 0 0; color: var(--ink-2); }
+.mini .badge { display: inline-block; font-size: .7rem; border: 1px dashed #c9a35a; border-radius: 999px; padding: 0 8px; margin-left: 6px; color: #6b4a00; vertical-align: middle; }

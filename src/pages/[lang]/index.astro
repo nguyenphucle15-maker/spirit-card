@@ -28,7 +28,7 @@ const groups = CATEGORY_ORDER.map((c) => ({
       <div class="grid-cards">
         {g.items.slice(0, 6).map((c) => (
           <a class="mini" href={`/${lang}/${g.slug}/${c.slug}`}>
-            <h3>{c.name}</h3>
+            <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}</h3>
             <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
           </a>
         ))}

@@ -25,7 +25,7 @@ const label = cards[0]?.category ?? loai;
   <div class="grid-cards">
     {cards.map((c) => (
       <a class="mini" href={`/${lang}/${loai}/${c.slug}`}>
-        <h3>{c.name}</h3>
+        <h3>{c.name}{c.isTest && <span class="badge">{t.testBadge}</span>}</h3>
         <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
       </a>
     ))}
