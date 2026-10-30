@@ -1,0 +1,80 @@
+---
+// Vòng nguyên liệu: mỗi dòng ingredient_notes là một chấm trên vòng tròn.
+// Bấm vào chấm → hiện tên, tên Việt, ảnh (nếu có), mô tả.
+const { items = [], images = {}, hint = "" } = Astro.props;
+const n = items.length;
+const R = 120; // bán kính vòng
+const pos = items.map((_, i) => {
+  const a = (i / n) * Math.PI * 2 - Math.PI / 2;
+  return { x: 160 + R * Math.cos(a), y: 160 + R * Math.sin(a) };
+});
+---
+{n > 0 && (
+  <div class="wheel">
+    <div class="wheel-ring" aria-label={hint}>
+      <svg viewBox="0 0 320 320" aria-hidden="true">
+        <circle cx="160" cy="160" r={R} fill="none" stroke="var(--line)" stroke-width="2" stroke-dasharray="4 6" />
+      </svg>
+      {items.map((it, i) => (
+        <button
+          type="button"
+          class={`dot ${i === 0 ? "active" : ""}`}
+          style={`left:${(pos[i].x / 320) * 100}%;top:${(pos[i].y / 320) * 100}%`}
+          data-i={i}
+          aria-pressed={i === 0 ? "true" : "false"}
+        >
+          <span>{it.name}</span>
+        </button>
+      ))}
+    </div>
+    <div class="wheel-panels">
+      <p class="hint">{hint}</p>
+      {items.map((it, i) => (
+        <div class="panel" data-i={i} hidden={i !== 0}>
+          {images[it.name] && <img src={images[it.name]} alt={it.name} loading="lazy" />}
+          <h3>{it.name}{it.name_vi && <small> · {it.name_vi}</small>}</h3>
+          <p>{it.description}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+)}
+
+<style>
+  .wheel { display: grid; grid-template-columns: minmax(220px, 320px) 1fr; gap: 24px; align-items: center; }
+  @media (max-width: 640px) { .wheel { grid-template-columns: 1fr; } }
+  .wheel-ring { position: relative; aspect-ratio: 1; width: 100%; max-width: 320px; margin: 0 auto; }
+  .wheel-ring svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .dot {
+    position: absolute; transform: translate(-50%, -50%);
+    width: 22px; height: 22px; border-radius: 50%;
+    border: 2px solid var(--accent); background: var(--paper); cursor: pointer; padding: 0;
+  }
+  .dot span {
+    position: absolute; top: 26px; left: 50%; transform: translateX(-50%);
+    white-space: nowrap; font-size: .78rem; color: var(--ink-2);
+  }
+  .dot.active { background: var(--accent); }
+  .dot.active span { color: var(--ink); font-weight: 600; }
+  .hint { font-size: .85rem; color: var(--ink-2); margin: 0 0 8px; }
+  .panel img { width: 100%; max-height: 180px; object-fit: cover; border-radius: 10px; margin-bottom: 10px; }
+  .panel h3 small { font-weight: 400; color: var(--ink-2); }
+</style>
+
+<script>
+  document.querySelectorAll(".wheel").forEach((w) => {
+    w.querySelectorAll(".dot").forEach((dot) => {
+      dot.addEventListener("click", () => {
+        const i = dot.getAttribute("data-i");
+        w.querySelectorAll(".dot").forEach((d) => {
+          const on = d === dot;
+          d.classList.toggle("active", on);
+          d.setAttribute("aria-pressed", on ? "true" : "false");
+        });
+        w.querySelectorAll(".panel").forEach((p) => {
+          (p as HTMLElement).hidden = p.getAttribute("data-i") !== i;
+        });
+      });
+    });
+  });
+</script>

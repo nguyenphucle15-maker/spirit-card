@@ -1,0 +1,166 @@
+---
+// Trang Spirit Card: /vi/gin/tanqueray-london-dry-gin và /en/gin/tanqueray-london-dry-gin
+// Bố cục theo card mẫu đã duyệt: phần đầu + 5 mục.
+import Base from "../../../layouts/Base.astro";
+import IngredientWheel from "../../../components/IngredientWheel.astro";
+import FlavorRadar from "../../../components/FlavorRadar.astro";
+import Pairing from "../../../components/Pairing.astro";
+import { getSpiritCards, getFunFacts, resolveReads } from "../../../lib/notion.js";
+import { T, LANGS, pick } from "../../../lib/i18n.js";
+
+export async function getStaticPaths() {
+  const cards = await getSpiritCards();
+  return LANGS.flatMap((lang) =>
+    cards.map((card) => ({ params: { lang, loai: card.categorySlug, slug: card.slug }, props: { card } }))
+  );
+}
+
+const { lang, loai } = Astro.params;
+const { card } = Astro.props;
+const t = T[lang];
+const P = (o) => pick(o, lang);
+
+const [allCards, allFacts] = await Promise.all([getSpiritCards(), getFunFacts()]);
+const reads = resolveReads(card, allCards, allFacts, lang);
+
+const fmtVnd = (n) => (n == null ? null : n.toLocaleString("vi-VN") + " ₫");
+const priceText =
+  card.price.min && card.price.max && card.price.min !== card.price.max
+    ? `${fmtVnd(card.price.min)} – ${fmtVnd(card.price.max)}`
+    : fmtVnd(card.price.min ?? card.price.max);
+
+const isExpert = card.tier === "Chuyên gia";
+const usesTonic = ["gin", "vodka"].includes(loai);
+
+// Tách nhãn [cần kiểm tra] ra khỏi năm để hiện thành nhãn nhỏ
+const FLAG = /\s*\[cần kiểm tra\]\s*/i;
+const timeline = (P(card.history_timeline) || []).map((r) => ({
+  year: r.year.replace(FLAG, " ").trim(),
+  flagged: FLAG.test(r.year),
+  event: r.event,
+}));
+
+const specs = [
+  [t.abv, card.abv != null ? `${card.abv}%` : t.tbc],
+  [t.origin, [card.country, card.region].filter(Boolean).join(" · ")],
+  [t.producer, card.producer],
+  [t.founded, card.year_founded],
+  [t.base, card.base_ingredient],
+  [t.volume, card.volume_ml ? `${card.volume_ml} ml` : null],
+  [t.age, card.age_statement],
+  [t.cask, card.cask],
+].filter(([, v]) => v != null && v !== "");
+
+const description = P(card.history_summary) || "";
+const notesLabel = isExpert ? t.expertNote(card.tasted_date) : t.producerNote;
+---
+<Base lang={lang} title={t.title(card.name)} description={description} path={`/${loai}/${card.slug}`}>
+  <article>
+    <!-- Phần đầu -->
+    <header class="card-head">
+      <p class="eyebrow">
+        <a href={`/${lang}/${loai}/`}>{card.category}</a>{card.sub_category && ` · ${card.sub_category}`}
+        {card.bottling && ` · ${card.bottling}`}
+      </p>
+      <h1>{card.name}</h1>
+      <dl class="specs">
+        {specs.map(([k, v]) => <div><dt>{k}</dt><dd>{v}</dd></div>)}
+      </dl>
+      <div class="price">
+        <span>{t.price}</span>
+        <strong>{priceText ?? t.tbc}</strong>
+        {card.price.updated && <small>{t.priceUpdated} {card.price.updated}</small>}
+      </div>
+    </header>
+
+    <!-- Mục 1 -->
+    <section class="block">
+      <h2><span class="section-num">01</span>{t.s1}</h2>
+      {description && <p class="summary">{description}</p>}
+      {timeline.length > 0 && (
+        <ol class="timeline">
+          {timeline.map((r) => (
+            <li>
+              <span class="year">{r.year}{r.flagged && <span class="flag">cần kiểm tra</span>}</span>
+              {r.event}
+            </li>
+          ))}
+        </ol>
+      )}
+      <div class="cols">
+        {P(card.production_notes)?.length > 0 && (
+          <div><h3>{t.production}</h3><ul class="plain-list">{P(card.production_notes).map((x) => <li>{x}</li>)}</ul></div>
+        )}
+        {card.abv_by_market.length > 0 && (
+          <div><h3>{t.abvByMarket}</h3><ul class="kv">{card.abv_by_market.map((r) => <li><b>{r.abv}</b><span>{r.market}</span></li>)}</ul></div>
+        )}
+        {card.expressions.length > 0 && (
+          <div><h3>{t.expressions}</h3><ul class="kv">{card.expressions.map((r) => <li><b>{r.name}</b><span>{r.difference}</span></li>)}</ul></div>
+        )}
+      </div>
+    </section>
+
+    <!-- Mục 2 -->
+    <section class="block">
+      <h2><span class="section-num">02</span>{t.s2}</h2>
+      <IngredientWheel items={P(card.ingredient_notes) || []} images={card.ingredient_images} hint={t.wheelHint} />
+      <div class="cols">
+        <div>
+          <h3>{t.flavor}</h3>
+          <FlavorRadar profile={card.flavor_profile} labels={t.axes} />
+          {card.flavor_tags.length > 0 && <div class="tags">{card.flavor_tags.map((x) => <span class="tag">{x}</span>)}</div>}
+        </div>
+        <div>
+          <p class="source-note">{notesLabel}</p>
+          <div class="notes-grid">
+            {[["nose", t.nose], ["palate", t.palate], ["finish", t.finish]].map(([k, label]) =>
+              P(card[k])?.length > 0 && (
+                <div class="note-box"><h3>{label}</h3><ul>{P(card[k]).map((x) => <li>{x}</li>)}</ul></div>
+              )
+            )}
+          </div>
+          {isExpert && card.rating_10 != null && <p><b>{card.rating_10}/10</b></p>}
+        </div>
+      </div>
+    </section>
+
+    <!-- Mục 3 -->
+    <section class="block">
+      <h2><span class="section-num">03</span>{t.s3}</h2>
+      <div class="serve-grid">
+        {P(card.serve.neat) && <div class="serve"><h3>{t.neat}</h3><p>{P(card.serve.neat)}</p></div>}
+        {P(card.serve.rocks) && <div class="serve"><h3>{t.rocks}</h3><p>{P(card.serve.rocks)}</p></div>}
+        {P(card.serve.tonic) && (
+          <div class="serve highlight">
+            <h3>{usesTonic ? t.tonic : t.highball}</h3>
+            <p>{P(card.serve.tonic)}</p>
+            {P(card.serve.garnish) && (
+              <p class="garnish"><b>{t.garnish}: {P(card.serve.garnish)}.</b>&nbsp;{P(card.serve.garnish_why)}</p>
+            )}
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- Mục 4 -->
+    <section class="block">
+      <h2><span class="section-num">04</span>{t.s4}</h2>
+      <Pairing items={P(card.pairing) || []} t={t} />
+    </section>
+
+    <!-- Mục 5 -->
+    <section class="block">
+      <h2><span class="section-num">05</span>{t.s5}</h2>
+      <div class="reads">
+        {reads.map((r) => <a class="read" href={r.url}><small>{r.kind}</small>{r.title}</a>)}
+        <a class="read" href={`/${lang}/${loai}/`}><small>Hub</small>{t.allOf(card.category)}</a>
+      </div>
+      {card.sources.length > 0 && (
+        <details class="sources">
+          <summary>{t.sources}</summary>
+          <ul>{card.sources.map((s) => <li><a href={s} rel="nofollow noopener" target="_blank">{s}</a></li>)}</ul>
+        </details>
+      )}
+    </section>
+  </article>
+</Base>

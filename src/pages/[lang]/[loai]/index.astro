@@ -1,0 +1,33 @@
+---
+// Hub loại rượu: /vi/gin/ liệt kê mọi card gin đã Published.
+import Base from "../../../layouts/Base.astro";
+import { getSpiritCards } from "../../../lib/notion.js";
+import { T, LANGS, CATEGORY_ORDER } from "../../../lib/i18n.js";
+
+export async function getStaticPaths() {
+  const cards = await getSpiritCards();
+  const cats = CATEGORY_ORDER.filter((c) => cards.some((x) => x.categorySlug === c));
+  return LANGS.flatMap((lang) => cats.map((loai) => ({ params: { lang, loai } })));
+}
+
+const { lang, loai } = Astro.params;
+const t = T[lang];
+const cards = (await getSpiritCards())
+  .filter((c) => c.categorySlug === loai)
+  .sort((a, b) => a.name.localeCompare(b.name));
+const label = cards[0]?.category ?? loai;
+---
+<Base lang={lang} title={`${label} | ${t.siteName}`} path={`/${loai}/`}>
+  <header class="card-head">
+    <p class="eyebrow">{cards.length} {t.cards}</p>
+    <h1>{label}</h1>
+  </header>
+  <div class="grid-cards">
+    {cards.map((c) => (
+      <a class="mini" href={`/${lang}/${loai}/${c.slug}`}>
+        <h3>{c.name}</h3>
+        <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
+      </a>
+    ))}
+  </div>
+</Base>

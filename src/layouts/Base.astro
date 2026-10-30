@@ -1,0 +1,93 @@
+---
+// Khung chung cho mọi trang: <head> SEO + hreflang, menu, cổng 18+, chân trang cảnh báo.
+import "../styles/global.css";
+import { T, LANGS, CATEGORY_ORDER, MENU_MIN } from "../lib/i18n.js";
+import { getSpiritCards } from "../lib/notion.js";
+
+const { lang = "vi", title, description = "", path = "" } = Astro.props;
+// path: phần đường dẫn sau /vi hoặc /en, ví dụ "/gin/tanqueray-london-dry-gin"
+const t = T[lang];
+const site = Astro.site?.toString().replace(/\/$/, "") ?? "";
+
+// Menu: chỉ hiện loại rượu đã đủ MENU_MIN card
+const cards = await getSpiritCards();
+const counts = {};
+for (const c of cards) counts[c.categorySlug] = (counts[c.categorySlug] || 0) + 1;
+const menu = CATEGORY_ORDER.filter((c) => (counts[c] || 0) >= MENU_MIN);
+const other = lang === "vi" ? "en" : "vi";
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={`${site}/${lang}${path}`} />
+    {LANGS.map((l) => <link rel="alternate" hreflang={l} href={`${site}/${l}${path}`} />)}
+    <link rel="alternate" hreflang="x-default" href={`${site}/vi${path}`} />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,400&display=swap"
+    />
+  </head>
+  <body>
+    <header class="site-head">
+      <div class="wrap">
+        <a class="logo" href={`/${lang}/`}>{t.siteName}</a>
+        <nav class="nav">
+          {menu.map((c) => <a href={`/${lang}/${c}/`}>{c[0].toUpperCase() + c.slice(1)}</a>)}
+        </nav>
+        <span class="lang-switch"><a href={`/${other}${path}`} hreflang={other}>{other.toUpperCase()}</a></span>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <slot />
+    </main>
+
+    <footer class="site-foot">
+      <div class="wrap">
+        <form class="newsletter" onsubmit="event.preventDefault()">
+          <label for="nl-email">{t.newsletter}</label>
+          <input id="nl-email" type="email" placeholder={t.emailPlaceholder} required />
+          <button type="submit">{t.subscribe}</button>
+        </form>
+        <p class="warning">{t.warning}</p>
+        <p>© {new Date().getFullYear()} {t.siteName}</p>
+      </div>
+    </footer>
+
+    <!-- Cổng xác nhận 18+: nhớ lựa chọn trên trình duyệt, chỉ hỏi một lần -->
+    <div class="gate" id="age-gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
+      <div class="gate-box">
+        <h2 id="gate-title">{t.gateTitle}</h2>
+        <p id="gate-body">{t.gateBody}</p>
+        <div class="gate-actions">
+          <button class="btn" id="gate-yes">{t.gateYes}</button>
+          <button class="btn ghost" id="gate-no">{t.gateNo}</button>
+        </div>
+      </div>
+    </div>
+    <script is:inline define:vars={{ noMsg: t.gateNoMsg }}>
+      (function () {
+        var gate = document.getElementById("age-gate");
+        var ok = false;
+        try { ok = localStorage.getItem("age18") === "yes"; } catch (e) {}
+        if (!ok) gate.classList.add("show");
+        document.getElementById("gate-yes").onclick = function () {
+          try { localStorage.setItem("age18", "yes"); } catch (e) {}
+          gate.classList.remove("show");
+        };
+        document.getElementById("gate-no").onclick = function () {
+          document.getElementById("gate-body").textContent = noMsg;
+          document.querySelector(".gate-actions").remove();
+        };
+      })();
+    </script>
+  </body>
+</html>

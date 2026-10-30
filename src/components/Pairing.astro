@@ -1,0 +1,70 @@
+---
+// Pairing món Việt: bấm A / B / C để hiện các món theo từng phương pháp.
+const { items = [], t } = Astro.props;
+const methods = ["A", "B", "C"].filter((m) => items.some((it) => it.method === m));
+const first = methods[0];
+---
+{items.length > 0 && (
+  <div class="pairing">
+    <div class="tabs" role="tablist">
+      {methods.map((m) => (
+        <button type="button" role="tab" class={`tab m-${m} ${m === first ? "active" : ""}`}
+          data-m={m} aria-selected={m === first ? "true" : "false"}>
+          <b>{m}</b>&nbsp;{t.methods[m]}
+        </button>
+      ))}
+    </div>
+    {methods.map((m) => (
+      <div class="method" data-m={m} hidden={m !== first}>
+        <p class="method-desc">{t.methodDesc[m]}</p>
+        <ul class="dishes">
+          {items.filter((it) => it.method === m).map((it) => (
+            <li class={`dish m-${m}`}>
+              <small>{it.group}</small>
+              <h3>{it.dish}</h3>
+              <p>{it.reason}</p>
+              {it.serve && <p class="with"><b>{t.drinkWith}:</b>&nbsp;{it.serve}</p>}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+)}
+
+<style>
+  .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  .tab { border: 1px solid var(--line); background: transparent; border-radius: 999px; padding: 8px 16px; font: inherit; cursor: pointer; color: var(--ink); }
+  .tab b { font-family: var(--serif); }
+  .tab.m-A.active { background: var(--a); border-color: var(--a); color: #fff; }
+  .tab.m-B.active { background: var(--b); border-color: var(--b); color: #fff; }
+  .tab.m-C.active { background: var(--c); border-color: var(--c); color: #fff; }
+  .method-desc { color: var(--ink-2); font-size: .9rem; margin: 0 0 12px; }
+  .dishes { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+  .dish { border: 1px solid var(--line); border-left-width: 4px; border-radius: 10px; padding: 14px 16px; }
+  .dish.m-A { border-left-color: var(--a); }
+  .dish.m-B { border-left-color: var(--b); }
+  .dish.m-C { border-left-color: var(--c); }
+  .dish small { color: var(--ink-2); text-transform: uppercase; font-size: .72rem; letter-spacing: .08em; }
+  .dish h3 { margin: 2px 0 6px; }
+  .dish p { margin: 0 0 6px; font-size: .95rem; }
+  .with { color: var(--ink-2); }
+</style>
+
+<script>
+  document.querySelectorAll(".pairing").forEach((box) => {
+    box.querySelectorAll(".tab").forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const m = tab.getAttribute("data-m");
+        box.querySelectorAll(".tab").forEach((x) => {
+          const on = x === tab;
+          x.classList.toggle("active", on);
+          x.setAttribute("aria-selected", on ? "true" : "false");
+        });
+        box.querySelectorAll(".method").forEach((p) => {
+          (p as HTMLElement).hidden = p.getAttribute("data-m") !== m;
+        });
+      });
+    });
+  });
+</script>

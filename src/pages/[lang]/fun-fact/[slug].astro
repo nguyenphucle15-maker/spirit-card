@@ -1,0 +1,35 @@
+---
+// Trang Fun Fact: /vi/fun-fact/[slug]
+import Base from "../../../layouts/Base.astro";
+import { getFunFacts, getSpiritCards } from "../../../lib/notion.js";
+import { T, LANGS, pick } from "../../../lib/i18n.js";
+
+export async function getStaticPaths() {
+  const facts = await getFunFacts();
+  return LANGS.flatMap((lang) => facts.map((fact) => ({ params: { lang, slug: fact.slug }, props: { fact } })));
+}
+
+const { lang } = Astro.params;
+const { fact } = Astro.props;
+const t = T[lang];
+const title = pick(fact.title, lang);
+const body = (pick(fact.body, lang) || "").split(/\n+/).filter(Boolean);
+const cards = (await getSpiritCards()).filter((c) => fact.related_cards.includes(c.id));
+---
+<Base lang={lang} title={`${title} | ${t.siteName}`} description={body[0]?.slice(0, 155)} path={`/fun-fact/${fact.slug}`}>
+  <article>
+    <header class="card-head">
+      <p class="eyebrow">Fun Fact{fact.topic && ` · ${fact.topic}`}</p>
+      <h1>{title}</h1>
+    </header>
+    {body.map((p) => <p>{p}</p>)}
+    {cards.length > 0 && (
+      <section class="block">
+        <h2>{t.s5}</h2>
+        <div class="reads">
+          {cards.map((c) => <a class="read" href={`/${lang}/${c.categorySlug}/${c.slug}`}><small>Spirit Card</small>{c.name}</a>)}
+        </div>
+      </section>
+    )}
+  </article>
+</Base>

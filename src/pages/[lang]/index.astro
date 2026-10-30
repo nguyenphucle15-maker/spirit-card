@@ -1,0 +1,38 @@
+---
+// Trang chủ theo ngôn ngữ: /vi/ và /en/
+import Base from "../../layouts/Base.astro";
+import { getSpiritCards } from "../../lib/notion.js";
+import { T, LANGS, CATEGORY_ORDER } from "../../lib/i18n.js";
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = T[lang];
+const cards = await getSpiritCards();
+const groups = CATEGORY_ORDER.map((c) => ({
+  slug: c,
+  items: cards.filter((x) => x.categorySlug === c),
+})).filter((g) => g.items.length > 0);
+---
+<Base lang={lang} title={`${t.siteName} | ${t.tagline}`} description={t.tagline} path="/">
+  <header class="card-head">
+    <h1>{t.siteName}</h1>
+    <p class="summary">{t.tagline}</p>
+  </header>
+  {groups.length === 0 && <p>{t.noCards}</p>}
+  {groups.map((g) => (
+    <section class="block">
+      <h2><a href={`/${lang}/${g.slug}/`}>{g.items[0].category}</a></h2>
+      <div class="grid-cards">
+        {g.items.slice(0, 6).map((c) => (
+          <a class="mini" href={`/${lang}/${g.slug}/${c.slug}`}>
+            <h3>{c.name}</h3>
+            <small>{[c.sub_category, c.country].filter(Boolean).join(" · ")}</small>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>
