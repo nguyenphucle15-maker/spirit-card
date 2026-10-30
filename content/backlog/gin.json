@@ -6259,7 +6259,16 @@
   "country": "Nhật Bản",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1360000,
+  "price_vnd_max": 1360000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "45.99 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://en.ginza-berlin.com/products/sakurao"
+  ]
  },
  {
   "name": "Suntory Sui Gin",
