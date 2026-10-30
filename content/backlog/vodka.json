@@ -146,7 +146,16 @@
   "country": "Estonia",
   "year": 1962,
   "status": "Còn lưu hành",
-  "note": "Thương hiệu vodka lâu đời nhất Estonia; có bản 80% (Viru Valge Vägev). Biểu tượng người thổi tù và."
+  "note": "Thương hiệu vodka lâu đời nhất Estonia; có bản 80% (Viru Valge Vägev). Biểu tượng người thổi tù và.",
+  "price_vnd_min": 390000,
+  "price_vnd_max": 390000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "14.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/spirits/products/viru-valge-vodka-750ml"
+  ]
  },
  {
   "name": "Eristoff",
@@ -180,7 +189,16 @@
   "country": "Iceland",
   "year": 2005,
   "status": "Còn lưu hành",
-  "note": "Nhà chưng cất đầu tiên của Iceland, ra 9/2005; nồi Carter-Head, lọc qua đá nham thạch, nước suối không cần xử lý. IWSC Vodka Trophy 2011."
+  "note": "Nhà chưng cất đầu tiên của Iceland, ra 9/2005; nồi Carter-Head, lọc qua đá nham thạch, nước suối không cần xử lý. IWSC Vodka Trophy 2011.",
+  "price_vnd_min": 930000,
+  "price_vnd_max": 930000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "26.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/5140/reyka-vodka"
+  ]
  },
  {
   "name": "Stoli (bản quốc tế, trước là Stolichnaya)",
@@ -214,7 +232,16 @@
   "country": "Mỹ",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": "Sản xuất ở California. 5,0 triệu thùng 2025 (#9 thế giới)."
+  "note": "Sản xuất ở California. 5,0 triệu thùng 2025 (#9 thế giới).",
+  "price_vnd_min": 270000,
+  "price_vnd_max": 270000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "10.46 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.walmart.com/ip/seort/163183892"
+  ]
  },
  {
   "name": "Skyy Vodka",
@@ -265,7 +292,16 @@
   "country": "New Zealand",
   "year": 1999,
   "status": "Còn lưu hành",
-  "note": "Lúa mì không biến đổi gen; tên theo vĩ độ 42° Nam. Geoff Ross bắt đầu chưng trong garage Wellington; Bacardi mua 2006 giá NZ$138 triệu."
+  "note": "Lúa mì không biến đổi gen; tên theo vĩ độ 42° Nam. Geoff Ross bắt đầu chưng trong garage Wellington; Bacardi mua 2006 giá NZ$138 triệu.",
+  "price_vnd_min": 1180000,
+  "price_vnd_max": 1180000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "63.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/42-below-vodka-700ml"
+  ]
  },
  {
   "name": "Arkhangelskaya",
@@ -309,7 +345,16 @@
   "country": "Nga",
   "year": 2006,
   "status": "Còn lưu hành",
-  "note": "Vodka Siberia từ ngũ cốc và nước vùng. 4,4 triệu thùng 2025 (top 13 thế giới)."
+  "note": "Vodka Siberia từ ngũ cốc và nước vùng. 4,4 triệu thùng 2025 (top 13 thế giới).",
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "15.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/pyat-ozer/products/pyat-ozer-750ml"
+  ]
  },
  {
   "name": "Moskovskaya",
@@ -327,7 +372,16 @@
   "country": "Nga",
   "year": 2004,
   "status": "Còn lưu hành",
-  "note": "Dòng luxury 2004, chưng thêm 4 lần, lọc qua thạch anh (theo hãng)."
+  "note": "Dòng luxury 2004, chưng thêm 4 lần, lọc qua thạch anh (theo hãng).",
+  "price_vnd_min": 1610000,
+  "price_vnd_max": 1610000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "45.85 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.amathusdrinks.com/russian-standard-imperial"
+  ]
  },
  {
   "name": "Russian Standard Original",
@@ -406,7 +460,16 @@
   "country": "Nhật Bản",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": "Ngô + đại mạch malt, chưng trên nồi Coffey nhập từ Scotland năm 1963 → kết cấu dày hơn cột hiện đại."
+  "note": "Ngô + đại mạch malt, chưng trên nồi Coffey nhập từ Scotland năm 1963 → kết cấu dày hơn cột hiện đại.",
+  "price_vnd_min": 1540000,
+  "price_vnd_max": 1540000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "43.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/39984/nikka-coffey-vodka"
+  ]
  },
  {
   "name": "Smirnoff No. 21 Red Label",
@@ -448,7 +511,16 @@
   "country": "Phần Lan",
   "year": 1953,
   "status": "Còn lưu hành",
-  "note": "Đại mạch. Koskenkorva Viina ra 1953; spirit bán chạy nhất Phần Lan từ 1960. Ban đầu chưng từ khoai tây."
+  "note": "Đại mạch. Koskenkorva Viina ra 1953; spirit bán chạy nhất Phần Lan từ 1960. Ban đầu chưng từ khoai tây.",
+  "price_vnd_min": 750000,
+  "price_vnd_max": 750000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "21.45 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/11266/koskenkorva-original-vodka"
+  ]
  },
  {
   "name": "Grey Goose",
@@ -542,7 +614,16 @@
   "country": "Ukraine",
   "year": 2002,
   "status": "Còn lưu hành",
-  "note": "Nghĩa là 'món quà từ bánh mì'. 10,5 triệu thùng 2025, #5 thế giới."
+  "note": "Nghĩa là 'món quà từ bánh mì'. 10,5 triệu thùng 2025, #5 thế giới.",
+  "price_vnd_min": 310000,
+  "price_vnd_max": 310000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "11.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/hlibny-dar/products/hlibny-dar-vodka-700ml"
+  ]
  },
  {
   "name": "Khortytsa",
@@ -623,7 +704,16 @@
   "country": "Anh (UK)",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": "Khởi đầu là single estate potato vodka trên trang trại Herefordshire; Diageo mua 3/2021. Từ 2025 không còn sản xuất tại trang trại."
+  "note": "Khởi đầu là single estate potato vodka trên trang trại Herefordshire; Diageo mua 3/2021. Từ 2025 không còn sản xuất tại trang trại.",
+  "price_vnd_min": 1050000,
+  "price_vnd_max": 1050000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.tanners-wines.co.uk/chase-potato-vodka-england-40-vol-70cl"
+  ]
  },
  {
   "name": "Monopolowa",
@@ -641,7 +731,16 @@
   "country": "Ba Lan",
   "year": 1993,
   "status": "Còn lưu hành",
-  "note": "Vodka khoai tây, bán ở Ba Lan từ 1993, vào Mỹ 1997. Hãng tự nhận 'super-premium vodka đầu tiên' — là tuyên bố của hãng."
+  "note": "Vodka khoai tây, bán ở Ba Lan từ 1993, vào Mỹ 1997. Hãng tự nhận 'super-premium vodka đầu tiên' — là tuyên bố của hãng.",
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/7246/chopin-potato-vodka"
+  ]
  },
  {
   "name": "Luksusowa",
@@ -650,7 +749,16 @@
   "country": "Ba Lan",
   "year": 1928,
   "status": "Còn lưu hành",
-  "note": "40%, vodka khoai tây. Sản xuất liên tục từ 1928; 'luksusowa' = sang trọng. Sau Thế chiến II chuyển về Zielona Góra."
+  "note": "40%, vodka khoai tây. Sản xuất liên tục từ 1928; 'luksusowa' = sang trọng. Sau Thế chiến II chuyển về Zielona Góra.",
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "15.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/luksusowa/products/luksusowa-vodka-750ml"
+  ]
  },
  {
   "name": "Vikingfjord",
@@ -704,7 +812,16 @@
   "country": "Mỹ",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": "Bản đầu tiên của Deep Eddy (Austin, 2010), tên theo hồ bơi cổ Deep Eddy. Heaven Hill mua 2015."
+  "note": "Bản đầu tiên của Deep Eddy (Austin, 2010), tên theo hồ bơi cổ Deep Eddy. Heaven Hill mua 2015.",
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "22.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.caskers.com/deep-eddy-sweet-tea-vodka-750/"
+  ]
  },
  {
   "name": "Hangar 1 Kaffir Lime",
@@ -996,16 +1113,7 @@
   "country": "Mỹ",
   "year": 2002,
   "status": "Còn lưu hành",
-  "note": "Blend nho Viognier chưng nồi + lúa mì chưng cột. Khởi nghiệp trong nhà chứa máy bay Thế chiến II tại St. George Spirits; Proximo mua 2010.",
-  "price_vnd_min": 1200000,
-  "price_vnd_max": 1200000,
-  "price_updated": "2026-10-31",
-  "price_vn_available": false,
-  "price_foreign": "34.26 GBP",
-  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
-  "price_sources": [
-   "https://www.thewhiskyexchange.com/p/8862/hangar-one-straight-vodka"
-  ]
+  "note": "Blend nho Viognier chưng nồi + lúa mì chưng cột. Khởi nghiệp trong nhà chứa máy bay Thế chiến II tại St. George Spirits; Proximo mua 2010."
  },
  {
   "name": "Cîroc Snap Frost",

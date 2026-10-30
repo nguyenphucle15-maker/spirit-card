@@ -980,6 +980,15 @@
   "country": "Philippines",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": "Cut brandy: brandy pha cồn mía trung tính, độ cồn thấp. ~300 triệu lít năm 2015."
+  "note": "Cut brandy: brandy pha cồn mía trung tính, độ cồn thấp. ~300 triệu lít năm 2015.",
+  "price_vnd_min": 490000,
+  "price_vnd_max": 490000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "18.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/emperador-light-brandy-750ml"
+  ]
  }
 ]

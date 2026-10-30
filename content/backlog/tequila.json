@@ -6,7 +6,16 @@
   "country": "Mexico (Guanajuato)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1368. Guanajuato thuộc DO; Hacienda Corralejo là nơi sinh của Miguel Hidalgo."
+  "note": "NOM 1368. Guanajuato thuộc DO; Hacienda Corralejo là nơi sinh của Miguel Hidalgo.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/22356"
+  ]
  },
  {
   "name": "123 Organic Uno Blanco",
@@ -15,7 +24,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1480. Hữu cơ có chứng nhận; David Ravandi."
+  "note": "NOM 1480. Hữu cơ có chứng nhận; David Ravandi.",
+  "price_vnd_min": 1690000,
+  "price_vnd_max": 1690000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/all/products/123-organic-uno-blanco-tequila-750ml"
+  ]
  },
  {
   "name": "1800 Blanco",
@@ -42,7 +60,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1109. Anh em Orendain; distillery El Llano ngay thị trấn Tequila."
+  "note": "NOM 1109. Anh em Orendain; distillery El Llano ngay thị trấn Tequila.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/all/products/arette-blanco-tequila-750ml"
+  ]
  },
  {
   "name": "Avión Silver",
@@ -78,7 +105,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1489."
+  "note": "NOM 1489.",
+  "price_vnd_min": 1950000,
+  "price_vnd_max": 1950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "74.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/31918"
+  ]
  },
  {
   "name": "Casa Noble Crystal",
@@ -87,7 +123,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1137. Hữu cơ có chứng nhận; chưng ba lần."
+  "note": "NOM 1137. Hữu cơ có chứng nhận; chưng ba lần.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/tequila/products/casa-noble-crystal-tequila"
+  ]
  },
  {
   "name": "Casamigos Blanco",
@@ -105,7 +150,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1904,
   "status": "Còn lưu hành",
-  "note": "NOM 1123. 1904 = năm thành lập distillery (theo hãng). Los Valles; lò gạch."
+  "note": "NOM 1123. 1904 = năm thành lập distillery (theo hãng). Los Valles; lò gạch.",
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.96 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/42569"
+  ]
  },
  {
   "name": "Cascahuín Plata 48",
@@ -114,7 +168,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1123. 48%."
+  "note": "NOM 1123. 48%.",
+  "price_vnd_min": 2210000,
+  "price_vnd_max": 2210000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "84.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/45746"
+  ]
  },
  {
   "name": "Cascahuín Tahona Blanco",
@@ -132,7 +195,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1487. Los Altos."
+  "note": "NOM 1487. Los Altos.",
+  "price_vnd_min": 650000,
+  "price_vnd_max": 650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/20659"
+  ]
  },
  {
   "name": "Centinela Blanco",
@@ -150,7 +222,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1146. Blanco 100% agave giá mềm, được bartender ưa dùng cho cocktail."
+  "note": "NOM 1146. Blanco 100% agave giá mềm, được bartender ưa dùng cho cocktail.",
+  "price_vnd_min": 730000,
+  "price_vnd_max": 730000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "27.96 USD (chai 1000ml)",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/31090"
+  ]
  },
  {
   "name": "Clase Azul Plata",
@@ -159,7 +240,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1595."
+  "note": "NOM 1595.",
+  "price_vnd_min": 4160000,
+  "price_vnd_max": 4160000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "159.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/tequila-brands/products/clase-azul-plata-tequila"
+  ]
  },
  {
   "name": "Código 1530 Blanco",
@@ -200,7 +290,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1146. Nhà Fonseca trồng agave nhiều thế hệ."
+  "note": "NOM 1146. Nhà Fonseca trồng agave nhiều thế hệ.",
+  "price_vnd_min": 1430000,
+  "price_vnd_max": 1430000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "54.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/under-100/products/don-fulano-blanco-tequila-750ml"
+  ]
  },
  {
   "name": "Don Fulano Fuerte",
@@ -209,7 +308,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1146. 50% — blanco độ cao."
+  "note": "NOM 1146. 50% — blanco độ cao.",
+  "price_vnd_min": 1610000,
+  "price_vnd_max": 1610000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "61.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/don-fulano-blanco-fuerte-tequila-1"
+  ]
  },
  {
   "name": "Don Julio Blanco",
