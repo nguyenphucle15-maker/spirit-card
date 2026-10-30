@@ -32,7 +32,7 @@ for f in rd(f"data/prices/{loai}_foreign.tsv"):
     cur = f["currency"]; amt = float(f["price"])
     vnd = int(round(amt * FX[cur], -4))
     b.update(price_vnd_min=vnd, price_vnd_max=vnd, price_updated=UPDATED, price_vn_available=False,
-             price_foreign=f"{amt:g} {cur}", fx_rate=f"1 {cur} = {FX[cur]:,} VND, {FX_DATE}".replace(",", "."),
+             price_foreign=f"{amt:g} {cur}" + (f" (chai {f['size_ml']}ml)" if f.get("size_ml") not in (None, "", "700", "750") else ""), fx_rate=f"1 {cur} = " + f"{FX[cur]:,}".replace(",", ".") + f" VND, {FX_DATE}",
              price_sources=[f["source"]]); n_fx += 1
 json.dump(back, open(f"content/backlog/{loai}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(f"{loai}: {n_vn} chai giá VN, {n_fx} chai giá quy đổi, {len(back)-n_vn-n_fx} chưa có giá / {len(back)}")

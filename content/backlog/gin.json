@@ -15,7 +15,16 @@
   "country": "Ấn Độ",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 980000,
+  "price_vnd_max": 980000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "27.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/greater-than/greater-than-gin"
+  ]
  },
  {
   "name": "Adnams Copper House Dry Gin",
@@ -24,7 +33,16 @@
   "country": "Anh (UK)",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1110000,
+  "price_vnd_max": 1110000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.49 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://adnams.co.uk/products/70cl-adnams-copper-house-gin-40"
+  ]
  },
  {
   "name": "Bafferts Gin",
@@ -42,7 +60,16 @@
   "country": "Anh (UK)",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/becketts/becketts-london-dry-gin-type-1097/"
+  ]
  },
  {
   "name": "Beefeater 24",
@@ -119,7 +146,16 @@
   "country": "Anh (UK)",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 700000,
+  "price_vnd_max": 700000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "26.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.walmart.com/ip/Bombay-Sapphire-East-Gin-750-mL-Blue-Bottle-ABV-42/134931901"
+  ]
  },
  {
   "name": "Boodles British Gin",
@@ -144,7 +180,16 @@
   "country": "Anh (UK)",
   "year": 1740,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/gin/products/booth-s-finest-old-dry-gin-750-ml"
+  ]
  },
  {
   "name": "Booth's High & Dry Gin",
@@ -162,7 +207,16 @@
   "country": "Anh (UK)",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 880000,
+  "price_vnd_max": 880000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/2253/brokers-london-dry-gin"
+  ]
  },
  {
   "name": "City of London Dry Gin",
@@ -189,7 +243,16 @@
   "country": "Anh (UK)",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1190000,
+  "price_vnd_max": 1190000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "33.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/27366/cotswolds-dry-gin"
+  ]
  },
  {
   "name": "Fifty Pounds Gin",
@@ -198,7 +261,16 @@
   "country": "Anh (UK)",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1530000,
+  "price_vnd_max": 1530000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "43.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/11120/fifty-pounds-london-dry-gin"
+  ]
  },
  {
   "name": "Gilbey's London Dry Gin",
@@ -276,7 +348,16 @@
   "country": "Anh (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1840000,
+  "price_vnd_max": 1840000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "99.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://nicks.com.au/products/haymans-1850-reserve-gin-700ml"
+  ]
  },
  {
   "name": "Hayman's London Dry Gin",
@@ -285,7 +366,16 @@
   "country": "Anh (UK)",
   "year": 2004,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/9688/haymans-london-dry-gin"
+  ]
  },
  {
   "name": "Jensen's Bermondsey Dry Gin",
@@ -294,7 +384,16 @@
   "country": "Anh (UK)",
   "year": 2004,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 840000,
+  "price_vnd_max": 840000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "23.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/jensens/jensens-bermondsey-gin"
+  ]
  },
  {
   "name": "Langley's No. 8",
@@ -303,7 +402,16 @@
   "country": "Anh (UK)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 870000,
+  "price_vnd_max": 870000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.9 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.houseofmalt.co.uk/product/langleys-no-8-distilled-london-gin/"
+  ]
  },
  {
   "name": "Nicholson's Lamplighter Gin",
@@ -321,7 +429,16 @@
   "country": "Anh (UK)",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1090000,
+  "price_vnd_max": 1090000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.royalmilewhiskies.com/portobello-road-no-171-gin-70cl/"
+  ]
  },
  {
   "name": "Sacred Gin",
@@ -330,7 +447,16 @@
   "country": "Anh (UK)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1230000,
+  "price_vnd_max": 1230000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/13093/sacred-london-dry-gin"
+  ]
  },
  {
   "name": "Sipsmith London Dry Gin",
@@ -372,7 +498,16 @@
   "country": "Anh (UK)",
   "year": 1830,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1660000,
+  "price_vnd_max": 1660000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "89.99 AUD (chai 1000ml)",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/tanqueray-export-strength-gin-1000ml"
+  ]
  },
  {
   "name": "Tanqueray London Dry Gin",
@@ -401,7 +536,16 @@
   "country": "Anh (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1110000,
+  "price_vnd_max": 1110000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://thechampagnecompany.com/thomas-dakin-small-batch-gin"
+  ]
  },
  {
   "name": "Burnett's White Satin Gin",
@@ -419,7 +563,16 @@
   "country": "Ba Lan",
   "year": 1987,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 740000,
+  "price_vnd_max": 740000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "21.19 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/lubuski/lubuski-gin"
+  ]
  },
  {
   "name": "Long Table London Dry Gin",
@@ -428,7 +581,16 @@
   "country": "Canada",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1330000,
+  "price_vnd_max": 1330000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "37.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/long-table/long-table-london-dry-gin"
+  ]
  },
  {
   "name": "No. 3 London Dry Gin",
@@ -453,7 +615,16 @@
   "country": "Ireland",
   "year": 1793,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 620000,
+  "price_vnd_max": 620000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "21 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://shop.supervalu.ie/product/cork-dry-gin-70-cl-1012096003"
+  ]
  },
  {
   "name": "Larios Dry Gin",
@@ -471,7 +642,16 @@
   "country": "Tây Ban Nha",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 480000,
+  "price_vnd_max": 480000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "16.25 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.licorea.com/puerto-de-indias-classic-en-p-3209.html"
+  ]
  },
  {
   "name": "Strane London Dry Gin",
@@ -480,7 +660,16 @@
   "country": "Thụy Điển",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1440000,
+  "price_vnd_max": 1440000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40.95 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/26294/strane-merchant-strength-london-dry-gin"
+  ]
  },
  {
   "name": "Vickers Gin",
@@ -489,7 +678,16 @@
   "country": "Úc",
   "year": 1951,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 880000,
+  "price_vnd_max": 880000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "47.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.danmurphys.com.au/product/21279/vickers-london-dry-gin-700ml"
+  ]
  },
  {
   "name": "Brecon Special Reserve Gin",
@@ -498,7 +696,16 @@
   "country": "Wales (UK)",
   "year": 2005,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 880000,
+  "price_vnd_max": 880000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/brecon-special-reserve-gin/?sku=3412"
+  ]
  },
  {
   "name": "Bordiga Occitan Gin",
@@ -507,7 +714,16 @@
   "country": "Ý",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 980000,
+  "price_vnd_max": 980000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.97 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://bottleofitaly.com/products/gin-dry-occitan-70cl-bordiga"
+  ]
  },
  {
   "name": "Rutte Dry Gin",
@@ -516,7 +732,16 @@
   "country": "Hà Lan",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1250000,
+  "price_vnd_max": 1250000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.49 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/rutte-and-son/rutte-dry-gin"
+  ]
  },
  {
   "name": "Barton Gin",
@@ -534,7 +759,16 @@
   "country": "Mỹ",
   "year": 1770,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 340000,
+  "price_vnd_max": 340000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "12.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/gin/products/burnetts-london-dry-gin"
+  ]
  },
  {
   "name": "Crystal Palace Gin",
@@ -552,7 +786,16 @@
   "country": "Mỹ",
   "year": 1870,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 310000,
+  "price_vnd_max": 310000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "11.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/fleischmann-s/products/fleischmanns-gin-750ml-pet"
+  ]
  },
  {
   "name": "Gilbey's Gin (Mỹ)",
@@ -561,7 +804,16 @@
   "country": "Mỹ",
   "year": 1872,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 290000,
+  "price_vnd_max": 290000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "10.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/products/gilbeys-london-dry-gin-750ml"
+  ]
  },
  {
   "name": "New Amsterdam Gin",
@@ -570,7 +822,16 @@
   "country": "Mỹ",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 330000,
+  "price_vnd_max": 330000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "12.72 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.walmart.com/ip/New-Amsterdam-Gin-750ml-Glass-Bottle-40-ABV/178301906"
+  ]
  },
  {
   "name": "Seagram's Extra Dry Gin",
@@ -597,7 +858,16 @@
   "country": "Anh (UK)",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1210000,
+  "price_vnd_max": 1210000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://thechampagnecompany.com/ableforth-s-bathtub-gin-70cl"
+  ]
  },
  {
   "name": "Prohibition Liquor Co Bathtub Cut Gin",
@@ -606,7 +876,16 @@
   "country": "Úc",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2300000,
+  "price_vnd_max": 2300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "124.99 AUD (chai 500ml)",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/prohibition-liquor-co-bathtub-cut-gin-700ml"
+  ]
  },
  {
   "name": "Beefeater Blackberry",
@@ -624,7 +903,16 @@
   "country": "Anh (UK)",
   "year": 2019,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 760000,
+  "price_vnd_max": 760000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "21.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/48866/beefeater-blood-orange-gin"
+  ]
  },
  {
   "name": "Beefeater Peach & Raspberry",
@@ -659,7 +947,16 @@
   "country": "Anh (UK)",
   "year": 2022,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 880000,
+  "price_vnd_max": 880000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://shop.bombaysapphire.com/products/bombay-citron-presse-gin"
+  ]
  },
  {
   "name": "Bombay Sapphire Sunset",
@@ -668,7 +965,16 @@
   "country": "Anh (UK)",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 880000,
+  "price_vnd_max": 880000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://shop.bombaysapphire.com/products/bombay-sunset"
+  ]
  },
  {
   "name": "Chase Pink Grapefruit & Pomelo",
@@ -677,7 +983,16 @@
   "country": "Anh (UK)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1120000,
+  "price_vnd_max": 1120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.tanners-wines.co.uk/chase-pink-grapefruit-pomelo-gin-herefordshire-40-vol"
+  ]
  },
  {
   "name": "Chase Seville Orange Gin",
@@ -686,7 +1001,16 @@
   "country": "Anh (UK)",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/william-chase-distillery/chase-seville-orange-gin/"
+  ]
  },
  {
   "name": "Gordon's Crisp Cucumber",
@@ -704,7 +1028,16 @@
   "country": "Anh (UK)",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 670000,
+  "price_vnd_max": 670000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "18.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/gordons/gordons-elderflower-gin"
+  ]
  },
  {
   "name": "Gordon's Mediterranean Orange",
@@ -713,7 +1046,16 @@
   "country": "Anh (UK)",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 680000,
+  "price_vnd_max": 680000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "19.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/gordons/gordons-mediterranean-orange-gin"
+  ]
  },
  {
   "name": "Gordon's Sicilian Lemon",
@@ -731,7 +1073,16 @@
   "country": "Anh (UK)",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 650000,
+  "price_vnd_max": 650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "18.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.ocado.com/products/gordon-s-white-peach-distilled-gin-552690011"
+  ]
  },
  {
   "name": "Hayman's Exotic Citrus",
@@ -758,7 +1109,16 @@
   "country": "Anh (UK)",
   "year": 2019,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1110000,
+  "price_vnd_max": 1110000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/sipsmith/sipsmith-lemon-drizzle-gin-70cl-gin"
+  ]
  },
  {
   "name": "Sipsmith Zesty Orange",
@@ -767,7 +1127,16 @@
   "country": "Anh (UK)",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1050000,
+  "price_vnd_max": 1050000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/sipsmith/sipsmith-zesty-orange-gin"
+  ]
  },
  {
   "name": "Tanqueray Blackcurrant Royale",
@@ -808,7 +1177,16 @@
   "country": "Anh (UK)",
   "year": 2006,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 990000,
+  "price_vnd_max": 990000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "28.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/13415/tanqueray-rangpur-gin"
+  ]
  },
  {
   "name": "Tarquin's Blackberry Gin",
@@ -817,7 +1195,16 @@
   "country": "Anh (UK)",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1390000,
+  "price_vnd_max": 1390000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.tarquinsgin.com/products/tarquins-british-blackberry-and-cornish-wildflower-honey-gin-70-cl"
+  ]
  },
  {
   "name": "Tarquin's Rhubarb & Raspberry",
@@ -1399,7 +1786,16 @@
   "country": "Tây Ban Nha",
   "year": 1945,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/11404/xoriguer-gin-mahon"
+  ]
  },
  {
   "name": "Vilniaus Dzinas (Vilnius Gin)",
@@ -1444,7 +1840,16 @@
   "country": "Anh (UK)",
   "year": 2007,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 950000,
+  "price_vnd_max": 950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "26.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/7926/haymans-old-tom-gin"
+  ]
  },
  {
   "name": "Jensen's Old Tom Gin",
@@ -1462,7 +1867,16 @@
   "country": "Anh (UK)",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1210000,
+  "price_vnd_max": 1210000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.45 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/hammer-and-son/hammer-and-son-old-english-gin/"
+  ]
  },
  {
   "name": "Sacred Old Tom Gin",
@@ -1541,7 +1955,16 @@
   "country": "Anh (UK)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/17998/haymans-royal-dock-navy-strength-gin"
+  ]
  },
  {
   "name": "Plymouth Navy Strength 57%",
@@ -1550,7 +1973,16 @@
   "country": "Anh (UK)",
   "year": 1993,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1600000,
+  "price_vnd_max": 1600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "45.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/18777/plymouth-navy-strength-gin"
+  ]
  },
  {
   "name": "Portobello Road Navy Strength",
@@ -1559,7 +1991,16 @@
   "country": "Anh (UK)",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1010000,
+  "price_vnd_max": 1010000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "28.9 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://hedonism.co.uk/product/portobello-road-navy-strength-gin"
+  ]
  },
  {
   "name": "Sipsmith V.J.O.P (Very Junipery Over Proof)",
@@ -1568,7 +2009,16 @@
   "country": "Anh (UK)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1430000,
+  "price_vnd_max": 1430000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/22431/sipsmith-vjop-gin-70cl"
+  ]
  },
  {
   "name": "Tarquin's The SeaDog Navy Strength",
@@ -1577,7 +2027,16 @@
   "country": "Anh (UK)",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1610000,
+  "price_vnd_max": 1610000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "45.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/32551/tarquins-seadog-navy-strength-gin"
+  ]
  },
  {
   "name": "Leopold's Navy Strength Gin",
@@ -1586,7 +2045,16 @@
   "country": "Mỹ",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/leopolds/products/leopold-bros-navy-strength-american-gin"
+  ]
  },
  {
   "name": "Perry's Tot Navy Strength Gin",
@@ -1604,7 +2072,16 @@
   "country": "Nhật Bản",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2120000,
+  "price_vnd_max": 2120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "60.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/39628"
+  ]
  },
  {
   "name": "Cadenhead's Old Raj Dry Gin",
@@ -1613,7 +2090,16 @@
   "country": "Scotland (UK)",
   "year": 1972,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 850000,
+  "price_vnd_max": 850000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.23 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/wm-cadenhead/old-raj-dry-gin"
+  ]
  },
  {
   "name": "Edinburgh Gin Cannonball Navy Strength",
@@ -1622,7 +2108,16 @@
   "country": "Scotland (UK)",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1380000,
+  "price_vnd_max": 1380000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/33133/edinburgh-cannonball-navy-strength-gin"
+  ]
  },
  {
   "name": "Herno Navy Strength",
@@ -1631,7 +2126,16 @@
   "country": "Thụy Điển",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1530000,
+  "price_vnd_max": 1530000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "43.49 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.drinkfinder.co.uk/products/herno-navy-strength-organic-gin-50cl"
+  ]
  },
  {
   "name": "Four Pillars Navy Strength Gin",
@@ -1640,7 +2144,16 @@
   "country": "Úc",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2120000,
+  "price_vnd_max": 2120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "114.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.danmurphys.com.au/product/841390/four-pillars-navy-strength-gin-700ml"
+  ]
  },
  {
   "name": "Never Never Southern Strength Gin",
@@ -1676,7 +2189,16 @@
   "country": "Ấn Độ",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/46160/jaisalmer-indian-craft-gin"
+  ]
  },
  {
   "name": "Pumori Small Batch Gin",
@@ -1737,7 +2259,16 @@
   "country": "Anh (UK)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1420000,
+  "price_vnd_max": 1420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40.49 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://adnams.co.uk/products/70cl-adnams-first-rate-gin-45"
+  ]
  },
  {
   "name": "Beefeater London Garden",
@@ -1800,7 +2331,16 @@
   "country": "Anh (UK)",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1120000,
+  "price_vnd_max": 1120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/bristol-spirits-collective/bristol-dry-gin"
+  ]
  },
  {
   "name": "Brockmans Intensely Smooth Gin",
@@ -1809,7 +2349,16 @@
   "country": "Anh (UK)",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1220000,
+  "price_vnd_max": 1220000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/10025/brockmans-gin"
+  ]
  },
  {
   "name": "Bulldog London Dry Gin",
@@ -1834,7 +2383,16 @@
   "country": "Anh (UK)",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1000000,
+  "price_vnd_max": 1000000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "28.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.tanners-wines.co.uk/products/chase-gb-extra-dry-gin-herefordshire-40-vol"
+  ]
  },
  {
   "name": "Conker Spirit Dorset Dry Gin",
@@ -1843,7 +2401,16 @@
   "country": "Anh (UK)",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1280000,
+  "price_vnd_max": 1280000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "36.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/36005/conker-spirit-dorset-dry-gin"
+  ]
  },
  {
   "name": "Cotswolds Baharat Gin",
@@ -1861,7 +2428,16 @@
   "country": "Anh (UK)",
   "year": 2019,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1350000,
+  "price_vnd_max": 1350000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "38.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://cotswoldsdistillery.com/products/wildflower-gin"
+  ]
  },
  {
   "name": "Ford's Gin",
@@ -1870,7 +2446,16 @@
   "country": "Anh (UK)",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1210000,
+  "price_vnd_max": 1210000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/38739/fords-london-dry-gin"
+  ]
  },
  {
   "name": "Hepple Gin",
@@ -1879,7 +2464,16 @@
   "country": "Anh (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1390000,
+  "price_vnd_max": 1390000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/30735/hepple-gin"
+  ]
  },
  {
   "name": "Hoxton Gin",
@@ -1897,7 +2491,16 @@
   "country": "Anh (UK)",
   "year": 1999,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1130000,
+  "price_vnd_max": 1130000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/2269/martin-millers-gin"
+  ]
  },
  {
   "name": "Martin Miller's Westbourne Strength",
@@ -1906,7 +2509,16 @@
   "country": "Anh (UK)",
   "year": 2003,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1440000,
+  "price_vnd_max": 1440000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/2270/martin-millers-westbourne-strength-gin"
+  ]
  },
  {
   "name": "Masons Yorkshire Gin",
@@ -1967,7 +2579,16 @@
   "country": "Anh (UK)",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1590000,
+  "price_vnd_max": 1590000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "45.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/37880/salcombe-start-point-london-dry-gin"
+  ]
  },
  {
   "name": "Sibling Triple Distilled Gin",
@@ -1985,7 +2606,16 @@
   "country": "Anh (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1540000,
+  "price_vnd_max": 1540000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://silentpooldistillers.com/products/silent-pool-gin-uk-70cl-43-abv"
+  ]
  },
  {
   "name": "Slingsby Yorkshire Gin",
@@ -1994,7 +2624,16 @@
   "country": "Anh (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1070000,
+  "price_vnd_max": 1070000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30.55 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.ocado.com/products/slingsby-london-dry-gin-433115011"
+  ]
  },
  {
   "name": "Tanqueray Bloomsbury",
@@ -2048,7 +2687,16 @@
   "country": "Anh (UK)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1100000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.36 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/two-birds/two-birds-london-dry-gin"
+  ]
  },
  {
   "name": "Warner's Harrington Dry Gin",
@@ -2057,7 +2705,16 @@
   "country": "Anh (UK)",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1190000,
+  "price_vnd_max": 1190000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.tanners-wines.co.uk/products/warners-harrington-dry-gin-44-vol"
+  ]
  },
  {
   "name": "Whitley Neill Original Handcrafted Gin",
@@ -2082,7 +2739,16 @@
   "country": "Áo",
   "year": 1782,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "16 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.winedispensary.com/products/monopolowa-dry-gin-750ml"
+  ]
  },
  {
   "name": "Rick Gin",
@@ -2109,7 +2775,16 @@
   "country": "Argentina",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://leonandsonwine.com/products/principe-de-los-apostoles-mate-gin-argentina"
+  ]
  },
  {
   "name": "Jawbox Small Batch Gin",
@@ -2127,7 +2802,16 @@
   "country": "Bắc Ireland (UK)",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1230000,
+  "price_vnd_max": 1230000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://rademonestatedistilleryshop.com/products/shortcross-gin-70cl"
+  ]
  },
  {
   "name": "Buss No. 509 The Original",
@@ -2190,7 +2874,16 @@
   "country": "Brazil",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1380000,
+  "price_vnd_max": 1380000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/52731/amazzoni-gin"
+  ]
  },
  {
   "name": "Virga Gin",
@@ -2271,7 +2964,16 @@
   "country": "Canada",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 750000,
+  "price_vnd_max": 750000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "28.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/ungava/products/ungava-gin"
+  ]
  },
  {
   "name": "Victoria Gin",
@@ -2523,7 +3225,16 @@
   "country": "Ireland",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1180000,
+  "price_vnd_max": 1180000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "33.75 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/46035/an-dulaman-irish-maritime-gin"
+  ]
  },
  {
   "name": "Bertha's Revenge Milk Gin",
@@ -2532,7 +3243,16 @@
   "country": "Ireland",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1450000,
+  "price_vnd_max": 1450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "41.4 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/berthas-revenge/berthas-revenge-irish-milk-gin"
+  ]
  },
  {
   "name": "Blackwater No. 5 Gin",
@@ -2559,7 +3279,16 @@
   "country": "Ireland",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1270000,
+  "price_vnd_max": 1270000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "36.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/37523/dingle-gin"
+  ]
  },
  {
   "name": "Drumshanbo Gunpowder Irish Gin",
@@ -2584,7 +3313,16 @@
   "country": "Ireland",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1230000,
+  "price_vnd_max": 1230000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/37436/glendalough-wild-botanical-gin"
+  ]
  },
  {
   "name": "Ha'penny Dublin Dry Gin",
@@ -2593,7 +3331,16 @@
   "country": "Ireland",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 910000,
+  "price_vnd_max": 910000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/hapenny/hapenny-irish-gin"
+  ]
  },
  {
   "name": "Listoke 1777 Gin",
@@ -2602,7 +3349,16 @@
   "country": "Ireland",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1120000,
+  "price_vnd_max": 1120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.85 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/listoke-distillery/listoke-1777-gin"
+  ]
  },
  {
   "name": "Method and Madness Irish Micro Distilled Gin",
@@ -2620,7 +3376,16 @@
   "country": "Ireland",
   "year": 2019,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1240000,
+  "price_vnd_max": 1240000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "42 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.micildistillery.com/shop/micil-irish-gin"
+  ]
  },
  {
   "name": "Mor Irish Gin",
@@ -2629,7 +3394,16 @@
   "country": "Ireland",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1130000,
+  "price_vnd_max": 1130000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/mor/mor-irish-gin/?sku=59458"
+  ]
  },
  {
   "name": "Procera Blue Dot Gin",
@@ -2638,7 +3412,16 @@
   "country": "Kenya",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2740000,
+  "price_vnd_max": 2740000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "77.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/procera/procera-blue-dot-gin"
+  ]
  },
  {
   "name": "Condesa Clasica Gin",
@@ -2665,7 +3448,16 @@
   "country": "Mỹ",
   "year": 2006,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 630000,
+  "price_vnd_max": 630000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.29 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/gin/bluecoat-american-dry-gin/p/20047750?xs=1"
+  ]
  },
  {
   "name": "Brooklyn Gin",
@@ -2674,7 +3466,16 @@
   "country": "Mỹ",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.96 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/26154"
+  ]
  },
  {
   "name": "Bummer & Lazarus Gin",
@@ -2719,7 +3520,16 @@
   "country": "Mỹ",
   "year": 1996,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/gin/products/crater-lake-gin"
+  ]
  },
  {
   "name": "Death's Door Gin",
@@ -2737,7 +3547,16 @@
   "country": "Mỹ",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 830000,
+  "price_vnd_max": 830000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.96 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/26280"
+  ]
  },
  {
   "name": "Dry Fly Washington Dry Gin",
@@ -2746,7 +3565,16 @@
   "country": "Mỹ",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 860000,
+  "price_vnd_max": 860000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/gin/products/dry-fly-washington-dry-gin"
+  ]
  },
  {
   "name": "FEW American Gin",
@@ -2764,7 +3592,16 @@
   "country": "Mỹ",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/under-51/products/gray-whale-gin-750ml"
+  ]
  },
  {
   "name": "Greenhook Ginsmiths American Dry Gin",
@@ -2773,7 +3610,16 @@
   "country": "Mỹ",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 910000,
+  "price_vnd_max": 910000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/26619"
+  ]
  },
  {
   "name": "Junipero Gin",
@@ -2782,7 +3628,16 @@
   "country": "Mỹ",
   "year": 1996,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 910000,
+  "price_vnd_max": 910000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/gin/products/junipero-gin-750ml"
+  ]
  },
  {
   "name": "Koval Dry Gin",
@@ -2800,7 +3655,16 @@
   "country": "Mỹ",
   "year": 2001,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/gin/products/leopolds-american-small-batch-gin-750ml"
+  ]
  },
  {
   "name": "Leopold's Gin No. 25 Barrel Aged",
@@ -2827,7 +3691,16 @@
   "country": "Mỹ",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 730000,
+  "price_vnd_max": 730000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "27.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://bottlebarn.com/products/ransom-spirits-dry-gin-750ml"
+  ]
  },
  {
   "name": "Roundhouse Gin",
@@ -2854,7 +3727,16 @@
   "country": "Mỹ",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 910000,
+  "price_vnd_max": 910000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/gin/products/st-george-botanivore-gin"
+  ]
  },
  {
   "name": "St. George Dry Rye Gin",
@@ -2863,7 +3745,16 @@
   "country": "Mỹ",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 940000,
+  "price_vnd_max": 940000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/gin/products/st-george-dry-rye-gin-750ml"
+  ]
  },
  {
   "name": "Uncle Val's Botanical Gin",
@@ -2872,7 +3763,16 @@
   "country": "Mỹ",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/products/uncle-vals-botanical-gin"
+  ]
  },
  {
   "name": "Bareksten Botanical Gin",
@@ -2890,7 +3790,16 @@
   "country": "Na Uy",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.caskers.com/harahorn-small-batch-gin-750/"
+  ]
  },
  {
   "name": "OSLO Handcrafted Gin",
@@ -2908,7 +3817,16 @@
   "country": "Nam Phi",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1290000,
+  "price_vnd_max": 1290000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "36.84 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/bayab-gin/bayab-african-grown-classic-dry-gin"
+  ]
  },
  {
   "name": "Cape Town Classic Dry Gin",
@@ -2935,7 +3853,16 @@
   "country": "Nam Phi",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1540000,
+  "price_vnd_max": 1540000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "43.87 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/inverroche/inverroche-amber-gin-43"
+  ]
  },
  {
   "name": "Inverroche Classic Gin",
@@ -2944,7 +3871,16 @@
   "country": "Nam Phi",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.9 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/inverroche/inverroche-classic-gin/"
+  ]
  },
  {
   "name": "Inverroche Verdant Gin",
@@ -2953,7 +3889,16 @@
   "country": "Nam Phi",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1400000,
+  "price_vnd_max": 1400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.89 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/inverroche/inverroche-verdant-gin/?sku=55682"
+  ]
  },
  {
   "name": "Musgrave 11 Gin",
@@ -2962,7 +3907,16 @@
   "country": "Nam Phi",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2030000,
+  "price_vnd_max": 2030000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "110 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://nicks.com.au/products/musgrave-gin-750ml"
+  ]
  },
  {
   "name": "Wilderer Fynbos Gin",
@@ -2989,7 +3943,16 @@
   "country": "New Zealand",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1150000,
+  "price_vnd_max": 1150000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.9 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/broken-heart-spirits/broken-heart-gin/?sku=43729"
+  ]
  },
  {
   "name": "Curiosity Gin",
@@ -3007,7 +3970,16 @@
   "country": "New Zealand",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/lighthouse-small-batch-gin-700ml"
+  ]
  },
  {
   "name": "Reid + Reid Gin",
@@ -3016,7 +3988,16 @@
   "country": "New Zealand",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2030000,
+  "price_vnd_max": 2030000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "109.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/reid-reid-native-gin-700ml"
+  ]
  },
  {
   "name": "Rogue Society Gin",
@@ -3066,7 +4047,16 @@
   "country": "Phần Lan",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1370000,
+  "price_vnd_max": 1370000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "38.95 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/arctic-blue/arctic-blue-gin"
+  ]
  },
  {
   "name": "Helsinki Dry Gin",
@@ -3075,7 +4065,16 @@
   "country": "Phần Lan",
   "year": 2014,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1050000,
+  "price_vnd_max": 1050000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.95 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/helsinki/helsinki-dry-gin"
+  ]
  },
  {
   "name": "Kyro Napue Gin",
@@ -3084,7 +4083,16 @@
   "country": "Phần Lan",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1180000,
+  "price_vnd_max": 1180000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "33.49 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.virginwines.co.uk/spirit/gin/Z39430103092/Kyro-Napue-Gin"
+  ]
  },
  {
   "name": "44 degrees N Gin",
@@ -3093,7 +4101,16 @@
   "country": "Pháp",
   "year": 2018,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 3280000,
+  "price_vnd_max": 3280000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "93.5 GBP (chai 500ml)",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/comte-de-grasse/comte-de-grasse-44-n-gin"
+  ]
  },
  {
   "name": "Citadelle Gin Original",
@@ -3118,7 +4135,16 @@
   "country": "Pháp",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1350000,
+  "price_vnd_max": 1350000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "38.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/gin/citadelle/citadelle-jardin-d-ete-gin"
+  ]
  },
  {
   "name": "Distillerie de Paris Gin",
@@ -3145,7 +4171,16 @@
   "country": "Pháp",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1440000,
+  "price_vnd_max": 1440000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "41 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.hedonism.co.uk/product/le-gin"
+  ]
  },
  {
   "name": "Saffron Gin",
@@ -3154,7 +4189,16 @@
   "country": "Pháp",
   "year": 2000,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1530000,
+  "price_vnd_max": 1530000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "43.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/5476/boudier-saffron-gin"
+  ]
  },
  {
   "name": "ARC Archipelago Botanical Gin",
