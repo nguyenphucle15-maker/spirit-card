@@ -960,7 +960,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2017,
   "status": "Còn lưu hành",
-  "note": "NOM 1523. Pha agave Los Altos và Los Valles; kết hợp lò gạch + autoclave, roller mill + tahona, nồi đồng (Agave Matchmaker)."
+  "note": "NOM 1523. Pha agave Los Altos và Los Valles; kết hợp lò gạch + autoclave, roller mill + tahona, nồi đồng (Agave Matchmaker).",
+  "price_vnd_min": 1430000,
+  "price_vnd_max": 1430000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "54.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/additive-free-tequila/products/volcan-de-mi-tierra-blanco-tequila"
+  ]
  },
  {
   "name": "Chinaco Blanco",
@@ -978,7 +987,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": "NOM 1489. Pha blanco với extra añejo — một trong số ít joven 100% agave. Bertha González Nieves là nữ Maestra Tequilera đầu tiên được Academia Mexicana de Catadores de Tequila công nhận."
+  "note": "NOM 1489. Pha blanco với extra añejo — một trong số ít joven 100% agave. Bertha González Nieves là nữ Maestra Tequilera đầu tiên được Academia Mexicana de Catadores de Tequila công nhận.",
+  "price_vnd_min": 8450000,
+  "price_vnd_max": 8450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "324.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/22069"
+  ]
  },
  {
   "name": "Corralejo Reposado",
@@ -987,7 +1005,16 @@
   "country": "Mexico (Guanajuato)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1368. Chai xanh cao đặc trưng."
+  "note": "NOM 1368. Chai xanh cao đặc trưng.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/corralejo-reposado-tequila/p/97236750"
+  ]
  },
  {
   "name": "123 Organic Dos Reposado",
@@ -996,7 +1023,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1480."
+  "note": "NOM 1480.",
+  "price_vnd_min": 1770000,
+  "price_vnd_max": 1770000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "67.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/123-certified-organic-tequila-reposado/p/114564750"
+  ]
  },
  {
   "name": "1800 Reposado",
@@ -1005,7 +1041,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122 / 1612."
+  "note": "NOM 1122 / 1612.",
+  "price_vnd_min": 670000,
+  "price_vnd_max": 670000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25.67 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/1800-reposado-tequila/p/1799750"
+  ]
  },
  {
   "name": "818 Reposado",
@@ -1014,7 +1059,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": "NOM 1607."
+  "note": "NOM 1607.",
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "22.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://pjwine.com/products/818-reposado-tequila-750l"
+  ]
  },
  {
   "name": "Antiguo de Herradura Reposado",
@@ -1041,7 +1095,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1140."
+  "note": "NOM 1140.",
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "22.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/reposado/products/cabrito-reposado-750ml"
+  ]
  },
  {
   "name": "Casa Noble Reposado",
@@ -1050,7 +1113,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1137."
+  "note": "NOM 1137.",
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/collections/tequila-reposado/products/casa-noble-reposado-tequila-750ml"
+  ]
  },
  {
   "name": "Casamigos Reposado",
@@ -1059,7 +1131,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": "NOM 1609 (trước 1416)."
+  "note": "NOM 1609 (trước 1416).",
+  "price_vnd_min": 940000,
+  "price_vnd_max": 940000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/casamigos-reposado/p/130476750"
+  ]
  },
  {
   "name": "Cascahuín Reposado",
@@ -1068,7 +1149,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1123."
+  "note": "NOM 1123.",
+  "price_vnd_min": 1690000,
+  "price_vnd_max": 1690000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/additive-free-tequila/products/cascahuin-tequila-reposado"
+  ]
  },
  {
   "name": "Cazadores Reposado",
@@ -1086,7 +1176,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1904,
   "status": "Còn lưu hành",
-  "note": "NOM 1140."
+  "note": "NOM 1140.",
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/reposado/products/centinela-reposado-750ml"
+  ]
  },
  {
   "name": "Clase Azul Reposado",
@@ -1095,7 +1194,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1595. Chai gốm làm và vẽ tay — sản phẩm biểu tượng của hãng. Chưa xác minh năm ra mắt."
+  "note": "NOM 1595. Chai gốm làm và vẽ tay — sản phẩm biểu tượng của hãng. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 4160000,
+  "price_vnd_max": 4160000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "159.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/clase-azul-reposado-tequila/p/104416750?xs=1"
+  ]
  },
  {
   "name": "Código 1530 Reposado",
@@ -1137,7 +1245,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1994,
   "status": "Còn lưu hành",
-  "note": "NOM 1119."
+  "note": "NOM 1119.",
+  "price_vnd_min": 490000,
+  "price_vnd_max": 490000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "18.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/el-jimador-reposado/p/13680750"
+  ]
  },
  {
   "name": "El Tequileño Reposado Gran Reserva",
@@ -1146,7 +1263,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1959,
   "status": "Còn lưu hành",
-  "note": "NOM 1146. Năm thành lập distillery."
+  "note": "NOM 1146. Năm thành lập distillery.",
+  "price_vnd_min": 1650000,
+  "price_vnd_max": 1650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "46.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/63695/el-tequileno-reposado-gran-reserva"
+  ]
  },
  {
   "name": "El Tesoro Reposado",
@@ -1155,7 +1281,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1139."
+  "note": "NOM 1139.",
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "69.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/20751"
+  ]
  },
  {
   "name": "Espolòn Reposado",
@@ -1164,7 +1299,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": "NOM 1440."
+  "note": "NOM 1440.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/espolon-reposado-tequila-750ml"
+  ]
  },
  {
   "name": "Fortaleza Reposado",
@@ -1191,7 +1335,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1579."
+  "note": "NOM 1579.",
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "69.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/best-seller-internal-use-1/products/g4-reposado-tequila"
+  ]
  },
  {
   "name": "Gran Centenario Reposado",
@@ -1216,7 +1369,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1124."
+  "note": "NOM 1124.",
+  "price_vnd_min": 1260000,
+  "price_vnd_max": 1260000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.85 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/tequila/herencia/herencia-de-plata-reposado-tequila/?srh=1"
+  ]
  },
  {
   "name": "Herradura Reposado",
@@ -1225,7 +1387,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1870,
   "status": "Còn lưu hành",
-  "note": "NOM 1119. Năm thành lập nhà. Herradura tự nhận đưa ra hạng reposado đầu tiên (1974) — là tuyên bố của hãng."
+  "note": "NOM 1119. Năm thành lập nhà. Herradura tự nhận đưa ra hạng reposado đầu tiên (1974) — là tuyên bố của hãng.",
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/herradura-reposado-tequila"
+  ]
  },
  {
   "name": "Hornitos Reposado",
@@ -1234,7 +1405,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1950,
   "status": "Còn lưu hành",
-  "note": "NOM 1102. Francisco Javier Sauza tạo 1950."
+  "note": "NOM 1102. Francisco Javier Sauza tạo 1950.",
+  "price_vnd_min": 650000,
+  "price_vnd_max": 650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/sauza-hornitos-reposado-tequila"
+  ]
  },
  {
   "name": "Jose Cuervo Tradicional Reposado",
@@ -1243,7 +1423,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122."
+  "note": "NOM 1122.",
+  "price_vnd_min": 580000,
+  "price_vnd_max": 580000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "22.24 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/jose-cuervo-tradicional-reposado-tequila/p/1800750?igrules=true"
+  ]
  },
  {
   "name": "Mijenta Reposado",
@@ -1252,7 +1441,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1499."
+  "note": "NOM 1499.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/additive-free-tequila/products/mijenta-reposado-750ml"
+  ]
  },
  {
   "name": "Milagro Reposado",
@@ -1261,7 +1459,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": "NOM 1559."
+  "note": "NOM 1559.",
+  "price_vnd_min": 730000,
+  "price_vnd_max": 730000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "27.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://pjwine.com/products/milagro-reposado-tequila-750l"
+  ]
  },
  {
   "name": "Olmeca Altos Reposado",
@@ -1270,7 +1477,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": "NOM 1111."
+  "note": "NOM 1111.",
+  "price_vnd_min": 1440000,
+  "price_vnd_max": 1440000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "40.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/11298/olmeca-altos-reposado-tequila"
+  ]
  },
  {
   "name": "Patrón Reposado",
@@ -1288,7 +1504,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1103."
+  "note": "NOM 1103.",
+  "price_vnd_min": 470000,
+  "price_vnd_max": 470000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "17.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/tequila-brands/products/pueblo-viejo-tequila-reposado"
+  ]
  },
  {
   "name": "Siembra Azul Reposado",
@@ -1306,7 +1531,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1952,
   "status": "Còn lưu hành",
-  "note": "NOM 1120. Năm thành lập."
+  "note": "NOM 1120. Năm thành lập.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.94 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.sfwtc.com/spirit/7777-siete-leguas-reposado-tequila/7777-224687-750"
+  ]
  },
  {
   "name": "Suerte Reposado",
@@ -1315,7 +1549,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1530."
+  "note": "NOM 1530.",
+  "price_vnd_min": 1220000,
+  "price_vnd_max": 1220000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "46.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/suerte-reposado-tequila/p/169843750"
+  ]
  },
  {
   "name": "Tapatío Reposado",
@@ -1324,7 +1567,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1937,
   "status": "Còn lưu hành",
-  "note": "NOM 1139. Năm thành lập distillery."
+  "note": "NOM 1139. Năm thành lập distillery.",
+  "price_vnd_min": 1950000,
+  "price_vnd_max": 1950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "74.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/resposado/products/tapatio-tequila-reposado-750ml"
+  ]
  },
  {
   "name": "Tequila Ocho Reposado",
@@ -1333,7 +1585,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": "NOM 1474. Năm thương hiệu."
+  "note": "NOM 1474. Năm thương hiệu.",
+  "price_vnd_min": 1370000,
+  "price_vnd_max": 1370000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "52.59 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/tequila-ocho-reposado/p/105325750-1"
+  ]
  },
  {
   "name": "Teremana Reposado",
@@ -1342,7 +1603,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2020,
   "status": "Còn lưu hành",
-  "note": "NOM 1613."
+  "note": "NOM 1613.",
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/reposado/teremana-reposado-tequila/p/228371750"
+  ]
  },
  {
   "name": "Trujillo Reposado",
@@ -1360,7 +1630,16 @@
   "country": "Mexico (Tamaulipas)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1127."
+  "note": "NOM 1127.",
+  "price_vnd_min": 1510000,
+  "price_vnd_max": 1510000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "57.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://flaskfinewines.com/products/chinaco-reposado-tequila-750ml"
+  ]
  },
  {
   "name": "Corralejo 99,000 Horas",
@@ -1378,7 +1657,16 @@
   "country": "Mexico (Guanajuato)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1368."
+  "note": "NOM 1368.",
+  "price_vnd_min": 990000,
+  "price_vnd_max": 990000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "37.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/anejo/corralejo-anejo-tequila/p/97237750"
+  ]
  },
  {
   "name": "123 Organic Tres Añejo",
@@ -1387,7 +1675,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1480."
+  "note": "NOM 1480.",
+  "price_vnd_min": 1950000,
+  "price_vnd_max": 1950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "74.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://astorwines.com/item/27420"
+  ]
  },
  {
   "name": "1800 Añejo",
@@ -1396,7 +1693,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122 / 1612."
+  "note": "NOM 1122 / 1612.",
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/1800/products/1800-anejo-tequila-750"
+  ]
  },
  {
   "name": "818 Añejo",
@@ -1405,7 +1711,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2021,
   "status": "Còn lưu hành",
-  "note": "NOM 1607."
+  "note": "NOM 1607.",
+  "price_vnd_min": 1430000,
+  "price_vnd_max": 1430000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "54.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/tequila-brands/products/818-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Casa Dragones Añejo Barrel Blend",
@@ -1414,7 +1729,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1489."
+  "note": "NOM 1489.",
+  "price_vnd_min": 4680000,
+  "price_vnd_max": 4680000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "179.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://nyc.flatiron-wines.com/products/casa-dragones-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Casa Noble Añejo",
@@ -1423,7 +1747,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1137."
+  "note": "NOM 1137.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/all/products/casa-noble-tequila-anejo-750ml"
+  ]
  },
  {
   "name": "Casamigos Añejo",
@@ -1432,7 +1765,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": "NOM 1609 (trước 1416). 40%; lò gạch, roller mill, nồi inox có ruột đồng (Agave Matchmaker)."
+  "note": "NOM 1609 (trước 1416). 40%; lò gạch, roller mill, nồi inox có ruột đồng (Agave Matchmaker).",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/products/casamigos-anejo-tequila"
+  ]
  },
  {
   "name": "Cazadores Añejo",
@@ -1441,7 +1783,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1487."
+  "note": "NOM 1487.",
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/anejo/products/cazadores-tequila-anejo-750ml"
+  ]
  },
  {
   "name": "Centinela Añejo",
@@ -1459,7 +1810,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1595."
+  "note": "NOM 1595.",
+  "price_vnd_min": 14560000,
+  "price_vnd_max": 14560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "559.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/anejo/clase-azul-anejo-tequila/p/130465750"
+  ]
  },
  {
   "name": "Código 1530 Añejo",
@@ -1468,7 +1828,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1616."
+  "note": "NOM 1616.",
+  "price_vnd_min": 3900000,
+  "price_vnd_max": 3900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "149.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/all/products/codigo-1530-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Don Julio 1942",
@@ -1511,7 +1880,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1994,
   "status": "Còn lưu hành",
-  "note": "NOM 1119."
+  "note": "NOM 1119.",
+  "price_vnd_min": 860000,
+  "price_vnd_max": 860000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://shopsk.com/collections/above-50/products/el-jimador-tequila-anejo"
+  ]
  },
  {
   "name": "El Mayor Añejo",
@@ -1529,7 +1907,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1139."
+  "note": "NOM 1139.",
+  "price_vnd_min": 2340000,
+  "price_vnd_max": 2340000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "89.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/anejo/products/el-tesoro-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Espolòn Añejo",
@@ -1538,7 +1925,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1998,
   "status": "Còn lưu hành",
-  "note": "NOM 1440. Finish thùng Wild Turkey (cùng tập đoàn Campari)."
+  "note": "NOM 1440. Finish thùng Wild Turkey (cùng tập đoàn Campari).",
+  "price_vnd_min": 1140000,
+  "price_vnd_max": 1140000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "43.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/anejo/products/espolon-tequila-anejo"
+  ]
  },
  {
   "name": "Fortaleza Añejo",
@@ -1556,7 +1952,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1579."
+  "note": "NOM 1579.",
+  "price_vnd_min": 3120000,
+  "price_vnd_max": 3120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "119.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/anejo/products/g4-tequila-anejo"
+  ]
  },
  {
   "name": "Gran Coramino Añejo",
@@ -1565,7 +1970,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1122. 40%; lò gạch, roller mill (Agave Matchmaker)."
+  "note": "NOM 1122. 40%; lò gạch, roller mill (Agave Matchmaker).",
+  "price_vnd_min": 5440000,
+  "price_vnd_max": 5440000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "155 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://hedonism.co.uk/product/gran-coramino-anejo-tequila"
+  ]
  },
  {
   "name": "Gran Patrón Burdeos",
@@ -1574,7 +1988,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1492. Añejo finish thùng vang Bordeaux."
+  "note": "NOM 1492. Añejo finish thùng vang Bordeaux.",
+  "price_vnd_min": 22130000,
+  "price_vnd_max": 22130000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "1200 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.danmurphys.com.au/product/129703/gran-patron-burdeos-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Herradura Añejo",
@@ -1583,7 +2006,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1870,
   "status": "Còn lưu hành",
-  "note": "NOM 1119. Năm thành lập nhà."
+  "note": "NOM 1119. Năm thành lập nhà.",
+  "price_vnd_min": 1690000,
+  "price_vnd_max": 1690000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/50-100/products/herradura-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Hornitos Black Barrel",
@@ -1592,7 +2024,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1102. Añejo ủ tiếp trong thùng whiskey đốt char — góc nội dung tequila 'lai' bourbon."
+  "note": "NOM 1102. Añejo ủ tiếp trong thùng whiskey đốt char — góc nội dung tequila 'lai' bourbon.",
+  "price_vnd_min": 810000,
+  "price_vnd_max": 810000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/anejo/hornitos-black-barrel-tequila/p/138053750"
+  ]
  },
  {
   "name": "Milagro Select Barrel Reserve Añejo",
@@ -1610,7 +2051,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1989,
   "status": "Còn lưu hành",
-  "note": "NOM 1492. Năm thương hiệu."
+  "note": "NOM 1492. Năm thương hiệu.",
+  "price_vnd_min": 1470000,
+  "price_vnd_max": 1470000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "56.49 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/anejo/patron-anejo/p/5655750"
+  ]
  },
  {
   "name": "Sauza Tres Generaciones Añejo",
@@ -1619,7 +2069,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1973,
   "status": "Còn lưu hành",
-  "note": "NOM 1102. Ra 1973 tôn vinh ba thế hệ nhà Sauza."
+  "note": "NOM 1102. Ra 1973 tôn vinh ba thế hệ nhà Sauza.",
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/50449"
+  ]
  },
  {
   "name": "Siembra Azul Añejo",
@@ -1646,7 +2105,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1530."
+  "note": "NOM 1530.",
+  "price_vnd_min": 1430000,
+  "price_vnd_max": 1430000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "54.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/anejo/products/suerte-tequila-anejo"
+  ]
  },
  {
   "name": "Tapatío Añejo",
@@ -1655,7 +2123,16 @@
   "country": "Mexico (Jalisco)",
   "year": 1937,
   "status": "Còn lưu hành",
-  "note": "NOM 1139. Năm thành lập distillery."
+  "note": "NOM 1139. Năm thành lập distillery.",
+  "price_vnd_min": 1690000,
+  "price_vnd_max": 1690000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.94 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.sfwtc.com/spirit/7777-tapatio-anejo/7777-224282-750"
+  ]
  },
  {
   "name": "Tequila Ocho Añejo",
@@ -1664,7 +2141,16 @@
   "country": "Mexico (Jalisco)",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": "NOM 1474. Năm thương hiệu."
+  "note": "NOM 1474. Năm thương hiệu.",
+  "price_vnd_min": 1660000,
+  "price_vnd_max": 1660000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "63.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.totalwine.com/spirits/tequila/anejo/tequila-ocho-anejo/p/105326750"
+  ]
  },
  {
   "name": "Teremana Añejo",
@@ -1673,7 +2159,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1613. Chưa xác minh năm ra mắt."
+  "note": "NOM 1613. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 1300000,
+  "price_vnd_max": 1300000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/anejo/products/teremana-tequila-anejo-750ml"
+  ]
  },
  {
   "name": "Chinaco Añejo",
@@ -1709,7 +2204,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1146. Finish thùng oloroso."
+  "note": "NOM 1146. Finish thùng oloroso.",
+  "price_vnd_min": 5720000,
+  "price_vnd_max": 5720000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "219.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/additive-free-tequila/products/don-fulano-imperial-extra-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Don Julio Real",
@@ -1727,7 +2231,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1139. Ủ thùng cognac."
+  "note": "NOM 1139. Ủ thùng cognac.",
+  "price_vnd_min": 5460000,
+  "price_vnd_max": 5460000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "209.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/tequila-brands/products/el-tesoro-paradiso-extra-anejo-tequila-750ml"
+  ]
  },
  {
   "name": "Fuenteseca Reserva",
@@ -1745,7 +2258,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1119. Dòng extra añejo cao cấp của Herradura. Chưa xác minh năm ra mắt."
+  "note": "NOM 1119. Dòng extra añejo cao cấp của Herradura. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 10400000,
+  "price_vnd_max": 10400000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "399.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/online-liquor-store/products/herradura-seleccion-suprema-tequila"
+  ]
  },
  {
   "name": "Patrón Extra Añejo",
@@ -1754,7 +2276,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1492. Chưa xác minh năm ra mắt."
+  "note": "NOM 1492. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 2080000,
+  "price_vnd_max": 2080000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "79.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/extra-anejo/products/patron-extra-anejo-tequila"
+  ]
  },
  {
   "name": "Reserva de la Familia Extra Añejo",
@@ -1779,7 +2310,16 @@
   "country": "Mexico (Jalisco)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": "NOM 1120. Chưa xác minh năm ra mắt."
+  "note": "NOM 1120. Chưa xác minh năm ra mắt.",
+  "price_vnd_min": 7800000,
+  "price_vnd_max": 7800000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "299.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/siete-leguas-d-antano-extra-anejo-tequila"
+  ]
  },
  {
   "name": "Tapatío Excelencia Gran Reserva",

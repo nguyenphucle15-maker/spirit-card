@@ -546,7 +546,16 @@
   "country": "Guadeloupe (Pháp)",
   "year": 1942,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 810000,
+  "price_vnd_max": 810000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "27.39 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://bottleofitaly.com/fr/products/rum-blanc-55-70cl-damoiseau"
+  ]
  },
  {
   "name": "Damoiseau Millésime",
@@ -564,7 +573,16 @@
   "country": "Guadeloupe (Pháp)",
   "year": 1942,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1260000,
+  "price_vnd_max": 1260000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/damoiseau/damoiseau-vsop-rum/?sku=88709"
+  ]
  },
  {
   "name": "Damoiseau XO",
@@ -573,7 +591,16 @@
   "country": "Guadeloupe (Pháp)",
   "year": 1942,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2130000,
+  "price_vnd_max": 2130000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "60.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/damoiseau/damoiseau-xo-rum/"
+  ]
  },
  {
   "name": "Karukera Blanc",
@@ -591,7 +618,16 @@
   "country": "Guadeloupe (Pháp)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2070000,
+  "price_vnd_max": 2070000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "69.9 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.rhumattitude.com/en/cave/karukera-rhum-vieux-reserve-speciale"
+  ]
  },
  {
   "name": "Longueteau Blanc 62",
@@ -681,7 +717,16 @@
   "country": "Guadeloupe (Pháp)",
   "year": 1916,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 890000,
+  "price_vnd_max": 890000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.9 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.comptoir-irlandais.com/en/white-rum/6432-pere-labat-white.html"
+  ]
  },
  {
   "name": "Père Labat Vieux",
@@ -717,7 +762,16 @@
   "country": "Réunion (Pháp)",
   "year": 1948,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1450000,
+  "price_vnd_max": 1450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "49 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.comptoir-irlandais.com/en/french-traditional-rum/12686-savanna-creol-70cl-52.html"
+  ]
  },
  {
   "name": "Savanna Intense 5 ans",
@@ -762,7 +816,16 @@
   "country": "Bồ Đào Nha",
   "year": 2006,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2040000,
+  "price_vnd_max": 2040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "58 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://shop.oxfordwine.co.uk/products/william-hinton-6-year-cask-aged-rum-agricole"
+  ]
  },
  {
   "name": "William Hinton Rum Agricola Branco",
@@ -771,7 +834,16 @@
   "country": "Bồ Đào Nha",
   "year": 2006,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1160000,
+  "price_vnd_max": 1160000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "33 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://shop.oxfordwine.co.uk/products/william-hinton-branco-rum-agricole"
+  ]
  },
  {
   "name": "Cacique 500 Extra Añejo",
@@ -873,7 +945,16 @@
   "country": "Venezuela",
   "year": 1963,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1230000,
+  "price_vnd_max": 1230000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/ron-pampero-aniversario-rum/?sku=6897"
+  ]
  },
  {
   "name": "Pampero Especial",
@@ -882,7 +963,16 @@
   "country": "Venezuela",
   "year": 1938,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 690000,
+  "price_vnd_max": 690000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "19.64 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.amathusdrinks.com/pampero-a-ejo-especial-rum"
+  ]
  },
  {
   "name": "Ron Carupano 21 Años",
@@ -891,7 +981,16 @@
   "country": "Venezuela",
   "year": 1762,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "69.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/rum/products/ron-anejo-carupano-reserva-21-privada-rum"
+  ]
  },
  {
   "name": "Santa Teresa 1796 Solera",
@@ -900,7 +999,16 @@
   "country": "Venezuela",
   "year": 1996,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "51.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/santa-teresa/santa-teresa-1796-ron-antiguo-de-solera/"
+  ]
  },
  {
   "name": "Santa Teresa Claro",
@@ -909,7 +1017,16 @@
   "country": "Venezuela",
   "year": 1796,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 880000,
+  "price_vnd_max": 880000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/santa-teresa/santa-teresa-claro-rum/?sku=4984"
+  ]
  },
  {
   "name": "Santa Teresa Gran Reserva",
@@ -918,7 +1035,16 @@
   "country": "Venezuela",
   "year": 1796,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/santa-teresa-aged-rum-anejo-gran-reserva"
+  ]
  },
  {
   "name": "Uruapan Charanda Añejo",
@@ -927,7 +1053,16 @@
   "country": "Mexico",
   "year": 1907,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1010000,
+  "price_vnd_max": 1010000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "38.99 USD (chai 1000ml)",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://unwindbottleshop.com/products/charanda-uruapan-anejo-single-blended-rum-1l"
+  ]
  },
  {
   "name": "Uruapan Charanda Blanco",
@@ -954,7 +1089,16 @@
   "country": "Brazil",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 910000,
+  "price_vnd_max": 910000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/avua/products/avua-cachaca-prata-750ml"
+  ]
  },
  {
   "name": "Cachaça 51",
@@ -988,7 +1132,16 @@
   "country": "Brazil",
   "year": 2005,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1350000,
+  "price_vnd_max": 1350000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "38.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/cachaca/leblon/leblon-cachaca/?sku=5856"
+  ]
  },
  {
   "name": "Magnifica Tradicional",
@@ -997,7 +1150,16 @@
   "country": "Brazil",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 950000,
+  "price_vnd_max": 950000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.9 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.rhumattitude.com/en/cave/magnifica-de-faria-tradicional-40/"
+  ]
  },
  {
   "name": "Novo Fogo Silver / Barrel Aged",
@@ -1006,7 +1168,16 @@
   "country": "Brazil",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 910000,
+  "price_vnd_max": 910000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.96 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/29290"
+  ]
  },
  {
   "name": "Pitu",
@@ -1015,7 +1186,16 @@
   "country": "Brazil",
   "year": 1938,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 900000,
+  "price_vnd_max": 900000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/cachaca/pitu/original-pitu-do-brasil-cachaca/?sku=15549"
+  ]
  },
  {
   "name": "Sagatiba Pura",
@@ -1119,7 +1299,16 @@
   "country": "Puerto Rico (Mỹ)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "16 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/bacardi-coco-rum"
+  ]
  },
  {
   "name": "Bacardi Limon",
@@ -1128,7 +1317,16 @@
   "country": "Puerto Rico (Mỹ)",
   "year": 1995,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "15.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://flaskfinewines.com/products/bacardi-limon-rum-750ml"
+  ]
  },
  {
   "name": "Bacardi Raspberry (Razz)",
@@ -1137,7 +1335,16 @@
   "country": "Puerto Rico (Mỹ)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 420000,
+  "price_vnd_max": 420000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "16 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/bacardi-raspberry"
+  ]
  },
  {
   "name": "Dead Man's Fingers Spiced Rum",
@@ -1214,7 +1421,16 @@
   "country": "Quần đảo Virgin thuộc Mỹ",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 890000,
+  "price_vnd_max": 890000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "25.49 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebottleclub.com/products/captain-morgan-spiced-black-rum-1-l"
+  ]
  },
  {
   "name": "Captain Morgan Original Spiced Gold",
@@ -1240,7 +1456,16 @@
   "country": "Saint Lucia",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1140000,
+  "price_vnd_max": 1140000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "32.5 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.waitrosecellar.com/products/chairman-s-reserve-spiced-rum-963696"
+  ]
  },
  {
   "name": "The Kraken Black Spiced Rum",
@@ -1282,7 +1507,16 @@
   "country": "Cuba",
   "year": 1946,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1120000,
+  "price_vnd_max": 1120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.houseofmalt.co.uk/product/legendario-elixir/"
+  ]
  },
  {
   "name": "Koko Kanu Coconut Rum",
@@ -2339,7 +2573,16 @@
   "country": "Puerto Rico (Mỹ)",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/don-q-reserva-7-year-old-rum"
+  ]
  },
  {
   "name": "Don Q Signature Release Single Barrel",
@@ -2357,7 +2600,16 @@
   "country": "Puerto Rico (Mỹ)",
   "year": 1880,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.astorwines.com/item/32545"
+  ]
  },
  {
   "name": "Ron del Barrilito 3 Estrellas",
@@ -2366,7 +2618,16 @@
   "country": "Puerto Rico (Mỹ)",
   "year": 1880,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1170000,
+  "price_vnd_max": 1170000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/ron-del-barrilito-rum/products/ron-del-barrilito-three-star-puerto-rican-rum"
+  ]
  },
  {
   "name": "Ron del Barrilito 4 Estrellas",
@@ -2420,7 +2681,16 @@
   "country": "Antigua & Barbuda",
   "year": 1932,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1090000,
+  "price_vnd_max": 1090000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.royalmilewhiskies.com/english-harbour-5-year-old-40-70cl/"
+  ]
  },
  {
   "name": "English Harbour High Congener Series",
@@ -2465,7 +2735,16 @@
   "country": "Barbados",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1890000,
+  "price_vnd_max": 1890000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "53.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/doorlys/doorlys-12-year-old-43-rum/?sku=143000"
+  ]
  },
  {
   "name": "Doorly's 14 Year",
@@ -2474,7 +2753,16 @@
   "country": "Barbados",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2770000,
+  "price_vnd_max": 2770000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "150 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/doorly-s-14-year-old-rum-700ml"
+  ]
  },
  {
   "name": "Doorly's 5 Year",
@@ -2483,7 +2771,16 @@
   "country": "Barbados",
   "year": 2016,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1260000,
+  "price_vnd_max": 1260000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.drinkfinder.co.uk/products/doorlys-5-year-old-rum-70cl"
+  ]
  },
  {
   "name": "Doorly's XO",
@@ -2492,7 +2789,16 @@
   "country": "Barbados",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1680000,
+  "price_vnd_max": 1680000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "47.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.royalmilewhiskies.com/doorlys-xo-rum-43-70cl/"
+  ]
  },
  {
   "name": "Mount Gay 1703 Master Select",
@@ -2560,7 +2866,16 @@
   "country": "Barbados",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2000000,
+  "price_vnd_max": 2000000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "56.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.drinkfinder.co.uk/products/r-l-seales-10-year-old-rum-70cl"
+  ]
  },
  {
   "name": "St. Nicholas Abbey 10 Year",
@@ -2605,7 +2920,16 @@
   "country": "Barbados",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 3510000,
+  "price_vnd_max": 3510000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "99.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.royalmilewhiskies.com/st-nicholas-abbey-5-year-old-barbados-rum-40-70cl/"
+  ]
  },
  {
   "name": "St. Nicholas Abbey 8 Year",
@@ -2614,7 +2938,16 @@
   "country": "Barbados",
   "year": 2011,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 5960000,
+  "price_vnd_max": 5960000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "201 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.rhumattitude.com/en/cave/saint-nicholas-abbey-8-ans-40"
+  ]
  },
  {
   "name": "The Real McCoy 12 Year",
@@ -2623,7 +2956,16 @@
   "country": "Barbados",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1560000,
+  "price_vnd_max": 1560000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "59.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/the-real-mccoy-12-year-rum"
+  ]
  },
  {
   "name": "The Real McCoy 5 Year",
@@ -2659,7 +3001,16 @@
   "country": "Bermuda",
   "year": 1860,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1090000,
+  "price_vnd_max": 1090000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "30.99 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.drinkfinder.co.uk/products/goslings-black-seal-rum-70cl"
+  ]
  },
  {
   "name": "Gosling's Gold Bermuda Rum",
@@ -2668,7 +3019,16 @@
   "country": "Bermuda",
   "year": 1806,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1600000,
+  "price_vnd_max": 1600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "86.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.nicks.com.au/products/goslings-gold-rum-700ml"
+  ]
  },
  {
   "name": "Gosling's Old Rum",
@@ -2722,7 +3082,16 @@
   "country": "Jamaica",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1100000,
+  "price_vnd_max": 1100000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.44 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/monymusk/monymusk-classic-gold-rum/"
+  ]
  },
  {
   "name": "Lazy Dodo Single Estate",
@@ -2758,7 +3127,16 @@
   "country": "Mỹ",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 780000,
+  "price_vnd_max": 780000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "29.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thebarreltap.com/collections/under-50/products/papas-pilar-blonde-rum-750ml"
+  ]
  },
  {
   "name": "Ragged Mountain Rum",
@@ -3934,7 +4312,16 @@
   "country": "Madagascar",
   "year": 1980,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1450000,
+  "price_vnd_max": 1450000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "48.9 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.rhumattitude.com/en/cave/dzama-cuvee-noire-prestige-40"
+  ]
  },
  {
   "name": "Dzama Vieux 10 ans",
@@ -3961,7 +4348,16 @@
   "country": "Mauritius",
   "year": 2008,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2010000,
+  "price_vnd_max": 2010000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "57.25 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/35031/chamarel-vsop-premium-rum"
+  ]
  },
  {
   "name": "Rivière du Mât Blanc Agricole",
@@ -3988,7 +4384,16 @@
   "country": "Tây Ban Nha",
   "year": 1884,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1580000,
+  "price_vnd_max": 1580000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/arehucas/arehucas-ron-anejo-12-anos-rum"
+  ]
  },
  {
   "name": "Ron Arehucas Carta Oro",
@@ -4051,7 +4456,16 @@
   "country": "Ấn Độ",
   "year": 1954,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 650000,
+  "price_vnd_max": 650000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "24.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://theliquorbarn.com/collections/rum/products/old-monk-xxx-7-year-rum-750ml"
+  ]
  },
  {
   "name": "Old Monk Supreme XXX",
@@ -4060,7 +4474,16 @@
   "country": "Ấn Độ",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "64.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://nicks.com.au/products/old-monk-supreme-xxx-indian-rum-750ml"
+  ]
  },
  {
   "name": "Mekhong Thai Spirit",
@@ -4087,7 +4510,16 @@
   "country": "Thái Lan",
   "year": 1977,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 590000,
+  "price_vnd_max": 590000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "16.75 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.thewhiskyexchange.com/p/16016/sangsom-rum"
+  ]
  },
  {
   "name": "Don Papa 10 Year",
@@ -4157,7 +4589,16 @@
   "country": "Philippines",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1540000,
+  "price_vnd_max": 1540000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "44 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://caviste.co.uk/products/tanduay-double-rum"
+  ]
  },
  {
   "name": "Tanduay Silver / Gold",
@@ -4166,7 +4607,16 @@
   "country": "Philippines",
   "year": 1854,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 600000,
+  "price_vnd_max": 600000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "22.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/products/tanduay-asian-rum-silver"
+  ]
  },
  {
   "name": "Beenleigh Artisan Double Cask",
@@ -4175,7 +4625,16 @@
   "country": "Úc",
   "year": 1884,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1050000,
+  "price_vnd_max": 1050000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "56.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.danmurphys.com.au/product/DM_765453/beenleigh-handcrafted-double-cask-5-year-old-rum-700ml"
+  ]
  },
  {
   "name": "Bundaberg Black Barrel",
@@ -4227,7 +4686,16 @@
   "country": "Úc",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1530000,
+  "price_vnd_max": 1530000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "82.99 AUD",
+  "fx_rate": "1 AUD = 18.439 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.danmurphys.com.au/product/DM_679095/husk-rum-pure-cane-700ml"
+  ]
  },
  {
   "name": "Kalki Moon Original Spiced",
@@ -5311,7 +5779,16 @@
   "country": "Mỹ",
   "year": 2009,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1040000,
+  "price_vnd_max": 1040000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "39.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://woodencork.com/collections/rum/products/koloa-kauai-white-rum"
+  ]
  },
  {
   "name": "Lost Spirits Navy Style Rum 61%",
@@ -5329,7 +5806,16 @@
   "country": "Mỹ",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 960000,
+  "price_vnd_max": 960000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "36.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.caskers.com/maggies-farm-white-rum-750/"
+  ]
  },
  {
   "name": "Montanya Oro / Platino",
@@ -5383,7 +5869,16 @@
   "country": "Mỹ",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1200000,
+  "price_vnd_max": 1200000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "45.99 USD",
+  "fx_rate": "1 USD = 26.000 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.caskers.com/privateer-rums-silver/"
+  ]
  },
  {
   "name": "Richland Single Estate Old Georgia Rum",
@@ -5428,7 +5923,16 @@
   "country": "Anh (UK)",
   "year": 2010,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1230000,
+  "price_vnd_max": 1230000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "34.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/ableforths/rumbullion-rum/"
+  ]
  },
  {
   "name": "Two Drifters Signature Spiced",
@@ -5446,7 +5950,16 @@
   "country": "Scotland (UK)",
   "year": 2015,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1120000,
+  "price_vnd_max": 1120000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "31.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/dark-matter/dark-matter-spiced-rum"
+  ]
  },
  {
   "name": "Ninefold Pure Single Rum",
@@ -5482,7 +5995,16 @@
   "country": "Nam Phi",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2930000,
+  "price_vnd_max": 2930000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "99 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.rhumattitude.com/en/cave/mhoba-select-reserve-glass-cask-60/"
+  ]
  },
  {
   "name": "Mhoba Select Release",
@@ -5572,7 +6094,16 @@
   "country": "Nhật Bản",
   "year": 2013,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 2280000,
+  "price_vnd_max": 2280000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "76.9 EUR",
+  "fx_rate": "1 EUR = 29.642 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.rhumattitude.com/en/cave/nine-leaves-clear"
+  ]
  },
  {
   "name": "Ogasawara Rum",
@@ -5599,7 +6130,16 @@
   "country": "Thái Lan",
   "year": null,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1820000,
+  "price_vnd_max": 1820000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "51.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/chalong-bay/chalong-bay-double-barrel-rum/"
+  ]
  },
  {
   "name": "Chalong Bay Pure Rum",
@@ -5608,7 +6148,16 @@
   "country": "Thái Lan",
   "year": 2012,
   "status": "Còn lưu hành",
-  "note": null
+  "note": null,
+  "price_vnd_min": 1260000,
+  "price_vnd_max": 1260000,
+  "price_updated": "2026-10-31",
+  "price_vn_available": false,
+  "price_foreign": "35.95 GBP",
+  "fx_rate": "1 GBP = 35.102 VND, 30/10/2026",
+  "price_sources": [
+   "https://www.masterofmalt.com/rum/chalong-bay/chalong-bay-rum/"
+  ]
  },
  {
   "name": "Issan Rum Blanc",
