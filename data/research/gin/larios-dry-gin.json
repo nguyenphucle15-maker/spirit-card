@@ -1,0 +1,50 @@
+{
+  "name": "Larios Dry Gin",
+  "slug": "larios-dry-gin",
+  "official_name": "Larios Dry Gin",
+  "abv": 37.5,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Spain",
+  "distillery": "Destilerías DYC",
+  "owner": "Suntory Global Spirits",
+  "year_launched": 1932,
+  "botanicals": [],
+  "botanical_count": null,
+  "production": [],
+  "history": [
+    "1863 | Larios family in Malaga moves into distillation",
+    "1916 | Family acquires Jimenez & Lamothe (wine and brandy)",
+    "1932 | Larios gin launched by José Aurelio Larios y Larios, third Marquis of Larios",
+    "1997 | Acquired by Pernod Ricard",
+    "2005 | Sold to Fortune Brands (July); now Suntory Global Spirits"
+  ],
+  "nose": [
+    "Light, floral and fruity",
+    "Subdued juniper and citrus"
+  ],
+  "palate": [
+    "Very mellow",
+    "Delicate juniper",
+    "Pronounced coriander",
+    "Orange zest, light spice"
+  ],
+  "finish": [
+    "Peppery",
+    "Orange",
+    "Light juniper"
+  ],
+  "expressions": [
+    "Larios 12 Botanicals Premium Gin",
+    "Larios Rosé",
+    "Larios Citrus",
+    "Larios 150 Aniversario (limited edition)"
+  ],
+  "serve_official": null,
+  "notes": "Botanicals not stated. Tasting notes from Difford's reviewer (2012). Fetched page names Destilerías DYC as producer, not a Malaga distillery as in backlog [cần kiểm tra]. Sibling names taken from search result titles.",
+  "sources": [
+    "https://www.diffordsguide.com/beer-wine-spirits/288/larios-dry-gin"
+  ],
+  "confidence": "medium"
+}

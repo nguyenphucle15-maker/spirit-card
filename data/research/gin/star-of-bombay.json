@@ -1,0 +1,23 @@
+{
+  "name": "Star of Bombay",
+  "slug": "star-of-bombay",
+  "official_name": "Star of Bombay London Dry Gin",
+  "abv": 47.5,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Ngũ cốc (grain-distilled)",
+  "region": "Laverstoke, Hampshire, England",
+  "distillery": "Laverstoke Mill",
+  "owner": "Bacardi",
+  "year_launched": 2015,
+  "botanicals": ["Juniper", "Lemon peel", "Coriander", "Angelica", "Orris", "Grains of paradise", "Cubeb", "Cassia", "Almond", "Liquorice", "Bergamot orange peel (Calabria, Italy)", "Ambrette seed (Ecuador)"],
+  "botanical_count": 12,
+  "production": ["Vapour infusion", "Slow distillation"],
+  "history": ["2015 | Launched in global travel retail, first at Sydney airport (April 2015 announcement)"],
+  "nose": ["Richer aroma than Bombay Sapphire"], "palate": ["More intense flavour"], "finish": [],
+  "expressions": ["Bombay Sapphire | 10 botanicals, 40%"],
+  "serve_official": null,
+  "notes": "47.5% chosen to emphasise aromatic profile. No producer tasting notes in fetched pages.",
+  "sources": ["https://www.thedrinksbusiness.com/2015/04/bombay-unveils-star-gin-addition/", "https://en.wikipedia.org/wiki/Bombay_Sapphire"],
+  "confidence": "medium"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lubuski Gin",
+  "slug": "lubuski-gin",
+  "official_name": "Lubuski Gin",
+  "abv": 37.5,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Zielona Góra (Lubusz Land), Poland",
+  "distillery": null,
+  "owner": null,
+  "year_launched": null,
+  "botanicals": ["Juniper", "Citrus peel", "Cinnamon"],
+  "botanical_count": null,
+  "production": ["Same recipe for about three decades", "Botanicals sourced from Lubusz Land"],
+  "history": ["2020 | Bronze ISC (Distilled Standard Gin) and Bronze World Gin Awards (Classic Gin)"],
+  "nose": [], "palate": ["Oily, piney juniper", "Zesty citrus peel", "Building cinnamon spice"], "finish": [],
+  "expressions": ["Lubuski Lime Gin", "Lubuski Aged Gin", "Lubuski 7 Year Old Gin", "Lubuski Gin Gold Edition"],
+  "serve_official": "Gin & tonic with a slice of lime (Master of Malt)",
+  "notes": "Producer/owner not stated on fetched page; backlog says Polmos Zielona Góra (Stock Spirits) [cần kiểm tra]. Search shows trademark owner V&S Luksusowa Zielona Góra.",
+  "sources": ["https://www.masterofmalt.com/gin/lubuski/lubuski-gin"],
+  "confidence": "low"
+}

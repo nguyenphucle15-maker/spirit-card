@@ -1,0 +1,23 @@
+{
+  "name": "Bombay Sapphire East",
+  "slug": "bombay-sapphire-east",
+  "official_name": "Bombay Sapphire East",
+  "abv": 42,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Laverstoke, Hampshire, England",
+  "distillery": "Laverstoke Mill (Bombay Spirits Company)",
+  "owner": "Bacardi",
+  "year_launched": 2011,
+  "botanicals": ["Juniper", "Lemon", "Coriander", "Angelica", "Orris", "Grains of paradise", "Cubeb", "Cassia", "Almond", "Liquorice", "Thai lemongrass", "Vietnamese black peppercorn"],
+  "botanical_count": 12,
+  "production": ["Vapour infusion of all 12 botanicals"],
+  "history": ["2011 | Test-market launch in September (Wikipedia)"],
+  "nose": [], "palate": ["Added spice", "Generous hint of citrus"], "finish": [],
+  "expressions": ["Bombay Sapphire | original 10-botanical recipe"],
+  "serve_official": "With tonic (Bombay Sapphire East G&T); also for cocktails",
+  "notes": "Exotic botanicals sourced by Master of Botanicals Ivano Tonutti; created as a homage to the Far East. Black peppercorns are Vietnamese per official page.",
+  "sources": ["https://bombaysapphire.com/ca/en/products/bombay-sapphire-east", "https://en.wikipedia.org/wiki/Bombay_Sapphire"],
+  "confidence": "high"
+}

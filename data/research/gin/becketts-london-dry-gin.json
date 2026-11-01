@@ -1,0 +1,23 @@
+{
+  "name": "Beckett's London Dry Gin",
+  "slug": "becketts-london-dry-gin",
+  "official_name": "Beckett's London Dry Gin – Type 1097",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Kingston upon Thames, England",
+  "distillery": null,
+  "owner": null,
+  "year_launched": null,
+  "botanicals": ["Juniper (English, handpicked from Box Hill)", "Lime", "Orris root", "Sweet orange peel", "Coriander", "Kingston upon Thames mint"],
+  "botanical_count": 6,
+  "production": [],
+  "history": [],
+  "nose": [], "palate": ["Grassy, creamy and zesty"], "finish": [],
+  "expressions": ["Beckett's Sloe Gin", "Beckett's London Dry Gin – Spirited Gin"],
+  "serve_official": null,
+  "notes": "Only retailer source (Master of Malt).",
+  "sources": ["https://www.masterofmalt.com/gin/becketts/becketts-london-dry-gin-type-1097/"],
+  "confidence": "medium"
+}

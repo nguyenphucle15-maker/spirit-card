@@ -1,0 +1,23 @@
+{
+  "name": "Ginself",
+  "slug": "ginself",
+  "official_name": "Ginself",
+  "abv": null,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Cồn từ củ cải đường (beet)",
+  "region": "Cộng đồng Valencia, Tây Ban Nha",
+  "distillery": "Bodegas y Destilerías Carmelitano",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": ["Mandarin", "Orange blossom (azahar)", "Chufa (tiger nut / củ cói)"],
+  "botanical_count": null,
+  "production": ["Làm thủ công với nước suối Sierra de Espadán"],
+  "history": ["2011 | Được giới thiệu là gin đầu tiên của Cộng đồng Valencia (Directo al Paladar, tháng 1/2011)"],
+  "nose": [], "palate": [], "finish": [],
+  "expressions": [],
+  "serve_official": null,
+  "notes": "Chỉ có một nguồn báo chí (tiếng Tây Ban Nha, 2011). Backlog ghi nhà sản xuất 'Ginself, Valencia' – nguồn ghi Bodegas y Destilerías Carmelitano; backlog ghi 2012, bài báo đã nhắc sản phẩm từ 1/2011 [cần kiểm tra]. ABV, dung tích, taste note chưa có [cần kiểm tra].",
+  "sources": ["https://www.directoalpaladar.com/otras-bebidas/ginself-la-ginebra-que-llego-de-valencia"],
+  "confidence": "low"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Thomas Dakin Small Batch Gin",
+  "slug": "thomas-dakin-small-batch-gin",
+  "official_name": "Thomas Dakin Gin",
+  "abv": 42,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Warrington, Cheshire, England",
+  "distillery": "G&J Distillers, Warrington",
+  "owner": "Quintessential Brands Group",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Angelica root",
+    "Coriander",
+    "Cubeb",
+    "Grapefruit peel",
+    "Bitter almond",
+    "Liquorice",
+    "Orange peel",
+    "Orris",
+    "Horseradish (red cole)"
+  ],
+  "botanical_count": 10,
+  "production": [
+    "Small batch, distilled by hand in a baby copper pot still"
+  ],
+  "history": [
+    "2018 | Best British London Dry Gin, The Gin Masters",
+    "2019 | Gold Medal, International Spirits Challenge"
+  ],
+  "nose": [
+    "Zesty sweet orange",
+    "Fresh citrus"
+  ],
+  "palate": [
+    "Distinctive savoury character"
+  ],
+  "finish": [
+    "Long and lingering"
+  ],
+  "expressions": [],
+  "serve_official": "Tom & Tonic: Mediterranean tonic with orange peel garnish; also Negroni (Gin Guild)",
+  "notes": "Whisky Exchange page failed to load; only Gin Guild used. Backlog year 2015 not confirmed [cần kiểm tra].",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/thomas-dakin-gin"
+  ],
+  "confidence": "medium"
+}
