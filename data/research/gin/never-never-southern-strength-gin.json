@@ -1,0 +1,49 @@
+{
+  "name": "Never Never Southern Strength Gin",
+  "slug": "never-never-southern-strength-gin",
+  "official_name": null,
+  "abv": 52.0,
+  "abv_by_market": [],
+  "volume_ml": 500,
+  "base_ingredient": null,
+  "region": "McLaren Vale, South Australia",
+  "distillery": "Never Never Distilling Co.",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Angelica root",
+    "Coriander seed",
+    "Lemon"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Savoury overproof expression of the Triple Juniper style"
+  ],
+  "history": [],
+  "nose": [
+    "Pungent piney juniper",
+    "Lemon, sage",
+    "Faint naan bread"
+  ],
+  "palate": [
+    "Intense piney juniper",
+    "Black pepper, subtle clove, ginger",
+    "Lemon"
+  ],
+  "finish": [
+    "Long, spiced, dry pine"
+  ],
+  "expressions": [
+    "Never Never Triple Juniper Gin",
+    "Never Never Juniper Freak Gin | annual navy-strength release",
+    "Never Never Ginache Gin",
+    "Never Never Fancy Fruit Cup"
+  ],
+  "serve_official": null,
+  "notes": "52% is below the usual 57% navy strength - 'Southern Strength' is the brand's own term. Light louche with water.",
+  "sources": [
+    "https://www.diffordsguide.com/beer-wine-spirits/6762/never-never-southern-strength-gin"
+  ],
+  "confidence": "medium"
+}

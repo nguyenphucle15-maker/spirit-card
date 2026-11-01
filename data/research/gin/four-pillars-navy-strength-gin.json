@@ -1,0 +1,48 @@
+{
+  "name": "Four Pillars Navy Strength Gin",
+  "slug": "four-pillars-navy-strength-gin",
+  "official_name": "Four Pillars Navy Strength Gin",
+  "abv": 58.8,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Healesville, Yarra Valley, Australia",
+  "distillery": "Four Pillars (Healesville Distillery)",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Finger lime",
+    "Fresh ginger",
+    "Fresh turmeric",
+    "Juniper",
+    "Coriander seed",
+    "Green cardamom",
+    "Cassia",
+    "Star anise",
+    "Lavender",
+    "Angelica root",
+    "Pepperberry leaf",
+    "Lemon myrtle",
+    "Orange"
+  ],
+  "botanical_count": 13,
+  "production": [
+    "Distilled with botanicals in a botanical basket",
+    "Four Pillars' first gin made for bartenders"
+  ],
+  "history": [],
+  "nose": [],
+  "palate": [
+    "Sweet and juicy yet clean",
+    "Intense finger-lime citrus",
+    "Ginger spice, earthy turmeric weight"
+  ],
+  "finish": [],
+  "expressions": [],
+  "serve_official": "Overproof G&T with lime leaf and ginger; also Southside, Ginger Mule, Gimlet",
+  "notes": "Launch year not stated on official page.",
+  "sources": [
+    "https://fourpillarsgin.com/products/navy-strength-gin"
+  ],
+  "confidence": "high"
+}

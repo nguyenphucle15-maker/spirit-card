@@ -1,0 +1,51 @@
+{
+  "name": "Herno Navy Strength",
+  "slug": "herno-navy-strength",
+  "official_name": "Hernö Navy Strength Gin",
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Same distilled gin as Hernö Dry Gin",
+  "region": "Dala, Härnösand, High Coast, Sweden",
+  "distillery": "Hernö Gin",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Black pepper",
+    "Coriander seed"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Hernö gin distillate diluted to 57% instead of 40.5%"
+  ],
+  "history": [
+    "2011 | Hernö Gin founded by Jon Hillgren, Sweden's first dedicated gin distillery"
+  ],
+  "nose": [
+    "Bold juniper",
+    "Black pepper",
+    "Gunpowder"
+  ],
+  "palate": [
+    "Black pepper upfront",
+    "Crisp juniper, spicy citrus",
+    "Spring floral, smooth"
+  ],
+  "finish": [
+    "Long, smooth",
+    "Spicy pepper, floral",
+    "Hint of vanilla"
+  ],
+  "expressions": [
+    "Hernö Dry Gin | 40.5%",
+    "Hernö Old Tom Gin | 43%",
+    "Hernö Slow Sloe Gin"
+  ],
+  "serve_official": "Gibson Martini; or Indian tonic with lemon zest",
+  "notes": "Gin Guild says flavour info was provided by the brand owner. Full botanical list not given here (Hernö Dry botanicals listed on Old Tom/Sloe pages).",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/herno-navy-strength-gin/"
+  ],
+  "confidence": "medium"
+}
