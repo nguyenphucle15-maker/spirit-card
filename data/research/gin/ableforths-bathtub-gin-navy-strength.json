@@ -1,0 +1,51 @@
+{
+  "name": "Ableforth's Bathtub Gin Navy Strength",
+  "slug": "ableforths-bathtub-gin-navy-strength",
+  "official_name": null,
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "England",
+  "distillery": null,
+  "owner": "Atom Brands",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Coriander",
+    "Cardamom",
+    "Cassia",
+    "Orange peel",
+    "Clove"
+  ],
+  "botanical_count": 6,
+  "production": [
+    "Bottle hand-wrapped in brown paper with twine and wax seal"
+  ],
+  "history": [],
+  "nose": [
+    "Woody, piney",
+    "Clove, cinnamon, nutty angelica",
+    "Cranberry fruit"
+  ],
+  "palate": [
+    "Piney juniper with clove, cardamom, cinnamon",
+    "Spiced dry oak, coriander freshness"
+  ],
+  "finish": [
+    "Dry pine",
+    "Cinnamon, clove, black pepper"
+  ],
+  "expressions": [
+    "Bathtub Gin | signature",
+    "Bathtub Gin Old Tom | 42.4%",
+    "Bathtub Gin Cask-Aged Navy Strength"
+  ],
+  "serve_official": null,
+  "notes": "Difford's sample (18/12/2017, 100 ml) was golden amber, which may indicate the cask-aged navy version rather than the clear one [cần kiểm tra]. Owner Atom Brands per Gin Guild Bathtub Old Tom page.",
+  "sources": [
+    "https://www.diffordsguide.com/beer-wine-spirits/6112/ableforths-bathtub-gin-navy-strength",
+    "https://www.theginguild.com/ginopedia/gin-brands/bathtub-gin-old-tom/"
+  ],
+  "confidence": "medium"
+}

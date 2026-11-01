@@ -1,0 +1,43 @@
+{
+  "name": "Perry's Tot Navy Strength Gin",
+  "slug": "perrys-tot-navy-strength-gin",
+  "official_name": null,
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Brooklyn, New York, USA",
+  "distillery": "New York Distilling Company",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [],
+  "botanical_count": null,
+  "production": [],
+  "history": [
+    "1833 | Matthew C. Perry helps found the Brooklyn Navy Yard's Naval Lyceum (namesake)",
+    "1841 | Perry becomes Commandant of the Brooklyn Navy Yard (to 1843)"
+  ],
+  "nose": [
+    "Spruce, lavender, angelica",
+    "Parma violet, cold stewed tea",
+    "Zesty citrus"
+  ],
+  "palate": [
+    "Clean, peppery attack",
+    "Classic London Dry character, delicate juniper"
+  ],
+  "finish": [
+    "Nutty juniper",
+    "Spice"
+  ],
+  "expressions": [
+    "Dorothy Parker Gin",
+    "Chief Gowanus New-Netherland Gin"
+  ],
+  "serve_official": null,
+  "notes": "'Tot' is a British naval measure of spirit. Full botanical list not given. Brooklyn location per producer name; Difford's says only 'USA'.",
+  "sources": [
+    "https://www.diffordsguide.com/beer-wine-spirits/3553/perrys-tot-navy-strength-gin"
+  ],
+  "confidence": "medium"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Portobello Road Navy Strength",
+  "slug": "portobello-road-navy-strength",
+  "official_name": "Portobello Road Navy Strength Gin",
+  "abv": 57.1,
+  "abv_by_market": [],
+  "volume_ml": 500,
+  "base_ingredient": "English-grown wheat",
+  "region": "England",
+  "distillery": null,
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Coriander seed",
+    "Angelica root",
+    "Orris root",
+    "Lemon peel",
+    "Liquorice root",
+    "Cassia bark",
+    "Nutmeg"
+  ],
+  "botanical_count": 9,
+  "production": [
+    "A little English sea salt added at the end of distillation"
+  ],
+  "history": [],
+  "nose": [],
+  "palate": [
+    "Intense, ginny, punchy",
+    "Distinct maritime edge from salt"
+  ],
+  "finish": [],
+  "expressions": [
+    "Portobello Road Gin No.171 London Dry"
+  ],
+  "serve_official": null,
+  "notes": "Retailer says nine botanicals but lists eight; ninth not named [cần kiểm tra].",
+  "sources": [
+    "https://www.houseofmalt.co.uk/product/portobello-road-navy-strength-gin/"
+  ],
+  "confidence": "medium"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Hayman's Royal Dock Navy Strength",
+  "slug": "haymans-royal-dock-navy-strength",
+  "official_name": "Hayman's Royal Dock Gin",
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "London, England",
+  "distillery": "Hayman Distillers",
+  "owner": "Hayman family (Hayman Distillers)",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Coriander",
+    "Citrus"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Made by hand in London, traditional navy-strength style"
+  ],
+  "history": [
+    "1863 | Hayman ancestor buys a gin rectifying business in Cale Street, Chelsea",
+    "Late 19th century | Royal Dock gin first supplied to the English Admiralty"
+  ],
+  "nose": [
+    "Bright juniper",
+    "Coriander",
+    "Citrus"
+  ],
+  "palate": [
+    "Bold fresh juniper",
+    "Zesty citrus",
+    "Crisp coriander"
+  ],
+  "finish": [
+    "Warming, balanced",
+    "Soft underlying spice"
+  ],
+  "expressions": [
+    "Hayman's London Dry Gin",
+    "Hayman's Old Tom Gin | 41.4%",
+    "Hayman's Sloe Gin | 26%",
+    "Hayman's Gently Rested Gin"
+  ],
+  "serve_official": "Victorian-style Navy Strength Pink Gin; also True English Gimlet",
+  "notes": "Backlog year 2009 not confirmed.",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/haymans-royal-dock-gin/"
+  ],
+  "confidence": "medium"
+}

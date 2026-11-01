@@ -1,0 +1,54 @@
+{
+  "name": "Gilbey's Gin (Mỹ)",
+  "slug": "gilbeys-gin-my",
+  "official_name": "Gilbey's London Dry Gin (US)",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": 750,
+  "base_ingredient": "Ngũ cốc (100% grain neutral spirit)",
+  "region": "USA",
+  "distillery": "Jim Beam (per The Gin is In)",
+  "owner": "Beam Suntory (Suntory Global Spirits)",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Coriander",
+    "Lemongrass",
+    "Orange peel",
+    "Kalamansi",
+    "Angelica root",
+    "Cinnamon",
+    "Nutmeg"
+  ],
+  "botanical_count": 12,
+  "production": [],
+  "history": [
+    "1857 | Walter and Alfred Gilbey found a wine and spirits company in London",
+    "1895 | Gin called Gilbey's since this year",
+    "1930s | US distilling rights sold; distilled in the US since"
+  ],
+  "nose": [
+    "Citrus zest",
+    "Juniper",
+    "Dried herbs, minerals, gentle spice"
+  ],
+  "palate": [
+    "Juniper-driven, medium-light creamy body",
+    "Lemon zest",
+    "Coriander and cinnamon"
+  ],
+  "finish": [
+    "Citrusy, slight warming spice",
+    "Juniper and dried herbs"
+  ],
+  "expressions": [
+    "Gilbey's London Dry Gin | UK 'Special Dry' 37.5%"
+  ],
+  "serve_official": null,
+  "notes": "Retailer page inconsistent on origin (US vs 'Product of England'). Botanical names from retailer, not confirmed complete. Backlog owner 'Jim Beam / Sazerac' – no source mentions Sazerac [cần kiểm tra].",
+  "sources": [
+    "https://theliquorbarn.com/products/gilbeys-london-dry-gin-750ml",
+    "https://theginisin.com/gin-reviews/gilbeys-gin/"
+  ],
+  "confidence": "medium"
+}

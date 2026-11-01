@@ -1,0 +1,46 @@
+{
+  "name": "Ki No Bi Sei",
+  "slug": "ki-no-bi-sei",
+  "official_name": "KI NO BI \"SEI\" Navy Strength Kyoto Dry Gin",
+  "abv": 54.5,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": "Rice spirit",
+  "region": "Kyoto, Japan",
+  "distillery": "The Kyoto Distillery",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Yellow yuzu",
+    "Akamatsu (Japanese red pine)",
+    "Red shiso leaf",
+    "Bamboo leaf",
+    "Ginger",
+    "Lemon",
+    "Orris",
+    "Gyokuro tea (Uji)",
+    "Green sansho",
+    "Kinome (sansho leaf)"
+  ],
+  "botanical_count": 11,
+  "production": [
+    "Botanicals split into six groups (Base, Citrus, Herbal, Spice, Green Tea, Fruity & Floral), each distilled separately then blended",
+    "Rested in stainless steel",
+    "Proofed with Fushimi water",
+    "Same method as original KI NO BI, blend recalibrated for higher proof"
+  ],
+  "history": [],
+  "nose": [],
+  "palate": [],
+  "finish": [],
+  "expressions": [
+    "KI NO BI Kyoto Dry Gin | original"
+  ],
+  "serve_official": null,
+  "notes": "Importer page; no tasting notes or serve stated. Launch year not stated.",
+  "sources": [
+    "https://www.skurnik.com/sku/navy-strength-gin-ki-no-bi-sei-the-kyoto-distillery/"
+  ],
+  "confidence": "medium"
+}

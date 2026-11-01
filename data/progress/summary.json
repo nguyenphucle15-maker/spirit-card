@@ -1,0 +1,19 @@
+[
+ {
+  "updated": "2026-11-01 11:07",
+  "bottles": 1575,
+  "research_done": 191,
+  "research_pct": 0.1213,
+  "cards_done": 1,
+  "cards_pct": 0.0006,
+  "priced": 678,
+  "priced_pct": 0.4305,
+  "gin_ready_windows": 7,
+  "gin_ready_days": 2.3,
+  "vi_windows": 30,
+  "vi_days": 10.0,
+  "all_windows": 44,
+  "all_days": 14.7,
+  "windows_per_day": 3
+ }
+]

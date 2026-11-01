@@ -1,0 +1,59 @@
+{
+  "name": "Rutte Dry Gin",
+  "slug": "rutte-dry-gin",
+  "official_name": "Rutte Dutch Dry Gin",
+  "abv": 43,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Dordrecht, Netherlands",
+  "distillery": "Distillery Rutte & Zn, Dordrecht",
+  "owner": "De Kuyper Royal Distillers (De Kuyper family)",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Coriander",
+    "Angelica",
+    "Orris root",
+    "Cassia",
+    "Bitter orange peel",
+    "Sweet orange peel",
+    "Fennel"
+  ],
+  "botanical_count": 8,
+  "production": [
+    "Distilled; fresh hand-peeled orange zest distilled",
+    "Organic botanicals (Gin Guild)"
+  ],
+  "history": [
+    "1918 | Rutte family starts making gin with an Old Tom; Dry Gin with celery followed soon after (Gin Guild)"
+  ],
+  "nose": [
+    "Pine",
+    "Coriander",
+    "Violet blossom",
+    "Cracked black pepper",
+    "Light orange zest"
+  ],
+  "palate": [
+    "Clean and dry, juniper forward",
+    "Nutty angelica",
+    "Zesty orange"
+  ],
+  "finish": [
+    "Pine, coriander, peppery",
+    "Faint candied ginger, lemon, sage"
+  ],
+  "expressions": [
+    "Rutte Celery Dry Gin",
+    "Rutte Old Tom Genever",
+    "Rutte Old Simon Genever"
+  ],
+  "serve_official": "Gin & Tonic (Gin Guild)",
+  "notes": "Botanical lists conflict: Gin Guild names juniper, celery, cardamom, coriander, angelica, orange peel; Difford's lists 8 incl. orris, cassia, fennel [cần kiểm tra]. Difford's tasting notes from reviewer (2016).",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/rutte-dutch-dry-gin/",
+    "https://www.diffordsguide.com/beer-wine-spirits/5463/rutte-dry-gin"
+  ],
+  "confidence": "medium"
+}

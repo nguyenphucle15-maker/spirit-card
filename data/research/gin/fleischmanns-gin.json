@@ -1,0 +1,48 @@
+{
+  "name": "Fleischmann's Gin",
+  "slug": "fleischmanns-gin",
+  "official_name": "Fleischmann's Extra Dry Gin",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Ngũ cốc",
+  "region": "USA (Kentucky)",
+  "distillery": "Barton Brands",
+  "owner": "Sazerac Company",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper"
+  ],
+  "botanical_count": null,
+  "production": [],
+  "history": [
+    "1868 | Fleischmann company founded by Charles and Maximilian Fleischmann with distiller James Gaff",
+    "1870 | Riverside, Ohio plant built, producing dry gin and vodka",
+    "1940 | Spirits production moved to Owensboro, Kentucky",
+    "1989 | Acquired by Glenmore Distillery Company",
+    "1991 | United Distillers acquired Glenmore",
+    "1995 | Fleischmann's brand sold to Barton Brands",
+    "2009 | Sazerac acquired Barton Brands"
+  ],
+  "nose": [
+    "Juniper",
+    "Dusty coriander",
+    "Faint celery and pine"
+  ],
+  "palate": [
+    "Smooth and rich",
+    "Juniper builds, coriander mid-palate"
+  ],
+  "finish": [
+    "Crisp",
+    "Lemon, resinous pine"
+  ],
+  "expressions": [],
+  "serve_official": null,
+  "notes": "Label calls it America's first gin (per The Gin is In). Tasting notes from reviewer.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fleischmann%27s_Spirits",
+    "https://theginisin.com/gin-reviews/fleischmanns-gin/"
+  ],
+  "confidence": "medium"
+}

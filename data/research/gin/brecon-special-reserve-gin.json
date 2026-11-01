@@ -1,0 +1,37 @@
+{
+  "name": "Brecon Special Reserve Gin",
+  "slug": "brecon-special-reserve-gin",
+  "official_name": "Brecon Special Reserve Gin",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Penderyn, Brecon Beacons, Wales",
+  "distillery": "Penderyn Distillery",
+  "owner": "Penderyn Distillery",
+  "year_launched": null,
+  "botanicals": [],
+  "botanical_count": null,
+  "production": [
+    "Distilled gin",
+    "Reduced with water from the Brecon Beacons National Park"
+  ],
+  "history": [],
+  "nose": [],
+  "palate": [
+    "Bold traditional juniper",
+    "Coriander",
+    "Hint of cinnamon"
+  ],
+  "finish": [],
+  "expressions": [
+    "Brecon Botanicals Gin | botanicals hand-picked in the Brecon Beacons"
+  ],
+  "serve_official": null,
+  "notes": "Botanicals said to be sourced from 'the four corners of the world', not listed. Official page gives only a flavour summary.",
+  "sources": [
+    "https://www.penderyn.wales/brecon-gin/",
+    "https://catalog.lwc.co.uk/brecon-special-reserve-gin-70cl/"
+  ],
+  "confidence": "high"
+}

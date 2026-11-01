@@ -1,0 +1,45 @@
+{
+  "name": "Bombay Bramble",
+  "slug": "bombay-bramble",
+  "official_name": "Bombay Bramble",
+  "abv": 37.5,
+  "abv_by_market": [
+    "37.5% | per Wikipedia (UK/EU)",
+    "43% | US launch"
+  ],
+  "volume_ml": null,
+  "base_ingredient": "Vapour-distilled Bombay Sapphire gin",
+  "region": "Laverstoke, Hampshire, England",
+  "distillery": "Laverstoke Mill",
+  "owner": "Bacardi",
+  "year_launched": null,
+  "botanicals": [
+    "Bombay Sapphire's 10 botanicals",
+    "Blackberries",
+    "Raspberries"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Natural infusion of freshly harvested blackberries and raspberries blended with gin after distillation",
+    "No added sugar, no artificial flavours or colours"
+  ],
+  "history": [
+    "2021 | US launch timed for World Gin Day (June)"
+  ],
+  "nose": [],
+  "palate": [
+    "Rich, ripe berry",
+    "Light, fresh, balanced; juniper still shows"
+  ],
+  "finish": [],
+  "expressions": [
+    "Bombay Sapphire"
+  ],
+  "serve_official": "Over ice with tonic and a squeeze of lemon; also the Bramble cocktail",
+  "notes": "Backlog year 2020 likely the UK launch; only US 2021 confirmed [cần kiểm tra].",
+  "sources": [
+    "https://www.bevnet.com/spirits/2021/introducing-bombay-bramble-gin-made-with-blackberries-and-raspberries",
+    "https://en.wikipedia.org/wiki/Bombay_Sapphire"
+  ],
+  "confidence": "medium"
+}

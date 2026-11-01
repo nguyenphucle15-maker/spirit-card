@@ -1,0 +1,55 @@
+{
+  "name": "Tarquin's The SeaDog Navy Strength",
+  "slug": "tarquins-the-seadog-navy-strength",
+  "official_name": "Tarquin's \"The SeaDog\" Navy Strength Gin",
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": "Wheat-based neutral grain spirit",
+  "region": "North Cornwall, England",
+  "distillery": "Southwestern Distillery",
+  "owner": "Independent, family-run (Southwestern Distillery)",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper (Kosovo)",
+    "Cinnamon",
+    "Liquorice",
+    "Fresh orange peel",
+    "Violet"
+  ],
+  "botanical_count": 12,
+  "production": [
+    "Botanicals macerated overnight in neutral spirit; violets added next morning before distillation",
+    "Only the heart cut (~76%) kept",
+    "Diluted with demineralised Cornish spring water to 57%; nothing else added (London Dry style)",
+    "Hand-filled, hand-dipped in wax, puffin stamp"
+  ],
+  "history": [
+    "2017 | 'World's Best Gin' at San Francisco World Spirits Competition"
+  ],
+  "nose": [
+    "Fresh, crisp juniper",
+    "Orange blossom, hint of cardamom",
+    "Cracked black pepper, candied citrus"
+  ],
+  "palate": [
+    "Creamy and dry",
+    "Green pine, subtle frangipane",
+    "Zesty tangerine, almond and violet sweetness"
+  ],
+  "finish": [
+    "Crisp and clean",
+    "Lingering citrus zest, eastern spices",
+    "Spiced pine, orange sherbet"
+  ],
+  "expressions": [
+    "Tarquin's Handcrafted Cornish Dry Gin | 42%",
+    "Tarquin's flavoured gins | 38% (Blood Orange, Rhubarb & Raspberry, etc.)"
+  ],
+  "serve_official": "Aromatic tonic, slice of orange, sprig of rosemary",
+  "notes": "Recipe rebalances the Cornish Dry Gin botanicals with more cinnamon, liquorice and orange peel and uses a Kosovo juniper. Only 5 of 12 botanicals named here.",
+  "sources": [
+    "https://tarquinsgin.com/spirits/the-sea-dog-dry-gin-2"
+  ],
+  "confidence": "high"
+}

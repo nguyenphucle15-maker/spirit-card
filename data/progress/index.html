@@ -1,0 +1,239 @@
+<meta name="dash-one-writer">
+<style>
+  .pg { display: grid; gap: var(--cds-gap-xl); max-width: 1200px; margin-inline: auto; font-family: var(--font-anthropic-sans); }
+  .pg-head { display: grid; gap: var(--cds-gap-sm); }
+  .pg-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+  .pg-lede { margin: 0; color: var(--color-fg-muted); max-width: 70ch; line-height: 1.55; }
+  .pg .pg-lede b, .pg td b { font-weight: 600; color: var(--color-fg); }
+  .pg-upd { margin: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: var(--cds-gap-md); }
+  .tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); align-content: start; }
+  .tile-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .tile-num { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .tile-sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+  .tile-bar { height: 6px; border-radius: 3px; background: var(--cds-chart-grid); overflow: hidden; }
+  .tile-bar span { display: block; height: 100%; background: var(--dash-c0, currentColor); border-radius: 3px; }
+
+  .sec { display: grid; gap: var(--cds-gap-md); }
+  .sec-h { margin: 0; font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+  .sec-note { margin: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); max-width: 80ch; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr)); gap: var(--cds-gap-md); }
+  .card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-sm); min-width: 0; align-content: start; }
+  .card-h { margin: 0; font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); display: flex; justify-content: space-between; gap: var(--cds-gap-sm); flex-wrap: wrap; align-items: baseline; }
+  .card-eta { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); font-weight: 400; font-variant-numeric: tabular-nums; }
+
+  .tbl-wrap { overflow-x: auto; }
+  table.pt { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+  .pt th { text-align: left; font-weight: 500; color: var(--color-fg-muted); padding: 6px 8px 6px 0; border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+  .pt td { padding: 7px 8px 7px 0; border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+  .pt tr:last-child td { border-bottom: 0; }
+  .pt td.num, .pt th.num { text-align: right; white-space: nowrap; }
+  .pt td.bar { width: 28%; min-width: 7rem; }
+  .bar-row { display: flex; align-items: center; gap: 8px; }
+  .bar-track { flex: 1; height: 8px; border-radius: 4px; background: var(--cds-chart-grid); overflow: hidden; min-width: 3rem; }
+  .bar-fill { height: 100%; border-radius: 4px; }
+  .bar-pct { min-width: 3.2em; text-align: right; }
+  .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--color-border-line); white-space: nowrap; }
+  .pill.ok { color: var(--color-ok); border-color: currentColor; }
+  .pill.go { color: var(--color-warn); border-color: currentColor; }
+  .pill.wait { color: var(--color-fg-muted); }
+  .note { color: var(--color-fg-muted); }
+  .col-note { min-width: 12rem; }
+  @media (max-width: 560px) { .col-note, .hide-sm { display: none; } }
+
+  .how { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); display: grid; gap: var(--cds-gap-xs); max-width: 80ch; }
+  .how p { margin: 0; line-height: 1.55; }
+  [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+  [data-dash-source-state=empty] { color: transparent; }
+</style>
+
+<div class="pg">
+  <header class="pg-head">
+    <h1 class="pg-title" id="tong-quan">Spirit Card – Tiến độ</h1>
+    <p class="pg-lede">Đã có giá cho <b data-draw="s-priced" data-source="summary" data-field="priced">—</b> trên <b data-draw="s-bottles" data-source="summary" data-field="bottles">—</b> chai, hồ sơ nghiên cứu cho <b data-draw="s-research" data-source="summary" data-field="research_done">—</b> chai và <b data-draw="s-cards" data-source="summary" data-field="cards_done">—</b> card đầy đủ. Gin sẵn sàng để duyệt sau khoảng <b data-draw="s-gin" data-source="summary" data-field="gin_ready_days">—</b> ngày; toàn bộ bản tiếng Việt khoảng <b data-draw="s-vi" data-source="summary" data-field="vi_days">—</b> ngày.</p>
+    <p class="pg-upd">Cập nhật lúc <span data-draw="s-upd" data-source="summary" data-field="updated">—</span> (giờ Việt Nam)</p>
+  </header>
+
+  <div class="tiles">
+    <div class="tile">
+      <span class="tile-label">Giá tham khảo</span>
+      <span class="tile-num" data-draw="t-price" data-source="summary" data-field="priced_pct">—</span>
+      <div class="tile-bar"><span data-draw="tb-price" data-source="summary" data-field="priced_pct"></span></div>
+      <span class="tile-sub">chai có giá trên tổng số chai</span>
+    </div>
+    <div class="tile">
+      <span class="tile-label">Database nghiên cứu</span>
+      <span class="tile-num" data-draw="t-research" data-source="summary" data-field="research_pct">—</span>
+      <div class="tile-bar"><span data-draw="tb-research" data-source="summary" data-field="research_pct"></span></div>
+      <span class="tile-sub">chai đã có hồ sơ (ABV, botanicals, lịch sử, nguồn)</span>
+    </div>
+    <div class="tile">
+      <span class="tile-label">Card đầy đủ (tiếng Việt)</span>
+      <span class="tile-num" data-draw="t-cards" data-source="summary" data-field="cards_pct">—</span>
+      <div class="tile-bar"><span data-draw="tb-cards" data-source="summary" data-field="cards_pct"></span></div>
+      <span class="tile-sub">card đủ 5 mục theo card mẫu</span>
+    </div>
+    <div class="tile">
+      <span class="tile-label">Ước tính xong bản tiếng Việt</span>
+      <span class="tile-num"><span data-draw="t-vi" data-source="summary" data-field="vi_days">—</span> ngày</span>
+      <span class="tile-sub"><span data-draw="t-viw" data-source="summary" data-field="vi_windows">—</span> lượt sử dụng · thêm bản tiếng Anh: <span data-draw="t-all" data-source="summary" data-field="all_days">—</span> ngày</span>
+    </div>
+  </div>
+
+  <section class="sec" id="spirit-card">
+    <h2 class="sec-h">Spirit Card</h2>
+    <p class="sec-note">Thứ tự làm: gin → tequila → rum → vodka → brandy → whisky. Mỗi loại đi qua 6 bước; thời gian ghi ở từng bước là phần còn lại của bước đó.</p>
+    <div class="grid" data-draw="spirits" data-source="items"></div>
+  </section>
+
+  <section class="sec" id="fun-fact">
+    <h2 class="sec-h">Fun Fact</h2>
+    <div class="card"><div class="tbl-wrap" data-draw="cat-funfact" data-source="items"></div></div>
+  </section>
+
+  <section class="sec" id="workshop">
+    <h2 class="sec-h">Workshop around Saigon</h2>
+    <div class="card"><div class="tbl-wrap" data-draw="cat-workshop" data-source="items"></div></div>
+  </section>
+
+  <section class="sec" id="cocktail">
+    <h2 class="sec-h">Cocktail · Technique · Glassware</h2>
+    <p class="sec-note">Làm sau khi ra mắt. Đã có schema dữ liệu, chưa có trang.</p>
+    <div class="card"><div class="tbl-wrap" data-draw="cat-cocktail" data-source="items"></div></div>
+  </section>
+
+  <section class="sec" id="website">
+    <h2 class="sec-h">Website</h2>
+    <div class="card"><div class="tbl-wrap" data-draw="cat-web" data-source="items"></div></div>
+  </section>
+
+  <section class="how" id="cach-tinh">
+    <h2 class="sec-h">Cách tính thời gian</h2>
+    <p>Một <b>lượt sử dụng</b> là khoảng 5 giờ làm việc, giới hạn khoảng 200 lượt tìm kiếm trên web. Tốc độ mỗi lượt: tra giá khoảng 110 chai, hồ sơ nghiên cứu khoảng 180 chai (đo từ các đợt đã chạy), card tiếng Việt khoảng 100 card và bản tiếng Anh khoảng 150 card (ước tính, sẽ đo lại sau đợt đầu).</p>
+    <p>Số ngày giả định dùng được <span data-draw="s-wpd" data-source="summary" data-field="windows_per_day">—</span> lượt mỗi ngày (nhắn "tiếp tục" ngay khi giới hạn mở lại). Chưa tính thời gian Phúc duyệt.</p>
+  </section>
+</div>
+
+<script>
+  const pct = d3.format('.0%');
+  const num = d3.format(',');
+  const sum = () => { const s = dash.data('summary'); return s.status === 'ok' && s.data[0] ? s.data[0] : null; };
+  const textDraw = (name, field, fmt) => dash.draw(name, (el) => {
+    const r = sum();
+    el.textContent = r && r[field] != null ? fmt(r[field]) : '—';
+  });
+  textDraw('s-priced', 'priced', num);
+  textDraw('s-bottles', 'bottles', num);
+  textDraw('s-research', 'research_done', num);
+  textDraw('s-cards', 'cards_done', num);
+  textDraw('s-gin', 'gin_ready_days', (v) => v.toLocaleString('vi-VN'));
+  textDraw('s-vi', 'vi_days', (v) => v.toLocaleString('vi-VN'));
+  textDraw('s-upd', 'updated', (v) => v);
+  textDraw('s-wpd', 'windows_per_day', num);
+  textDraw('t-price', 'priced_pct', pct);
+  textDraw('t-research', 'research_pct', pct);
+  textDraw('t-cards', 'cards_pct', (v) => (v > 0 && v < 0.01 ? '<1%' : pct(v)));
+  textDraw('t-vi', 'vi_days', (v) => v.toLocaleString('vi-VN'));
+  textDraw('t-viw', 'vi_windows', num);
+  textDraw('t-all', 'all_days', (v) => v.toLocaleString('vi-VN'));
+  [['tb-price', 'priced_pct', 0], ['tb-research', 'research_pct', 1], ['tb-cards', 'cards_pct', 2]].forEach(([name, field, i]) =>
+    dash.draw(name, (el) => {
+      const r = sum();
+      el.style.width = r ? `${Math.max(r[field] * 100, r[field] > 0 ? 1.5 : 0)}%` : '0%';
+      el.style.background = dash.colors[i];
+    })
+  );
+
+  // ----- Bảng tiến độ -----
+  const pillClass = (s) => (/^Xong/.test(s) ? 'ok' : /Đang/.test(s) ? 'go' : 'wait');
+  const etaText = (r) => (r.eta_windows == null ? '' : r.eta_windows === 0 ? '' : `${num(r.eta_windows)} lượt · ~${r.eta_days.toLocaleString('vi-VN')} ngày`);
+  const COLS = [
+    ['item', 'Hạng mục', ''],
+    ['done', 'Đã xong', 'num'],
+    ['total', 'Tổng', 'num hide-sm'],
+    ['pct', 'Tiến độ', 'bar'],
+    ['eta_windows', 'Còn lại (ước tính)', 'num'],
+    ['status', 'Trạng thái', ''],
+    ['note', 'Ghi chú', 'col-note'],
+  ];
+  function buildTable(holder, rows, color, cols = COLS) {
+    const table = document.createElement('table');
+    table.className = 'pt';
+    table.setAttribute('data-source', 'items');
+    table.setAttribute('data-row-key', 'id');
+    const thead = table.createTHead().insertRow();
+    cols.forEach(([f, label, cls]) => {
+      const th = document.createElement('th');
+      th.textContent = label;
+      th.setAttribute('data-field', f);
+      if (cls) th.className = cls;
+      thead.appendChild(th);
+    });
+    const tb = table.createTBody();
+    rows.forEach((r) => {
+      const tr = tb.insertRow();
+      tr.setAttribute('data-key', r.id);
+      cols.forEach(([f, , cls]) => {
+        const td = tr.insertCell();
+        if (cls) td.className = cls;
+        if (f === 'pct') {
+          const wrap = document.createElement('div'); wrap.className = 'bar-row';
+          const track = document.createElement('div'); track.className = 'bar-track';
+          const fill = document.createElement('div'); fill.className = 'bar-fill';
+          fill.style.width = `${Math.max(r.pct * 100, r.pct > 0 ? 2 : 0)}%`;
+          fill.style.background = color;
+          track.appendChild(fill);
+          const t = document.createElement('span'); t.className = 'bar-pct';
+          t.textContent = r.pct > 0 && r.pct < 0.01 ? '<1%' : pct(r.pct);
+          wrap.append(track, t); td.appendChild(wrap);
+        } else if (f === 'status') {
+          const p = document.createElement('span'); p.className = `pill ${pillClass(r.status)}`; p.textContent = r.status; td.appendChild(p);
+        } else if (f === 'eta_windows') {
+          td.textContent = etaText(r);
+        } else if (f === 'done' || f === 'total') {
+          td.textContent = num(r[f]);
+        } else if (f === 'note') {
+          td.textContent = r.note || ''; td.classList.add('note');
+        } else {
+          td.textContent = r[f];
+        }
+      });
+    });
+    holder.replaceChildren(table);
+  }
+  const items = () => { const d = dash.data('items'); return d.status === 'ok' ? d.data : null; };
+
+  dash.draw('spirits', (el) => {
+    const rows = items();
+    if (!rows) { el.replaceChildren(); return; }
+    const sc = rows.filter((r) => r.category === 'Spirit Card').sort((a, b) => a.order - b.order);
+    const sections = [...new Set(sc.map((r) => r.section))];
+    el.replaceChildren(...sections.map((s, i) => {
+      const rs = sc.filter((r) => r.section === s);
+      const card = document.createElement('div'); card.className = 'card'; card.id = `loai-${i}`;
+      const h = document.createElement('h3'); h.className = 'card-h';
+      const name = document.createElement('span'); name.textContent = s;
+      const w = rs.filter((r) => /^[2-5]\./.test(r.item)).reduce((a, r) => a + (r.eta_windows || 0), 0);
+      const eta = document.createElement('span'); eta.className = 'card-eta';
+      eta.textContent = w ? `còn khoảng ${num(w)} lượt · ~${(Math.round((w / (sum()?.windows_per_day || 3)) * 10) / 10).toLocaleString('vi-VN')} ngày` : '';
+      h.append(name, eta);
+      const tw = document.createElement('div'); tw.className = 'tbl-wrap';
+      buildTable(tw, rs, dash.colors[i % dash.colors.length], COLS.filter(([f]) => f !== 'note'));
+      card.append(h, tw);
+      return card;
+    }));
+  });
+
+  [['cat-funfact', 'Fun Fact', 3], ['cat-workshop', 'Workshop', 4], ['cat-cocktail', 'Cocktail · Technique · Glassware', 5], ['cat-web', 'Website', 6]].forEach(([name, cat, ci]) =>
+    dash.draw(name, (el) => {
+      const rows = items();
+      if (!rows) { el.replaceChildren(); return; }
+      const rs = rows.filter((r) => r.category === cat).sort((a, b) => a.order - b.order);
+      let cols = cat === 'Fun Fact' ? COLS : COLS.filter(([f]) => !['total', 'eta_windows'].includes(f));
+      if (cat === 'Cocktail · Technique · Glassware') cols = [['section', 'Phân mục', ''], ...cols];
+      buildTable(el, rs, dash.colors[ci % dash.colors.length], cols);
+    })
+  );
+</script>

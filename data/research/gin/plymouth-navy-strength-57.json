@@ -1,0 +1,52 @@
+{
+  "name": "Plymouth Navy Strength 57%",
+  "slug": "plymouth-navy-strength-57",
+  "official_name": "Plymouth Gin Navy Strength",
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Plymouth, Devon, England",
+  "distillery": "Black Friars Distillery",
+  "owner": "Pernod Ricard",
+  "year_launched": 1993,
+  "botanicals": [
+    "Juniper",
+    "Coriander",
+    "Cardamom",
+    "Lemon",
+    "Orange",
+    "Orris",
+    "Angelica"
+  ],
+  "botanical_count": 7,
+  "production": [
+    "Same seven botanicals as Plymouth Original, bottled at 57%",
+    "Distilled in a single Victorian-era copper pot (Plymouth brand-wide)"
+  ],
+  "history": [
+    "1793 | Gin production begins at Black Friars Distillery",
+    "1993 | Navy Strength launched for the distillery's 200th anniversary",
+    "2008 | Pernod Ricard acquires Plymouth Gin via V&S Group"
+  ],
+  "nose": [
+    "Heady aroma of seven botanicals"
+  ],
+  "palate": [
+    "Citrus and juniper 'zing'"
+  ],
+  "finish": [
+    "Balanced by green cardamom and sweet orange"
+  ],
+  "expressions": [
+    "Plymouth Gin Original Strength | 41.2%",
+    "Plymouth Sloe Gin | 26%"
+  ],
+  "serve_official": "Big drinks such as a Negroni",
+  "notes": "Brand story: high proof needed because gin was stored next to gunpowder below deck. Botanical list and history from owner page (The Absolut Group).",
+  "sources": [
+    "https://www.plymouthgin.com/en/product/plymouth-gin-navy-strength/",
+    "https://theabsolutgroup.com/brands/gin/plymouth-gin"
+  ],
+  "confidence": "high"
+}

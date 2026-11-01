@@ -1,0 +1,46 @@
+{
+  "name": "Burnett's Gin",
+  "slug": "burnetts-gin",
+  "official_name": "Burnett's London Dry Gin",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": 750,
+  "base_ingredient": "Ngũ cốc (100% grain neutral spirit)",
+  "region": "Bardstown, Kentucky, USA",
+  "distillery": "Heaven Hill Distillery",
+  "owner": "Heaven Hill Brands",
+  "year_launched": null,
+  "botanicals": [],
+  "botanical_count": null,
+  "production": [
+    "Quadruple distilled",
+    "Botanicals distilled into the spirit",
+    "Triple charcoal filtered"
+  ],
+  "history": [
+    "1935 | Heaven Hill founded in Bardstown, Kentucky"
+  ],
+  "nose": [
+    "Assertive juniper",
+    "Angelica-like musk",
+    "Light citrus peel",
+    "Cassia bark"
+  ],
+  "palate": [
+    "Spice-forward, oily",
+    "Floral mid-palate",
+    "Clove, honey-like sweetness, lemon zest"
+  ],
+  "finish": [
+    "Moderately long",
+    "Pine needle",
+    "Maple-like sweetness, anise"
+  ],
+  "expressions": [],
+  "serve_official": null,
+  "notes": "Retailer source only; tasting notes are retailer's. Also sold in 1L and 1.75L. Backlog year 1770 not confirmed [cần kiểm tra].",
+  "sources": [
+    "https://theliquorbarn.com/collections/burnett-s/products/burnetts-gin-750ml"
+  ],
+  "confidence": "medium"
+}

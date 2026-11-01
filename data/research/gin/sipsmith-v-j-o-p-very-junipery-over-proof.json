@@ -1,0 +1,49 @@
+{
+  "name": "Sipsmith V.J.O.P (Very Junipery Over Proof)",
+  "slug": "sipsmith-v-j-o-p-very-junipery-over-proof",
+  "official_name": "Sipsmith V.J.O.P. Gin",
+  "abv": 57.7,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Chiswick, London, England",
+  "distillery": "Sipsmith",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Double the juniper of Sipsmith London Dry",
+    "Three-part juniper infusion process including a three-day maceration",
+    "Hand-crafted"
+  ],
+  "history": [],
+  "nose": [
+    "Juniper, pine, cedarwood",
+    "Hint of orange zest"
+  ],
+  "palate": [
+    "Strong juniper up front",
+    "Rich spice",
+    "Dark chocolate"
+  ],
+  "finish": [
+    "Long and dry",
+    "Juniper prominent"
+  ],
+  "expressions": [
+    "Sipsmith London Dry Gin",
+    "Sipsmith Sloe Gin",
+    "Sipsmith London Cup",
+    "Sipsmith Lemon Drizzle Gin",
+    "Sipsmith Zesty Orange Gin"
+  ],
+  "serve_official": "G&T with Mediterranean tonic; or Martini, Aviation, Very Junipery Julep",
+  "notes": "Other botanicals not listed on official page. Site references Beam Suntory but owner not explicit. Launch year not stated.",
+  "sources": [
+    "https://sipsmith.com/product/v-j-o-p/"
+  ],
+  "confidence": "high"
+}

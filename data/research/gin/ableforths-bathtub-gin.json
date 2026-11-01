@@ -1,0 +1,40 @@
+{
+  "name": "Ableforth's Bathtub Gin",
+  "slug": "ableforths-bathtub-gin",
+  "official_name": "Ableforth's Bathtub Gin",
+  "abv": 40.3,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "United Kingdom",
+  "distillery": null,
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Orange peel",
+    "Cinnamon"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Freshly distilled gin infused with delicate botanicals unsuited to distillation (compound/infused)"
+  ],
+  "history": [],
+  "nose": [],
+  "palate": [
+    "Spicy and distinctive",
+    "Orange peel and cinnamon",
+    "Pungent juniper"
+  ],
+  "finish": [],
+  "expressions": [
+    "Ableforth's Bathtub Navy Strength Gin",
+    "Ableforth's Bathtub Sloe Gin"
+  ],
+  "serve_official": null,
+  "notes": "Only retailer source. Search snippets show 43.3% at some retailers vs Amathus 40.3% [cần kiểm tra]. Producer/owner (Atom Supplies) not confirmed on fetched page.",
+  "sources": [
+    "https://www.amathusdrinks.com/ableforth-s-bathtub-gin"
+  ],
+  "confidence": "low"
+}

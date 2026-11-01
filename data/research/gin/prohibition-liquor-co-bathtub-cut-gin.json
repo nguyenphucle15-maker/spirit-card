@@ -1,0 +1,39 @@
+{
+  "name": "Prohibition Liquor Co Bathtub Cut Gin",
+  "slug": "prohibition-liquor-co-bathtub-cut-gin",
+  "official_name": "Prohibition Bathtub Cut Gin",
+  "abv": 69,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Adelaide, South Australia",
+  "distillery": "Prohibition Liquor Co.",
+  "owner": "Prohibition Liquor Co. (founders Wes Heddles and Adam Carpenter)",
+  "year_launched": 2016,
+  "botanicals": [
+    "Cassia bark",
+    "Star anise",
+    "Wormwood",
+    "Vanilla",
+    "Lavender",
+    "Grapefruit",
+    "Orange"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Small batch; overproof"
+  ],
+  "history": [
+    "2016 | Debuted at Indie Tasting Sydney (18 September) as Australia's highest-ABV overproof gin"
+  ],
+  "nose": [],
+  "palate": [],
+  "finish": [],
+  "expressions": [],
+  "serve_official": null,
+  "notes": "Gold, Melbourne International Spirits Competition. Backlog year 2015 vs source 2016 [cần kiểm tra]. Search results show 500ml retail bottle (not fetched).",
+  "sources": [
+    "https://australianbartender.com.au/2016/09/06/highest-australian-overproof-gin-debuts-indie-tasting-sydney/"
+  ],
+  "confidence": "medium"
+}

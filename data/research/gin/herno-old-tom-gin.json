@@ -1,0 +1,57 @@
+{
+  "name": "Herno Old Tom Gin",
+  "slug": "herno-old-tom-gin",
+  "official_name": "Hernö Old Tom Gin",
+  "abv": 43.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Same distilled gin as Hernö Dry Gin",
+  "region": "Dala, Härnösand, High Coast, Sweden",
+  "distillery": "Hernö Gin",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Coriander",
+    "Juniper",
+    "Meadowsweet",
+    "Black pepper",
+    "Cassia bark",
+    "Dried lemon peel",
+    "Lingonberry",
+    "Fresh vanilla"
+  ],
+  "botanical_count": 8,
+  "production": [
+    "Extra meadowsweet added during distillation and after dilution to 43%",
+    "Touch of sugar added"
+  ],
+  "history": [
+    "2011 | Hernö Gin established by Jon Hillgren, Sweden's first gin distillery"
+  ],
+  "nose": [
+    "Full-bodied",
+    "Bright, juicy juniper",
+    "Floral"
+  ],
+  "palate": [
+    "Floral sweetness",
+    "Long-lasting juniper"
+  ],
+  "finish": [
+    "Very smooth, light sweetness",
+    "Green, crisp juniper",
+    "Pine flowers"
+  ],
+  "expressions": [
+    "Hernö Dry Gin | 40.5%",
+    "Hernö Navy Strength Gin | 57%",
+    "Hernö Juniper Cask Gin",
+    "Hernö Slow Sloe Gin | 2021 limited"
+  ],
+  "serve_official": "Rhubarb Collins",
+  "notes": "Launch year not stated (backlog 2013 unconfirmed).",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/herno-old-tom-gin/"
+  ],
+  "confidence": "medium"
+}

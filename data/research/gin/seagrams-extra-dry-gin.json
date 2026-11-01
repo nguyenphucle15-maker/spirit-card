@@ -1,0 +1,57 @@
+{
+  "name": "Seagram's Extra Dry Gin",
+  "slug": "seagrams-extra-dry-gin",
+  "official_name": "Seagram's Extra Dry Gin",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": "Ngũ cốc (American grain neutral spirit)",
+  "region": "Lawrenceburg, Indiana, USA",
+  "distillery": "MGP Lawrenceburg Distillers Indiana",
+  "owner": "Pernod Ricard (per Difford's and Cocktail Society) [cần kiểm tra]",
+  "year_launched": 1939,
+  "botanicals": [
+    "Juniper",
+    "Sri Lankan cardamom",
+    "Vietnamese cassia",
+    "Spanish orange peel (sweet and bitter)",
+    "Czech coriander",
+    "Angelica"
+  ],
+  "botanical_count": 6,
+  "production": [
+    "Low-temperature vacuum distillation",
+    "Mellowed several weeks in charred white oak ex-whiskey barrels (very short since early 2000s)",
+    "Some botanicals used as essences"
+  ],
+  "history": [
+    "1847 | Lawrenceburg, Indiana distillery built",
+    "1883 | Seagram established in Canada",
+    "1933 | Distillery acquired and reopened by Seagram after Prohibition",
+    "1939 | Seagram's Gin introduced to the US market"
+  ],
+  "nose": [
+    "Candied citrus",
+    "Juniper",
+    "Angelica"
+  ],
+  "palate": [
+    "Slightly sweet, sherbet-like",
+    "Prickly spice",
+    "Floral; candied orange"
+  ],
+  "finish": [
+    "Long, dry and spicy"
+  ],
+  "expressions": [
+    "Seagram's Distiller's Reserve | 47%",
+    "Seagram's Twisted flavoured gins | 35%: watermelon, peach, red berry, pineapple, lime, melon, apple, grape"
+  ],
+  "serve_official": null,
+  "notes": "Leading gin brand in North America (Difford's). Backlog owner Sazerac conflicts with both sources naming Pernod Ricard – sources may be outdated [cần kiểm tra]. Bottle size 700ml is Difford's listing; US standard is 750ml.",
+  "sources": [
+    "https://www.diffordsguide.com/en-au/beer-wine-spirits/1466/seagrams-extra-dry",
+    "https://cocktail-society.com/spirits/seagrams-extra-dry-gin/"
+  ],
+  "confidence": "medium"
+}

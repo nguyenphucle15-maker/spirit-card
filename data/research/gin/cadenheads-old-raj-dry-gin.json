@@ -1,0 +1,55 @@
+{
+  "name": "Cadenhead's Old Raj Dry Gin",
+  "slug": "cadenheads-old-raj-dry-gin",
+  "official_name": "Cadenhead's Old Raj Gin",
+  "abv": 55.0,
+  "abv_by_market": [
+    "55% | stronger bottling",
+    "46% | lower-strength bottling"
+  ],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Campbeltown, Scotland (reduction and bottling)",
+  "distillery": null,
+  "owner": "Wm Cadenhead (independent bottler)",
+  "year_launched": 1972,
+  "botanicals": [
+    "Juniper",
+    "Coriander",
+    "Seville orange peel",
+    "Liquorice",
+    "Angelica root",
+    "Orris",
+    "Cinnamon",
+    "Cassia",
+    "Nutmeg",
+    "Saffron (post-distillation)"
+  ],
+  "botanical_count": 10,
+  "production": [
+    "Distilled by an unnamed producer to Cadenhead's recipe",
+    "Shipped to Campbeltown, reduced in strength and saffron added, then bottled"
+  ],
+  "history": [
+    "1972 | Cadenhead's starts offering Old Raj"
+  ],
+  "nose": [
+    "46%: more expressive",
+    "55%: more closed"
+  ],
+  "palate": [
+    "Juniper-led, traditional",
+    "55%: bigger taste, creamier, more pronounced saffron"
+  ],
+  "finish": [],
+  "expressions": [
+    "Old Raj 46%",
+    "Old Raj 55%"
+  ],
+  "serve_official": "G&T with a slice of lime; Negroni (equal parts, orange twist)",
+  "notes": "Saffron gives the pale yellow tint. 46% and 55% are otherwise identical (46% has more water).",
+  "sources": [
+    "https://cadenhead.scot/?p=1732"
+  ],
+  "confidence": "high"
+}

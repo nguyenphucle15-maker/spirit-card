@@ -1,0 +1,49 @@
+{
+  "name": "Leopold's Navy Strength Gin",
+  "slug": "leopolds-navy-strength-gin",
+  "official_name": "Leopold's Navy Strength American Gin",
+  "abv": 57.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "USA",
+  "distillery": "Leopold Bros",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Orris root",
+    "Cardamom",
+    "Coriander",
+    "Bergamot",
+    "Valencia orange (hand-zested)",
+    "Pummelo"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Each botanical distilled separately, then blended"
+  ],
+  "history": [],
+  "nose": [
+    "Parma violet, orris root",
+    "Eucalyptus, fresh coriander",
+    "Citrus zest, faint white pepper"
+  ],
+  "palate": [
+    "Floral parma violet",
+    "Peppery bite, zesty orange",
+    "Earthy orris; juniper subdued"
+  ],
+  "finish": [
+    "Liquorice, parma violet",
+    "Orange zest, black pepper",
+    "Orris and coriander"
+  ],
+  "expressions": [],
+  "serve_official": null,
+  "notes": "Difford's says six botanicals but lists seven [cần kiểm tra]. Tasted batch 1307 (2014).",
+  "sources": [
+    "https://www.diffordsguide.com/beer-wine-spirits/4650/leopolds-navy-strength-gin"
+  ],
+  "confidence": "medium"
+}

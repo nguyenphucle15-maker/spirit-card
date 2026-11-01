@@ -1,0 +1,51 @@
+{
+  "name": "Citadelle No Mistake Old Tom",
+  "slug": "citadelle-no-mistake-old-tom",
+  "official_name": "Citadelle Old Tom No Mistake",
+  "abv": 46.0,
+  "abv_by_market": [],
+  "volume_ml": 500,
+  "base_ingredient": "French whole wheat alcohol",
+  "region": "France",
+  "distillery": null,
+  "owner": "Maison Pierre Ferrand",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Iris root",
+    "Almond",
+    "Fennel",
+    "Star anise",
+    "Lemon peel",
+    "Orange peel",
+    "Cardamom",
+    "Violet",
+    "Sichuan pepper"
+  ],
+  "botanical_count": 19,
+  "production": [
+    "Small Charentais copper pot stills",
+    "Patented 'progressive infusion' by master distiller Alexandre Gabriel"
+  ],
+  "history": [
+    "2023 | Silver medal, Concours Général Agricole de Paris"
+  ],
+  "nose": [
+    "Citrus",
+    "Fresh flowers",
+    "Herbaceous juniper, anise"
+  ],
+  "palate": [
+    "Pure and fresh"
+  ],
+  "finish": [
+    "Hint of cinnamon and pepper"
+  ],
+  "expressions": [],
+  "serve_official": "With tonic as an aperitif, or with oysters (retailer)",
+  "notes": "Retailer text says 'no added sugar', which is unusual for an Old Tom and may be copied from the core Citadelle gin description; botanical list may also be the core Citadelle recipe [cần kiểm tra on citadellegin.com].",
+  "sources": [
+    "https://shop.cognatheque.com/en/cognac-pierre-ferrand/2606-gin-from-france-citadelle-old-tom-no-mistake-house-pierre-ferrand.html"
+  ],
+  "confidence": "low"
+}

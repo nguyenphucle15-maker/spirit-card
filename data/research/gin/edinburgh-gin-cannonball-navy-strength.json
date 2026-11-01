@@ -1,0 +1,60 @@
+{
+  "name": "Edinburgh Gin Cannonball Navy Strength",
+  "slug": "edinburgh-gin-cannonball-navy-strength",
+  "official_name": "Edinburgh Cannonball Gin",
+  "abv": 57.2,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Grain",
+  "region": "Edinburgh, Scotland",
+  "distillery": "Edinburgh Gin Distillery (The Arches, Old Town)",
+  "owner": "Ian Macleod Distillers",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Angelica root",
+    "Cardamom",
+    "Cassia bark",
+    "Coriander",
+    "Cubeb",
+    "Fennel",
+    "Liquorice",
+    "Sweet orange",
+    "Orris",
+    "Szechuan pepper",
+    "Yuzu",
+    "Long pepper"
+  ],
+  "botanical_count": 13,
+  "production": [
+    "First speciality gin made at the Edinburgh Gin Distillery"
+  ],
+  "history": [
+    "2010 | Edinburgh Gin launched by Alex and Jane Nicol"
+  ],
+  "nose": [
+    "Big juniper",
+    "Background spice"
+  ],
+  "palate": [
+    "Powerful, peppery",
+    "Intense juniper, citrus, Szechuan pepper"
+  ],
+  "finish": [
+    "Very long",
+    "Lingering spice"
+  ],
+  "expressions": [
+    "Edinburgh Gin Classic Dry",
+    "Edinburgh Gin Seaside",
+    "Edinburgh Gin Old Tom",
+    "Edinburgh Gin Rhubarb & Ginger Gin",
+    "Edinburgh Gin Elderflower / Raspberry Liqueur"
+  ],
+  "serve_official": "Dry Martini: 50 ml Cannonball, 5 ml dry vermouth, 2-3 dashes orange bitters, lemon peel; or classic tonic with lemon peel",
+  "notes": "Gin Guild description says 57%, data panel says 57.2%. Owner link points to Ian Macleod Distillers.",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/cannonball-gin/"
+  ],
+  "confidence": "medium"
+}

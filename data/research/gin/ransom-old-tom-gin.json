@@ -1,0 +1,37 @@
+{
+  "name": "Ransom Old Tom Gin",
+  "slug": "ransom-old-tom-gin",
+  "official_name": null,
+  "abv": 44.0,
+  "abv_by_market": [],
+  "volume_ml": 750,
+  "base_ingredient": "Malted grain mash plus botanicals infused in neutral spirit",
+  "region": "USA",
+  "distillery": null,
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [],
+  "botanical_count": null,
+  "production": [
+    "Malted grain mash and botanical infusions each distilled once separately",
+    "Married for a second distillation",
+    "Barrel aged (duration not stated)"
+  ],
+  "history": [],
+  "nose": [
+    "Malty sweetness",
+    "Layered botanicals"
+  ],
+  "palate": [
+    "Malty sweetness",
+    "Nuanced botanicals"
+  ],
+  "finish": [],
+  "expressions": [],
+  "serve_official": "Martinez; or sipped on its own (retailer)",
+  "notes": "Retailer source only; producer/region (Ransom Spirits, Oregon) not stated on fetched page. Botanicals not named.",
+  "sources": [
+    "https://astorwines.com/item/22481"
+  ],
+  "confidence": "low"
+}

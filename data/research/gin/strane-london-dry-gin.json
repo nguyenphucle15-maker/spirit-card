@@ -1,0 +1,51 @@
+{
+  "name": "Strane London Dry Gin",
+  "slug": "strane-london-dry-gin",
+  "official_name": "Strane London Dry Gin (Merchant Strength)",
+  "abv": 47.4,
+  "abv_by_market": [
+    "47.4% | Merchant Strength (entry-level)"
+  ],
+  "volume_ml": 500,
+  "base_ingredient": null,
+  "region": "Smögen, west coast of Sweden",
+  "distillery": "Smögen Whisky",
+  "owner": null,
+  "year_launched": 2014,
+  "botanicals": [
+    "Juniper",
+    "Coriander seed"
+  ],
+  "botanical_count": 12,
+  "production": [
+    "Tiny 100-litre copper pot still, very small batches",
+    "Three styles (juniper-led, citrus, herbal) distilled in 45-litre batches then blended",
+    "Whisky-style approach"
+  ],
+  "history": [
+    "2010 | Smögen Whisky began producing malt whisky",
+    "2014 | Strane launched (spring)"
+  ],
+  "nose": [
+    "Juniper",
+    "Coriander seed",
+    "Herbal, hint of mint"
+  ],
+  "palate": [
+    "Juniper",
+    "Coriander seed",
+    "Herbal"
+  ],
+  "finish": [],
+  "expressions": [
+    "Strane Navy Strength",
+    "Strane Uncut Strength"
+  ],
+  "serve_official": null,
+  "notes": "Only 2 of 12 botanicals named. Sibling names from search result titles; their ABVs not fetched.",
+  "sources": [
+    "https://strane.se/?page_id=8",
+    "https://www.drinkfinder.co.uk/products/strane-london-dry-gin-merchants-strength-50cl"
+  ],
+  "confidence": "high"
+}

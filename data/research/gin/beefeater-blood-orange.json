@@ -1,0 +1,50 @@
+{
+  "name": "Beefeater Blood Orange",
+  "slug": "beefeater-blood-orange",
+  "official_name": "Beefeater Blood Orange Gin",
+  "abv": 37.5,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Cereal and botanical distillate with water, plus sugar",
+  "region": "Kennington, London, England",
+  "distillery": "Beefeater Distillery, Kennington",
+  "owner": "Pernod Ricard",
+  "year_launched": 2019,
+  "botanicals": [
+    "Juniper",
+    "Lemon peel",
+    "Seville orange peel",
+    "Almond",
+    "Angelica root",
+    "Angelica seed",
+    "Coriander seed",
+    "Orris root",
+    "Liquorice root",
+    "Natural blood orange flavour"
+  ],
+  "botanical_count": 9,
+  "production": [
+    "Beefeater gin with natural blood orange and orange flavourings; contains sugar"
+  ],
+  "history": [
+    "1876 | James Burrough hand-selected oranges from Covent Garden for an orange-flavoured gin",
+    "2019 | Blood Orange created, 143 years after the 1876 recipe (approx.)"
+  ],
+  "nose": [],
+  "palate": [
+    "Fresh blood orange citrus",
+    "Juniper and citrus of Beefeater"
+  ],
+  "finish": [],
+  "expressions": [
+    "Beefeater London Dry Gin",
+    "Beefeater Blackberry",
+    "Beefeater Peach & Raspberry"
+  ],
+  "serve_official": "Over ice or with tonic or lemonade; blood orange wheel and a sprig of basil",
+  "notes": "Only official page used.",
+  "sources": [
+    "https://beefeatergin.com/en/our-gins/beefeater-blood-orange"
+  ],
+  "confidence": "high"
+}

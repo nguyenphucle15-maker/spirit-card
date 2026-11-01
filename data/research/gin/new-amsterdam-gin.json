@@ -1,0 +1,55 @@
+{
+  "name": "New Amsterdam Gin",
+  "slug": "new-amsterdam-gin",
+  "official_name": "New Amsterdam Gin (later rebranded Stratusphere)",
+  "abv": 40,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Ngũ cốc",
+  "region": "California, USA",
+  "distillery": "E&J Distillers (E&J Gallo)",
+  "owner": "E&J Gallo Winery",
+  "year_launched": 2008,
+  "botanicals": [
+    "Orange",
+    "Lime",
+    "Vanilla",
+    "Juniper (subtle)",
+    "Anise"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Grain-based, distilled five times",
+    "Citrus-forward 'New Western' style; botanicals emphasise citrus over juniper"
+  ],
+  "history": [
+    "2008 | Gin debuted",
+    "2011 | New Amsterdam vodka followed",
+    "Later | Rebranded as Stratusphere (Original and London Dry)"
+  ],
+  "nose": [
+    "Bright citrus peel",
+    "Grapefruit-like sweetness",
+    "Light juniper, herbal"
+  ],
+  "palate": [
+    "Sweet orange and lime",
+    "Gentle juniper, coriander",
+    "Soft warming spice, light body"
+  ],
+  "finish": [
+    "Clean, crisp",
+    "Faint floral, dry citrus"
+  ],
+  "expressions": [
+    "Stratusphere Original",
+    "Stratusphere London Dry | slightly higher ABV"
+  ],
+  "serve_official": null,
+  "notes": "Backlog year 2011 vs VinePair 2008 (2011 was the vodka) [cần kiểm tra]. Tasting notes from retailer (Liquor Barn).",
+  "sources": [
+    "https://vinepair.com/articles/new-amsterdam-guide/",
+    "https://theliquorbarn.com/collections/gin/products/new-amsterdam-gin-1-75l"
+  ],
+  "confidence": "medium"
+}

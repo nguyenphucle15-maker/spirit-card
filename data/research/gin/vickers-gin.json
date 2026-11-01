@@ -1,0 +1,47 @@
+{
+  "name": "Vickers Gin",
+  "slug": "vickers-gin",
+  "official_name": "Vickers Gin",
+  "abv": 37,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Geelong, Victoria, Australia",
+  "distillery": "Licensed producer in Geelong (unnamed)",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Juniper"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Made under licence in Geelong to a recipe inspired by the London original"
+  ],
+  "history": [
+    "1930s | Imported from London",
+    "1940s | Licensed production in Geelong begins"
+  ],
+  "nose": [
+    "Dried juniper",
+    "Lemon peel",
+    "Pine needle",
+    "Caramel-like sweetness"
+  ],
+  "palate": [
+    "Sweeter, faintly fruity",
+    "Hint of marshmallow",
+    "Warm, spicy"
+  ],
+  "finish": [
+    "Peppery, citrus, pine needle"
+  ],
+  "expressions": [
+    "Vickers Pink Gin"
+  ],
+  "serve_official": null,
+  "notes": "Only one retailer source; tasting notes are a reviewer's (unfavourable). Owner not stated; backlog owner Beam Suntory Australia and year 1951 not confirmed [cần kiểm tra].",
+  "sources": [
+    "https://www.nicks.com.au/products/vickers-gin-700ml"
+  ],
+  "confidence": "low"
+}

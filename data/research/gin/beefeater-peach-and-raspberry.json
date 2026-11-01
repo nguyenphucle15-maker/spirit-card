@@ -1,0 +1,49 @@
+{
+  "name": "Beefeater Peach & Raspberry",
+  "slug": "beefeater-peach-and-raspberry",
+  "official_name": "Beefeater Peach & Raspberry",
+  "abv": 37.5,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": "Beefeater London Dry Gin recipe + natural peach and raspberry flavouring",
+  "region": "Kennington, London, England",
+  "distillery": "Beefeater Distillery, Kennington",
+  "owner": "Pernod Ricard",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper",
+    "Lemon peel",
+    "Orange peel",
+    "Almond",
+    "Angelica root",
+    "Angelica seed",
+    "Coriander seed",
+    "Orris root",
+    "Liquorice root",
+    "Natural peach and raspberry flavours"
+  ],
+  "botanical_count": 9,
+  "production": [
+    "Made in Beefeater's London copper still",
+    "Exclusively natural peach and raspberry flavours"
+  ],
+  "history": [],
+  "nose": [],
+  "palate": [
+    "Light, fresh peach",
+    "Raspberry tang"
+  ],
+  "finish": [],
+  "expressions": [
+    "Beefeater Blackberry",
+    "Beefeater Blood Orange",
+    "Beefeater Pink Strawberry"
+  ],
+  "serve_official": "Over ice, topped with tonic, slice of fresh peach",
+  "notes": "Launch year not stated on fetched pages; trade press in search results dates UK launch to early 2021 (not fetched) [cần kiểm tra].",
+  "sources": [
+    "https://www.beefeatergin.com/en/our-gins/beefeater-peach-raspberry",
+    "https://www.theginguild.com/ginopedia/gin-brands/beefeater-peach-and-raspberry-gin/"
+  ],
+  "confidence": "high"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Bordiga Occitan Gin",
+  "slug": "bordiga-occitan-gin",
+  "official_name": "Bordiga Gin Occitan",
+  "abv": 42,
+  "abv_by_market": [],
+  "volume_ml": 700,
+  "base_ingredient": null,
+  "region": "Cuneo, Piedmont, Italy (Valli Occitane)",
+  "distillery": "Distilleria Bordiga",
+  "owner": "Bordiga",
+  "year_launched": null,
+  "botanicals": [
+    "Juniper (hand-picked in the Valli Occitane)",
+    "Angelica root",
+    "Cardamom",
+    "Citrus",
+    "Mountain herbs and alpine flora"
+  ],
+  "botanical_count": null,
+  "production": [
+    "Botanicals, especially juniper, processed fresh",
+    "Carefully controlled distillation"
+  ],
+  "history": [],
+  "nose": [
+    "White flowers",
+    "Fresh citrus peel",
+    "Sweet spices",
+    "Medicinal and mountain herbs",
+    "Freshly picked juniper"
+  ],
+  "palate": [
+    "Fresh, round, harmonious",
+    "Warm, soft entry"
+  ],
+  "finish": [
+    "Long, balsamic"
+  ],
+  "expressions": [],
+  "serve_official": "16–18°C in a tall narrow gin goblet (retailer copy)",
+  "notes": "Distillery founded by Pietro Bordiga, a Turin bar owner at the end of the 19th century (no exact year given). Retailer sources only. Sold in 70cl (EU) and 1L (US). Backlog year 2014 not confirmed [cần kiểm tra].",
+  "sources": [
+    "https://www.callmewine.com/en/gin-occitan-bordiga-P34510.htm",
+    "https://dandm.com/bordiga-occitan-gin-italy.html"
+  ],
+  "confidence": "medium"
+}

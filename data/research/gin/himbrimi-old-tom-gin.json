@@ -1,0 +1,49 @@
+{
+  "name": "Himbrimi Old Tom Gin",
+  "slug": "himbrimi-old-tom-gin",
+  "official_name": null,
+  "abv": 40.0,
+  "abv_by_market": [],
+  "volume_ml": null,
+  "base_ingredient": null,
+  "region": "Reykjavík, Iceland",
+  "distillery": "Brunnur Distillery",
+  "owner": null,
+  "year_launched": null,
+  "botanicals": [
+    "Organic juniper",
+    "Wild Arctic thyme",
+    "Angelica flower",
+    "Mountain honey"
+  ],
+  "botanical_count": 4,
+  "production": [
+    "Recipe based on early-18th-century gin recipes"
+  ],
+  "history": [
+    "2013 | Óskar Ericsson makes a homemade gin as a fishing companion (origin of Himbrimi)"
+  ],
+  "nose": [
+    "Honey",
+    "Lavender",
+    "Earthy, like Icelandic highlands after rain"
+  ],
+  "palate": [
+    "Juniper first, then bright floral",
+    "Arctic thyme dominant",
+    "Honey and angelica flower sweetness; smooth, slightly bittersweet"
+  ],
+  "finish": [
+    "Very long and smooth",
+    "Lingering floral"
+  ],
+  "expressions": [
+    "Himbrimi Winterbird London Dry Gin"
+  ],
+  "serve_official": "Old Tom Negroni",
+  "notes": "Brunnur Distillery founded by Junio Carchini and Óskar Ericsson. BACKLOG MISMATCH: producer listed as Eimverk Distillery, but Gin Guild names Brunnur Distillery [cần kiểm tra]. Launch year not stated.",
+  "sources": [
+    "https://www.theginguild.com/ginopedia/gin-brands/himbrimi-old-tom-gin/"
+  ],
+  "confidence": "medium"
+}
